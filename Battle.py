@@ -6,11 +6,11 @@ Created on Wed Jan 15 15:36:59 2025
 """
 
 
-import Specie
-import Pokemon
-import Type
-import Move
-import Trainer
+from Specie import Specie
+from Pokemon import Pokemon
+from Type import Type
+from Move import Move
+from Trainer import Trainer
 
 type_effectiveness_fire = {
     "Water": 1/2,
@@ -33,7 +33,6 @@ type_effectiveness_grass = {
     "Normal":1
     }
 
-
 type_effectiveness_normal = {
     "Water": 1,
     "Fire": 1,
@@ -43,10 +42,10 @@ type_effectiveness_normal = {
 
 
 
-fire = Type("Fire", type_effectiveness_fire)
+fire = Type("Fire", type_effectiveness_fire) 
 water = Type("Water", type_effectiveness_water)
 grass = Type("Grass", type_effectiveness_grass)
-normal = Type("Normal", type_effectiveness_normal)
+normal = Type("Normal", type_effectiveness_normal) 
 
 
 
@@ -92,7 +91,7 @@ ratta_stats = {
     "Speed": 20
     }
 
-cyndaquil = Specie("Cyndaquil", fire, [ember, tacke], [])
+cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], [])
 cyndi = Pokemon("Cyndi", cyndaquil,[ember, tackle],cyndi_stats)
 
 chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], [])
@@ -115,11 +114,13 @@ team1 = {
 team2 = {
     "Chiko": chiko,
     "Ratta2": ratta2
-        
     }
 
 trainer1 = Trainer("Trainer_1", team1, [])
 trainer2 = Trainer("Trainer_2", team2, [])
+
+
+
 
 
 # def battle(pokemon1, pokemon2):
