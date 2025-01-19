@@ -15,19 +15,30 @@ from Move import *
 type_effectiveness_fire = {
     "Water": 1/2,
     "Fire": 1/2,
-    "Grass": 1/2
+    "Grass": 1/2,
+    "Normal": 1
     }
 
 type_effectiveness_water = {
     "Water": 1/2,
     "Fire": 2,
-    "Grass": 1/2
+    "Grass": 1/2,
+    "Normal": 1
     }
 
 type_effectiveness_grass = {
     "Water": 2,
     "Fire": 1/2,
-    "Grass":1/2
+    "Grass":1/2,
+    "Normal":1
+    }
+
+
+type_effectiveness_normal = {
+    "Water": 1,
+    "Fire": 1,
+    "Grass":1,
+    "Normal":1
     }
 
 
@@ -35,12 +46,14 @@ type_effectiveness_grass = {
 fire = Type("Fire", type_effectiveness_fire)
 water = Type("Water", type_effectiveness_water)
 grass = Type("Grass", type_effectiveness_grass)
+normal = Type("Normal", type_effectiveness_normal)
 
 
 
-ember = Move("Ember", 40, fire)
-water_gun = Move("Water Gun", 35, water)
-razor_leaf = Move("Razor Leaf", 30, grass)
+ember = Move("Ember", 40, fire, "Special")
+water_gun = Move("Water Gun", 35, water, "Physical")
+razor_leaf = Move("Razor Leaf", 30, grass, "Special")
+tackle = Move("Tackle", 30, normal, "Physical")
 
 
 cyndi_stats = {
@@ -70,29 +83,44 @@ squirt_stats = {
     "Speed": 20
     }
 
-cyndaquil = Specie("Cyndaquil", fire, [ember], [])
-cyndi = Pokemon("Cyndi", cyndaquil,[ember],cyndi_stats)
+ratta_stats = {
+    "HP": 35,
+    "Attack": 30,
+    "Special Attack": 25,
+    "Defense": 20,
+    "Special Defense": 20,
+    "Speed": 20
+    }
 
-chikorita = Specie("Chikorita", grass, [razor_leaf], [])
+cyndaquil = Specie("Cyndaquil", fire, [ember, tacke], [])
+cyndi = Pokemon("Cyndi", cyndaquil,[ember, tackle],cyndi_stats)
+
+chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], [])
 chiko = Pokemon("Chiko", chikorita, [razor_leaf], chiko_stats)
 
 
-squirtle = Specie("Squirtle", water, [water_gun], [])
-squirt = Pokemon("Squirt", squirtle, [water_gun], squirt_stats)
+squirtle = Specie("Squirtle", water, [water_gun, tackle], [])
+squirt = Pokemon("Squirt", squirtle, [water_gun, tackle], squirt_stats)
+
+rattata = Specie("Rattata", normal, [tackle], [])
+ratta = Pokemon("Ratta", rattata, [tackle], ratta_stats)
 
 
+trainer1 = Trainer("Trainer_1", [squirt, ratta], [])
+trainer2 = Trainer("Trainer_2", [chiko, ratta], [])
 
-def battle(pokemon1, pokemon2):
+
+# def battle(pokemon1, pokemon2):
     
-    specie1 = pokemon1.pokemon_specie
-    moves1 = pokemon1.pokemon_moves
-    stats1 = pokemon1.pokemon_stats
+#     specie1 = pokemon1.pokemon_specie
+#     moves1 = pokemon1.pokemon_moves
+#     stats1 = pokemon1.pokemon_stats
     
-    specie2 = pokemon2.pokemon_specie
-    moves2 = pokemon2.pokemon_moves
-    stats2 = pokemon2.pokemon_stats
+#     specie2 = pokemon2.pokemon_specie
+#     moves2 = pokemon2.pokemon_moves
+#     stats2 = pokemon2.pokemon_stats
     
-    while stats1["HP"] > 0 and stats2["HP"] > 0:
+#     while stats1["HP"] > 0 and stats2["HP"] > 0:
         
 
 
