@@ -6,11 +6,11 @@ Created on Wed Jan 15 15:36:59 2025
 """
 
 
-from Specie import *
-from Pokemon import *
-from Type import *
-from Move import *
-
+import Specie
+import Pokemon
+import Type
+import Move
+import Trainer
 
 type_effectiveness_fire = {
     "Water": 1/2,
@@ -103,11 +103,23 @@ squirtle = Specie("Squirtle", water, [water_gun, tackle], [])
 squirt = Pokemon("Squirt", squirtle, [water_gun, tackle], squirt_stats)
 
 rattata = Specie("Rattata", normal, [tackle], [])
-ratta = Pokemon("Ratta", rattata, [tackle], ratta_stats)
+ratta1 = Pokemon("Ratta1", rattata, [tackle], ratta_stats)
+ratta2 = Pokemon("Ratta2", rattata, [tackle], ratta_stats)
 
 
-trainer1 = Trainer("Trainer_1", [squirt, ratta], [])
-trainer2 = Trainer("Trainer_2", [chiko, ratta], [])
+team1 = {
+    "Squirt": squirt,
+    "Ratta1": ratta1
+    }
+
+team2 = {
+    "Chiko": chiko,
+    "Ratta2": ratta2
+        
+    }
+
+trainer1 = Trainer("Trainer_1", team1, [])
+trainer2 = Trainer("Trainer_2", team2, [])
 
 
 # def battle(pokemon1, pokemon2):
