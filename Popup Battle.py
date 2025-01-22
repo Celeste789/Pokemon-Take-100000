@@ -70,7 +70,7 @@ class PickAPokemonScreen(tk.Frame):
             btn_pokemon = tk.Button(
                 self,
                 text=name,
-                command=lambda p=pokemon: self.select_pokemon(controller, p)
+                command=lambda p=pokemon, x=controller: self.select_pokemon(x, p)
             )
             btn_pokemon.pack()
                   
@@ -104,16 +104,16 @@ class PickAMoveScreen(tk.Frame):
             btn_move = tk.Button(
                 self,
                 text=name,
-                command=lambda m=move: self.select_move(controller, m)
+                command=controller.change(DamageScreen)
             )
             btn_move.pack()
         
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
     
-    def select_move(self, controller, move):
-        controller.selected_move = move
-        controller.change(DamageScreen)
+    # def select_move(self, controller, move):
+    #     controller.selected_move = move
+    #     controller.change(DamageScreen)
     
         
 
