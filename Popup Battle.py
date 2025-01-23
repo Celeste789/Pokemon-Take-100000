@@ -38,15 +38,13 @@ class WelcomeScreen(tk.Frame):
         lbl_title = tk.Label(self, text="Welcome to the pokemon battle")
         lbl_title.pack()
         
-        
-        # Use the controller to switch frames
         btn_begin = tk.Button(self, text="Begin", command=lambda: controller.change(PickAPokemonScreen))
         btn_begin.pack()
         
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
         
-        
+    
 
 class PickAPokemonScreen(tk.Frame):
     def __init__(self, controller):
@@ -59,14 +57,21 @@ class PickAPokemonScreen(tk.Frame):
         lbl_trainer1 = tk.Label(self, text="This are trainer1's pokemons: ")
         lbl_trainer1.pack()
         
-        #v = tk.StringVar()
-        trainer_team = trainer1.trainer_team
-
-        # for name, pokemon in trainer_team.items():
-        #     btn_pokemon = tk.Button(self, text=name, command=lambda p=pokemon, controller=controller, frame=PickAMoveScreen(selected_pokemon=pokemon, controller=controller): self.select_pokemon(controller, frame, p))
-        #     btn_pokemon.pack()
+        lbl_trainer2 = tk.Label(self, text="This are trainer2's pokemons: ")
+        lbl_trainer2.pack()
         
-        for name, pokemon in trainer_team.items():
+        trainer_team1 = trainer1.trainer_team
+        trainer_team2 = trainer2.trainer_team
+
+        for name, pokemon in trainer_team1.items():
+            btn_pokemon = tk.Button(
+                self,
+                text=name,
+                command=lambda p=pokemon, x=controller: self.select_pokemon(x, p)
+            )
+            btn_pokemon.pack()
+            
+        for name, pokemon in trainer_team2.items():
             btn_pokemon = tk.Button(
                 self,
                 text=name,
@@ -75,20 +80,15 @@ class PickAPokemonScreen(tk.Frame):
             btn_pokemon.pack()
                   
 
-        # Add a button to go back to the WelcomeScreen
         btn_back = tk.Button(self, text="Back", command=lambda: controller.change(WelcomeScreen))
         btn_back.pack()
         
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
-        
-    # def select_pokemon(self, controller, p):
-    #     controller.selected_pokemon = p
-    #     controller.change(self, frame) 
-
+         
     def select_pokemon(self, controller, pokemon):
         controller.selected_pokemon = pokemon
-        controller.change(PickAMoveScreen)        
+        controller.change(lambda x=controller: PickAMoveScreen(x,pokemon))        
 
 class PickAMoveScreen(tk.Frame):
     def __init__(self, controller, selected_pokemon):
@@ -98,27 +98,33 @@ class PickAMoveScreen(tk.Frame):
         lbl = tk.Label(self, text=f"Now, pick a move for {selected_pokemon.pokemon_name}!")
         lbl.pack()
         
-        dict_moves = {move.move_name: move for move in selected_pokemon.pokemon_moves}
+        dict_moves = {move.move_name: move for move in selected_pokemon.pokemon_moves}       
             
         for name, move in dict_moves.items():
             btn_move = tk.Button(
                 self,
                 text=name,
-                command=controller.change(DamageScreen)
-            )
+                command=lambda m=move, x=controller, p=selected_pokemon: self.select_move(x, m, p)
+            ) 
             btn_move.pack()
+            
+        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAPokemonScreen))
+        btn_back.pack()
         
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
-    
-    # def select_move(self, controller, move):
-    #     controller.selected_move = move
-    #     controller.change(DamageScreen)
-    
         
+    def select_move(self, controller, move, pokemon):
+        controller.selected_move = move
+        controller.select_pokemon = pokemon
+        controller.change(lambda x=controller: DamageScreen(x,pokemon,move))
 
 class DamageScreen(tk.Frame):
-    pass
+    def __init__(self, controller, selected_pokemon, selected_move):
+        super().__init__(controller.master)
+        controller.master.geometry("600x400")
+        
+        
 
 class FaintedScreen(tk.Frame):
     pass

@@ -95,7 +95,7 @@ cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], [])
 cyndi = Pokemon("Cyndi", cyndaquil,[ember, tackle],cyndi_stats)
 
 chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], [])
-chiko = Pokemon("Chiko", chikorita, [razor_leaf], chiko_stats)
+chiko = Pokemon("Chiko", chikorita, [razor_leaf, tackle], chiko_stats)
 
 
 squirtle = Specie("Squirtle", water, [water_gun, tackle], [])
