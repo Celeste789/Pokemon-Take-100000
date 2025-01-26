@@ -73,7 +73,7 @@ chiko_stats = {
     "Speed": 15
     }
 
-squirt_stats = {
+toto_stats = {
     "HP": 40,
     "Attack": 35,
     "Special Attack": 20,
@@ -98,8 +98,8 @@ chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], [])
 chiko = Pokemon("Chiko", chikorita, [razor_leaf, tackle], chiko_stats)
 
 
-squirtle = Specie("Squirtle", water, [water_gun, tackle], [])
-squirt = Pokemon("Squirt", squirtle, [water_gun, tackle], squirt_stats)
+totodile = Specie("Totodile", water, [water_gun, tackle], [])
+toto = Pokemon("Toto", totodile, [water_gun, tackle], toto_stats)
 
 rattata = Specie("Rattata", normal, [tackle], [])
 ratta1 = Pokemon("Ratta1", rattata, [tackle], ratta_stats)
@@ -107,7 +107,7 @@ ratta2 = Pokemon("Ratta2", rattata, [tackle], ratta_stats)
 
 
 team1 = {
-    "Squirt": squirt,
+    "Toto": toto,
     "Ratta1": ratta1
     }
 

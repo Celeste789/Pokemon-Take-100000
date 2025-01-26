@@ -13,6 +13,7 @@ from Type import Type
 from Move import Move
 from Trainer import Trainer
 from Battle import *
+from Game import *
 
 screen = tk.Tk()
 screen.geometry("400x400")
@@ -23,10 +24,7 @@ class MainScreen:
         self.master = master
         self.frame = WelcomeScreen(self)  
         self.frame.pack()
-        
-        self.selected_pokemon = None
-        self.selected_move = None
-        
+                
     def change(self, frame):
         self.frame.pack_forget()  # Remove the current frame
         self.frame = frame(self)  # Create the new frame
@@ -54,44 +52,60 @@ class PickAPokemonScreen(tk.Frame):
         lbl = tk.Label(self, text="Now, pick your pokemon!")
         lbl.pack()
         
-        lbl_trainer1 = tk.Label(self, text="This are trainer1's pokemons: ")
-        lbl_trainer1.pack()
+        self.lbl_trainer1 = tk.Label(self, text="These are trainer1's pokemons: ")
+        self.lbl_trainer1.pack()
         
-        lbl_trainer2 = tk.Label(self, text="This are trainer2's pokemons: ")
-        lbl_trainer2.pack()
+        trainer_team1 = game.trainer1.trainer_team
+        pokemon1_var = tk.StringVar()
         
-        trainer_team1 = trainer1.trainer_team
-        trainer_team2 = trainer2.trainer_team
-
         for name, pokemon in trainer_team1.items():
-            btn_pokemon = tk.Button(
-                self,
+            btn_pokemon1 = tk.Radiobutton( 
+               #master=controller,
                 text=name,
-                command=lambda p=pokemon, x=controller: self.select_pokemon(x, p)
+                variable = pokemon1_var,
+                value = pokemon,
+                command = self.select_pokemon(game.trainer1, pokemon)
             )
-            btn_pokemon.pack()
-            
-        for name, pokemon in trainer_team2.items():
-            btn_pokemon = tk.Button(
-                self,
-                text=name,
-                command=lambda p=pokemon, x=controller: self.select_pokemon(x, p)
-            )
-            btn_pokemon.pack()
-                  
+            btn_pokemon1.pack()
 
+                    
+        self.lbl_trainer2 = tk.Label(self, text="These are trainer2's pokemons: ")
+        self.lbl_trainer2.pack()
+        
+                
+        
+        trainer_team2 = game.trainer2.trainer_team
+        pokemon2_var = tk.StringVar()
+
+        for name, pokemon in trainer_team2.items():
+            btn_pokemon2 = tk.Radiobutton(
+                #master=controller,
+                text=name,
+                variable = pokemon2_var,
+                value = pokemon,
+                command=self.select_pokemon(game.trainer2, pokemon)
+            )
+            btn_pokemon2.pack()
+            
+        #game.selected_pokemon1 = trainer_team1.get(pokemon2_var)
+                  
+        lbl_qandb = tk.Label(self, text="Back and Quit Buttons")
+        lbl_qandb.pack()
+        
         btn_back = tk.Button(self, text="Back", command=lambda: controller.change(WelcomeScreen))
         btn_back.pack()
         
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
-         
-    def select_pokemon(self, controller, pokemon):
-        controller.selected_pokemon = pokemon
-        controller.change(lambda x=controller: PickAMoveScreen(x,pokemon))        
+
+    def select_pokemon(self, trainer, pokemon):
+        if trainer == game.trainer1:
+            game.selected_pokemon1 = pokemon
+        else:
+            game.selected_pokemon2 = pokemon
 
 class PickAMoveScreen(tk.Frame):
-    def __init__(self, controller, selected_pokemon):
+    def __init__(self, controller):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
