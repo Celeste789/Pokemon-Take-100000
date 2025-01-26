@@ -134,43 +134,6 @@ class PickAMoveScreen(tk.Frame):
         lbl_trainer1 = tk.Label(left_frame, text=f"{game.selected_pokemon1.pokemon_name}'s moves")
         lbl_trainer1.grid(sticky="w", pady=5)
 
-        trainer_team1 = game.trainer1.trainer_team
-        pokemon1_var = tk.StringVar(None, "Toto")
-
-        for name, pokemon in trainer_team1.items():
-            btn_pokemon1 = tk.Radiobutton(
-                master=left_frame,
-                text=name,
-                variable=pokemon1_var,
-                value=pokemon,
-                command=lambda: self.select_pokemon(game.trainer1, pokemon)
-            )
-            btn_pokemon1.grid(sticky="W")
-
-        lbl_trainer2 = tk.Label(right_frame, text=f"{game.selected_pokemon2.pokemon_name}'s moves")
-        lbl_trainer2.grid(sticky="w", pady=5)
-
-        trainer_team2 = game.trainer2.trainer_team
-        pokemon2_var = tk.StringVar(None, "Chiko")
-
-        for name, pokemon in trainer_team2.items():
-            btn_pokemon2 = tk.Radiobutton(
-                master=right_frame,
-                text=name,
-                variable=pokemon2_var,
-                value=pokemon,
-                command=lambda: self.select_pokemon(game.trainer2, pokemon)
-            )
-            btn_pokemon2.grid(sticky="E")
-
-        btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(PickAMoveScreen))
-        btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
-
-        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAPokemonScreen))
-        btn_back.grid(row=5, column=0, columnspan=5, pady=10)
-
-        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
-        btn_quit.grid(row=6, column=0, columnspan=5, pady=10)
 
     # def __init__(self, controller):
     #     super().__init__(controller.master)
