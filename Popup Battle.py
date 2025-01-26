@@ -49,54 +49,58 @@ class PickAPokemonScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        lbl = tk.Label(self, text="Now, pick your pokemon!")
-        lbl.pack()
+        lbl_title = tk.Label(self, text="Time to pick your pokemons", font=("Arial", 14))
+        lbl_title.grid(row=0, column=0, columnspan=5, pady=10)
         
-        self.lbl_trainer1 = tk.Label(self, text="These are trainer1's pokemons: ")
-        self.lbl_trainer1.pack()
+        left_frame = tk.Frame(self)
+        right_frame = tk.Frame(self)
+        left_frame.grid(row=1, column=0, padx=10, pady=10)
+        right_frame.grid(row=1, column=2, padx=10, pady=10)
+        
+        self.lbl_trainer1 = tk.Label(master=left_frame, text="These are trainer1's pokemons: ")
+        self.lbl_trainer1.grid(row=1, column=0, columnspan=1, padx=10, sticky="W")
+        
         
         trainer_team1 = game.trainer1.trainer_team
-        pokemon1_var = tk.StringVar()
+        pokemon1_var = tk.StringVar(None, "Toto")
         
         for name, pokemon in trainer_team1.items():
             btn_pokemon1 = tk.Radiobutton( 
-               #master=controller,
+                master=left_frame,
                 text=name,
-                variable = pokemon1_var,
-                value = pokemon,
-                command = self.select_pokemon(game.trainer1, pokemon)
+                variable=pokemon1_var,
+                value=pokemon,
+                command=lambda: self.select_pokemon(game.trainer1, pokemon)
             )
-            btn_pokemon1.pack()
+            btn_pokemon1.grid(sticky="W")
 
                     
-        self.lbl_trainer2 = tk.Label(self, text="These are trainer2's pokemons: ")
-        self.lbl_trainer2.pack()
-        
+        self.lbl_trainer2 = tk.Label(master=right_frame, text="These are trainer2's pokemons: ")
+        self.lbl_trainer2.grid(row=1, column=2, columnspan=1, padx=10, sticky="E")     
                 
-        
         trainer_team2 = game.trainer2.trainer_team
-        pokemon2_var = tk.StringVar()
+        pokemon2_var = tk.StringVar(None, "Chiko")
 
         for name, pokemon in trainer_team2.items():
-            btn_pokemon2 = tk.Radiobutton(
-                #master=controller,
+            btn_pokemon2 = tk.Radiobutton( 
+                master=right_frame,
                 text=name,
-                variable = pokemon2_var,
-                value = pokemon,
-                command=self.select_pokemon(game.trainer2, pokemon)
-            )
-            btn_pokemon2.pack()
+                variable=pokemon2_var,
+                value=pokemon,
+                command=lambda: self.select_pokemon(game.trainer2, pokemon)
+        )
+            btn_pokemon2.grid(sticky="E")
             
         #game.selected_pokemon1 = trainer_team1.get(pokemon2_var)
                   
         lbl_qandb = tk.Label(self, text="Back and Quit Buttons")
-        lbl_qandb.pack()
+        lbl_qandb.grid()
         
         btn_back = tk.Button(self, text="Back", command=lambda: controller.change(WelcomeScreen))
-        btn_back.pack()
+        btn_back.grid()
         
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
-        btn_quit.pack()
+        btn_quit.grid()
 
     def select_pokemon(self, trainer, pokemon):
         if trainer == game.trainer1:
