@@ -156,7 +156,8 @@ class DamageScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        if game.pokemon_loser is None and game.pokemon_winner is None:
+        if game.pokemon_loser is None or game.pokemon_winner is None:
+
             game.battle()
             lbl_damage1 = tk.Label(self, text=f"Pokemon1's HP is {game.selected_pokemon1.pokemon_stats['HP']}")
             lbl_damage1.pack()
@@ -164,8 +165,14 @@ class DamageScreen(tk.Frame):
             lbl_damage2 = tk.Label(self, text=f"Pokemon2's HP is {game.selected_pokemon2.pokemon_stats['HP']}")
             lbl_damage2.pack()
 
-            controller.change(PickAMoveScreen)
+            btn_change_pokemon = tk.Button(self, text="Change Pokemon", command=lambda: controller.change(PickAPokemonScreen))
+            btn_change_pokemon.pack()
+
+            btn_pick_move = tk.Button(self, text="Pick A Move", command=lambda: controller.change(PickAMoveScreen))
+            btn_pick_move.pack()
+
         else:
+
             controller.change(EndScreen)
 
 

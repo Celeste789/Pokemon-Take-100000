@@ -4,14 +4,13 @@ Created on Thu Jan 23 21:04:13 2025
 
 @author: Celeste
 """
-import pokemon
-
 from Specie import Specie
 from Pokemon import Pokemon
 from Type import Type
 from Move import Move
 from Trainer import Trainer
 from Battle import *
+
 
 class Game:
     def __init__(self, trainer1_game, trainer2_game):
@@ -46,6 +45,7 @@ class Game:
         self.pokemon_winner = pokemon
 
     def battle(self):
+
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
 
@@ -61,12 +61,13 @@ class Game:
         new_hp1 = hp1 - power_move1
         new_hp2 = hp2 - power_move2
 
-        hp1 = Pokemon.pokemon_HP_setter(self=self.selected_pokemon1, new_HP=new_hp1)
-        hp2 = Pokemon.pokemon_HP_setter(self=self.selected_pokemon2, new_HP=new_hp2)
+        Pokemon.pokemon_HP_setter(self=self.selected_pokemon1, new_HP=new_hp1)
+        Pokemon.pokemon_HP_setter(self=self.selected_pokemon2, new_HP=new_hp2)
 
         if new_hp1 <= 0:
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
-        elif new_hp2 <= 0:
+        else:
             self.pokemon_winner_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
+
