@@ -14,6 +14,8 @@ screen.geometry("400x400")
 screen.title("Pokemon Battle")
 
 game = Game(trainer1, trainer2)
+trainer1_frame_class = game.trainer1_game
+trainer2_frame_class = game.trainer2_game
 
 
 class MainScreen:
@@ -41,18 +43,18 @@ class WelcomeScreen(tk.Frame):
         btn_quit.pack()
 
 
-def select_pokemon(trainer, pokemon):
-    if trainer == trainer1:
-        game.selected_pokemon1 = pokemon
-    else:
-        game.selected_pokemon2 = pokemon
-
-
-def select_pokemon(trainer, pokemon):
-    if trainer == trainer1:
-        game.selected_pokemon1 = pokemon
-    else:
-        game.selected_pokemon2 = pokemon
+# def select_pokemon(trainer, pokemon):
+#     if trainer == trainer1:
+#         game.selected_pokemon1 = pokemon
+#     else:
+#         game.selected_pokemon2 = pokemon
+#
+#
+# def select_pokemon(trainer, pokemon):
+#     if trainer == trainer1:
+#         game.selected_pokemon1 = pokemon
+#     else:
+#         game.selected_pokemon2 = pokemon
 
 
 class PickAPokemonScreen(tk.Frame):
@@ -71,11 +73,8 @@ class PickAPokemonScreen(tk.Frame):
         lbl_trainer1 = tk.Label(left_frame, text="Trainer 1's Pokémon:")
         lbl_trainer1.grid(sticky="w", pady=5)
 
-        trainer1 = game.trainer1
-        trainer2 = game.trainer2
-
-        trainer_team1 = game.trainer1.trainer_team
-        pokemon1_var = tk.StringVar(None, "Toto")
+        trainer_team1 = game.trainer1_game.trainer_team
+        pokemon1_var = tk.StringVar(None)
 
         for name, pokemon in trainer_team1.items():
             btn_pokemon1 = tk.Radiobutton(
@@ -83,15 +82,15 @@ class PickAPokemonScreen(tk.Frame):
                 text=name,
                 variable=pokemon1_var,
                 value=name,
-                command=lambda: select_pokemon(trainer2, trainer2.trainer_team[name])
+                command=lambda: game.selected_pokemon1_setter(name)
             )
             btn_pokemon1.grid(sticky="W")
 
         lbl_trainer2 = tk.Label(right_frame, text="Trainer 2's Pokémon:")
         lbl_trainer2.grid(sticky="w", pady=5)
 
-        trainer_team2 = game.trainer2.trainer_team
-        pokemon2_var = tk.StringVar(None, "Chiko")
+        trainer_team2 = game.trainer2_game.trainer_team
+        pokemon2_var = tk.StringVar(None)
 
         for name, pokemon in trainer_team2.items():
             btn_pokemon2 = tk.Radiobutton(
@@ -99,7 +98,7 @@ class PickAPokemonScreen(tk.Frame):
                 text=name,
                 variable=pokemon2_var,
                 value=name,
-                command=lambda: select_pokemon(trainer2, trainer2.trainer_team[name])
+                command=lambda: game.selected_move2_setter(name)
             )
             btn_pokemon2.grid(sticky="E")
 
@@ -112,11 +111,12 @@ class PickAPokemonScreen(tk.Frame):
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.grid(row=6, column=0, columnspan=5, pady=10)
 
-    def select_pokemon(self, trainer, pokemon):
-        if trainer == game.trainer1:
-            game.selected_pokemon1 = pokemon
-        else:
-            game.selected_pokemon2 = pokemon
+    # def select_pokemon(self, trainer, pokemon):
+    #     if trainer == game.trainer1:
+    #         game.selected_pokemon1 = pokemon
+    #     else:
+    #         game.selected_pokemon2 = pokemon
+
 
 class PickAMoveScreen(tk.Frame):
     def __init__(self, controller):
@@ -133,7 +133,6 @@ class PickAMoveScreen(tk.Frame):
 
         lbl_trainer1 = tk.Label(left_frame, text=f"{game.selected_pokemon1.pokemon_name}'s moves")
         lbl_trainer1.grid(sticky="w", pady=5)
-
 
     # def __init__(self, controller):
     #     super().__init__(controller.master)
