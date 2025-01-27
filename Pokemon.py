@@ -12,8 +12,10 @@ class Pokemon:
         self.pokemon_specie = specie
         self.pokemon_moves = moves
         self.pokemon_stats = stats
-        
-        
+
+    def pokemon_HP_setter(self, new_HP):
+        self.pokemon_stats["HP"] = new_HP
+
         
     
         
