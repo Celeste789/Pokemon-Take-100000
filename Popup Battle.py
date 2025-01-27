@@ -43,20 +43,6 @@ class WelcomeScreen(tk.Frame):
         btn_quit.pack()
 
 
-# def select_pokemon(trainer, pokemon):
-#     if trainer == trainer1:
-#         game.selected_pokemon1 = pokemon
-#     else:
-#         game.selected_pokemon2 = pokemon
-#
-#
-# def select_pokemon(trainer, pokemon):
-#     if trainer == trainer1:
-#         game.selected_pokemon1 = pokemon
-#     else:
-#         game.selected_pokemon2 = pokemon
-
-
 class PickAPokemonScreen(tk.Frame):
     def __init__(self, controller):
         super().__init__(controller.master)
@@ -74,7 +60,7 @@ class PickAPokemonScreen(tk.Frame):
         lbl_trainer1.grid(sticky="w", pady=5)
 
         trainer_team1 = game.trainer1_game.trainer_team
-        pokemon1_var = tk.StringVar(None)
+        pokemon1_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team1.items():
             btn_pokemon1 = tk.Radiobutton(
@@ -82,7 +68,7 @@ class PickAPokemonScreen(tk.Frame):
                 text=name,
                 variable=pokemon1_var,
                 value=name,
-                command=lambda: game.selected_pokemon1_setter(name)
+                command=lambda: game.selected_pokemon1_setter(pokemon1_var.get())
             )
             btn_pokemon1.grid(sticky="W")
 
@@ -90,7 +76,7 @@ class PickAPokemonScreen(tk.Frame):
         lbl_trainer2.grid(sticky="w", pady=5)
 
         trainer_team2 = game.trainer2_game.trainer_team
-        pokemon2_var = tk.StringVar(None)
+        pokemon2_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team2.items():
             btn_pokemon2 = tk.Radiobutton(
@@ -98,7 +84,7 @@ class PickAPokemonScreen(tk.Frame):
                 text=name,
                 variable=pokemon2_var,
                 value=name,
-                command=lambda: game.selected_move2_setter(name)
+                command=lambda: game.selected_pokemon2_setter(pokemon2_var.get())
             )
             btn_pokemon2.grid(sticky="E")
 
@@ -110,12 +96,6 @@ class PickAPokemonScreen(tk.Frame):
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.grid(row=6, column=0, columnspan=5, pady=10)
-
-    # def select_pokemon(self, trainer, pokemon):
-    #     if trainer == game.trainer1:
-    #         game.selected_pokemon1 = pokemon
-    #     else:
-    #         game.selected_pokemon2 = pokemon
 
 
 class PickAMoveScreen(tk.Frame):
@@ -131,50 +111,68 @@ class PickAMoveScreen(tk.Frame):
         left_frame.grid(row=1, column=0, padx=20, pady=10, sticky="nsew")
         right_frame.grid(row=1, column=1, padx=20, pady=10, sticky="nsew")
 
-        lbl_trainer1 = tk.Label(left_frame, text=f"{game.selected_pokemon1.pokemon_name}'s moves")
-        lbl_trainer1.grid(sticky="w", pady=5)
+        lbl_pokemon1 = tk.Label(left_frame, text=f"{game.selected_pokemon1.pokemon_name}'s moves")
+        lbl_pokemon1.grid(sticky="w", pady=5)
 
-    # def __init__(self, controller):
-    #     super().__init__(controller.master)
-    #     controller.master.geometry("600x400")
+        move1_var = tk.StringVar(None, " ")
 
-    #     lbl = tk.Label(self, text=f"Now, pick a move for {selected_pokemon.pokemon_name}!")
-    #     lbl.pack()
+        for name, move in game.selected_pokemon1.pokemon_moves.items():
+            btn_move1 = tk.Radiobutton(
+                master=left_frame,
+                text=name,
+                variable=move1_var,
+                value=name,
+                command=lambda: game.selected_move1_setter(move1_var.get())
+            )
+            btn_move1.grid(sticky="W")
 
-    #     dict_moves = {move.move_name: move for move in selected_pokemon.pokemon_moves}       
+        lbl_pokemon2 = tk.Label(left_frame, text=f"{game.selected_pokemon2.pokemon_name}'s moves")
+        lbl_pokemon2.grid(sticky="w", pady=5)
 
-    #     for name, move in dict_moves.items():
-    #         btn_move = tk.Button(
-    #             self,
-    #             text=name,
-    #             command=lambda m=move, x=controller, p=selected_pokemon: self.select_move(x, m, p)
-    #         ) 
-    #         btn_move.pack()
+        move2_var = tk.StringVar(None, " ")
 
-    #     btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAPokemonScreen))
-    #     btn_back.pack()
+        for name, move in game.selected_pokemon2.pokemon_moves.items():
+            btn_move2 = tk.Radiobutton(
+                master=left_frame,
+                text=name,
+                variable=move2_var,
+                value=name,
+                command=lambda: game.selected_move2_setter(move2_var.get())
+            )
+            btn_move2.grid(sticky="W")
 
-    #     btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
-    #     btn_quit.pack()
+        btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(DamageScreen))
+        btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
 
-    # def select_move(self, controller, move, pokemon):
-    #     controller.selected_move = move
-    #     controller.select_pokemon = pokemon
-    #     controller.change(lambda x=controller: DamageScreen(x,pokemon,move))
+        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAMoveScreen))
+        btn_back.grid(row=5, column=0, columnspan=5, pady=10)
+
+        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
+        btn_quit.grid(row=6, column=0, columnspan=5, pady=10)
 
 
 class DamageScreen(tk.Frame):
-    def __init__(self, controller, selected_pokemon, selected_move):
+    def __init__(self, controller):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
+        game.battle()
 
-class FaintedScreen(tk.Frame):
-    pass
+        while game.pokemon_loser is None and game.pokemon_winner is None:
+            controller.change(PickAMoveScreen)
+
+        controller.change(EndScreen)
 
 
-class WinnerScreen(tk.Frame):
-    pass
+class EndScreen(tk.Frame):
+    def __init__(self, controller):
+        super().__init__(controller.master)
+
+        lbl_title = tk.Label(self, text=f"{game.pokemon_loser} fainted")
+        lbl_title.pack()
+
+        lbl_title = tk.Label(self, text=f"{game.pokemon_winner} won")
+        lbl_title.pack()
 
 
 def main():

@@ -44,10 +44,10 @@ water = Type("Water", type_effectiveness_water)
 grass = Type("Grass", type_effectiveness_grass)
 normal = Type("Normal", type_effectiveness_normal)
 
-ember = Move("Ember", 40, fire, "Special")
-water_gun = Move("Water Gun", 35, water, "Physical")
-razor_leaf = Move("Razor Leaf", 30, grass, "Special")
-tackle = Move("Tackle", 30, normal, "Physical")
+ember = Move("Ember", 10, fire, "Special")
+water_gun = Move("Water Gun", 11, water, "Physical")
+razor_leaf = Move("Razor Leaf", 12, grass, "Special")
+tackle = Move("Tackle", 10, normal, "Physical")
 
 cyndi_stats = {
     "HP": 50,
@@ -85,18 +85,37 @@ ratta_stats = {
     "Speed": 20
 }
 
+cyndi_moves = {
+    "Ember": ember,
+    "Tackle": tackle
+}
+
+chiko_moves = {
+    "Razor Leaf": razor_leaf,
+    "Tackle": tackle
+}
+
+toto_moves = {
+    "Water Gun": water_gun,
+    "Tackle": tackle
+}
+
+ratta_moves = {
+    "Tackle": tackle
+}
+
 cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], [])
-cyndi = Pokemon("Cyndi", cyndaquil, [ember, tackle], cyndi_stats)
+cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves, cyndi_stats)
 
 chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], [])
-chiko = Pokemon("Chiko", chikorita, [razor_leaf, tackle], chiko_stats)
+chiko = Pokemon("Chiko", chikorita, chiko_moves, chiko_stats)
 
 totodile = Specie("Totodile", water, [water_gun, tackle], [])
-toto = Pokemon("Toto", totodile, [water_gun, tackle], toto_stats)
+toto = Pokemon("Toto", totodile, toto_moves, toto_stats)
 
 rattata = Specie("Rattata", normal, [tackle], [])
-ratta1 = Pokemon("Ratta1", rattata, [tackle], ratta_stats)
-ratta2 = Pokemon("Ratta2", rattata, [tackle], ratta_stats)
+ratta1 = Pokemon("Ratta1", rattata, ratta_moves, ratta_stats)
+ratta2 = Pokemon("Ratta2", rattata, ratta_moves, ratta_stats)
 
 team1 = {
     "Toto": toto,
@@ -111,14 +130,4 @@ team2 = {
 trainer1 = Trainer("Trainer_1", team1, [])
 trainer2 = Trainer("Trainer_2", team2, [])
 
-# def battle(pokemon1, pokemon2):
 
-#     specie1 = pokemon1.pokemon_specie
-#     moves1 = pokemon1.pokemon_moves
-#     stats1 = pokemon1.pokemon_stats
-
-#     specie2 = pokemon2.pokemon_specie
-#     moves2 = pokemon2.pokemon_moves
-#     stats2 = pokemon2.pokemon_stats
-
-#     while stats1["HP"] > 0 and stats2["HP"] > 0:
