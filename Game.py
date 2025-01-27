@@ -49,6 +49,9 @@ class Game:
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
 
+        self.pokemon_loser = pokemon2
+        self.pokemon_winner = pokemon1
+
         move1 = self.selected_move1
         move2 = self.selected_move2
 
@@ -67,7 +70,5 @@ class Game:
         if new_hp1 <= 0:
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
-        else:
-            self.pokemon_winner_setter(pokemon2)
-            self.pokemon_winner_setter(pokemon1)
+
 
