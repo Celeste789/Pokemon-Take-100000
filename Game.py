@@ -46,11 +46,10 @@ class Game:
 
     def battle(self):
 
+        done = False
+
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
-
-        self.pokemon_loser = pokemon2
-        self.pokemon_winner = pokemon1
 
         move1 = self.selected_move1
         move2 = self.selected_move2
@@ -58,17 +57,28 @@ class Game:
         power_move1 = move1.move_power
         power_move2 = move2.move_power
 
-        hp1 = pokemon1.pokemon_stats["HP"]
-        hp2 = pokemon2.pokemon_stats["HP"]
+        new_hp1 = pokemon1.pokemon_stats["HP"]
+        new_hp2 = pokemon2.pokemon_stats["HP"]
 
-        new_hp1 = hp1 - power_move1
-        new_hp2 = hp2 - power_move2
+        new_hp1 -= power_move2
+        new_hp2 -= power_move1
 
-        Pokemon.pokemon_HP_setter(self=self.selected_pokemon1, new_HP=new_hp1)
-        Pokemon.pokemon_HP_setter(self=self.selected_pokemon2, new_HP=new_hp2)
+        Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
+        Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
 
-        if new_hp1 <= 0:
+        if new_hp2 <= 0 < new_hp1:
+            self.pokemon_loser_setter(pokemon2)
+            self.pokemon_winner_setter(pokemon1)
+
+        elif new_hp1 <= 0 < new_hp2:
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
 
+        else:
 
+            done = True
+
+        return done
+
+    # Pokemon.pokemon_HP_setter(self=self.selected_pokemon1, new_HP=pokemon1.pokemon_stats["HP"])
+    # Pokemon.pokemon_HP_setter(self=self.selected_pokemon2, new_HP=pokemon2.pokemon_stats["HP"])

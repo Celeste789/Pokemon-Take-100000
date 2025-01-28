@@ -144,7 +144,7 @@ class PickAMoveScreen(tk.Frame):
         btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(DamageScreen))
         btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
 
-        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAMoveScreen))
+        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAPokemonScreen))
         btn_back.grid(row=5, column=0, columnspan=5, pady=10)
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
@@ -156,9 +156,12 @@ class DamageScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        if game.pokemon_loser is None or game.pokemon_winner is None:
+        done = False
 
-            game.battle()
+        if not done:
+
+            done = game.battle()
+
             lbl_damage1 = tk.Label(self, text=f"Pokemon1's HP is {game.selected_pokemon1.pokemon_stats['HP']}")
             lbl_damage1.pack()
 
@@ -181,15 +184,22 @@ class EndScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        lbl_fainted = tk.Label(self, text=f"{game.pokemon_loser} fainted")
-        lbl_fainted.pack()
+        if game.pokemon_loser or game.pokemon_winner is None:
 
-        lbl_winner = tk.Label(self, text=f"{game.pokemon_winner} won")
-        lbl_winner.pack()
+            lbl_no_winner = tk.Label(self, text=f"Nobody won")
+            lbl_no_winner.pack()
+
+        else:
+
+            lbl_fainted = tk.Label(self, text=f"{game.pokemon_loser.pokemon_name} fainted")
+            lbl_fainted.pack()
+
+            lbl_winner = tk.Label(self, text=f"{game.pokemon_winner.pokemon_name} won")
+            lbl_winner.pack()
 
 
 def main():
-    app = MainScreen(screen)
+    MainScreen(screen)
     screen.mainloop()
 
 
