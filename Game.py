@@ -67,18 +67,17 @@ class Game:
         Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
 
         if new_hp2 <= 0 < new_hp1:
+
             self.pokemon_loser_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
 
         elif new_hp1 <= 0 < new_hp2:
+
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
-
         else:
 
-            done = True
-
+            done = False
         return done
-
     # Pokemon.pokemon_HP_setter(self=self.selected_pokemon1, new_HP=pokemon1.pokemon_stats["HP"])
     # Pokemon.pokemon_HP_setter(self=self.selected_pokemon2, new_HP=pokemon2.pokemon_stats["HP"])
