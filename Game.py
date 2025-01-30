@@ -10,6 +10,7 @@ from Type import Type
 from Move import Move
 from Trainer import Trainer
 from Battle import *
+from random import randint
 
 
 class Game:
@@ -45,8 +46,7 @@ class Game:
         self.pokemon_winner = pokemon
 
     def battle(self):
-
-        done = False
+        done = True
 
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
@@ -54,30 +54,51 @@ class Game:
         move1 = self.selected_move1
         move2 = self.selected_move2
 
-        power_move1 = move1.move_power
-        power_move2 = move2.move_power
-
         new_hp1 = pokemon1.pokemon_stats["HP"]
         new_hp2 = pokemon2.pokemon_stats["HP"]
 
-        new_hp1 -= power_move2
-        new_hp2 -= power_move1
+        new_hp1 -= self.damage_calculator(pokemon2, pokemon1, move2)
+        new_hp2 -= self.damage_calculator(pokemon1, pokemon2, move1)
 
         Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
         Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
 
-        if new_hp2 <= 0 < new_hp1:
-
+        if new_hp2 <= 0:
             self.pokemon_loser_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
-
-        elif new_hp1 <= 0 < new_hp2:
-
+        elif new_hp1 <= 0:
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
         else:
-
             done = False
+
         return done
-    # Pokemon.pokemon_HP_setter(self=self.selected_pokemon1, new_HP=pokemon1.pokemon_stats["HP"])
-    # Pokemon.pokemon_HP_setter(self=self.selected_pokemon2, new_HP=pokemon2.pokemon_stats["HP"])
+
+    def damage_calculator(self, pokemon1, pokemon2, move):
+        power_move = move.move_power
+
+        move_type = move.move_type
+        type2 = pokemon2.pokemon_specie.specie_type
+
+        type_effectiveness = type2[move_type]
+
+        move1_category = move.move_category
+
+        defense_2 = pokemon2.pokemon_stats["Defense"]
+        attack_1 = pokemon1.pokemon_stats["Attack"]
+
+        if move1_category == "Special":
+            defense_2 = pokemon2.pokemon_stats["Special Defense"]
+            attack_1 = pokemon1.pokemon_stats["Special Attack"]
+
+        pokemon1_lvl = pokemon1.pokemon_lvl
+
+        critical = randint(1, 6)
+        parcial_damage1 = (2 * pokemon1_lvl * critical / 5) + 2
+        parcial_damage2 = parcial_damage1 * power_move * attack_1 / defense_2 + 2
+        total_damage = parcial_damage2 * type_effectiveness
+
+        return total_damage
+
+        # pokemon1_exp = pokemon1.pokemon_exp
+        # pokemon2_exp = pokemon2.pokemon_exp

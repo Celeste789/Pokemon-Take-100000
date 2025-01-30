@@ -156,11 +156,7 @@ class DamageScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        done = False
-
-        if not done:
-
-            done = game.battle()
+        if not game.battle():
 
             lbl_damage1 = tk.Label(self, text=f"Pokemon1's HP is {game.selected_pokemon1.pokemon_stats['HP']}")
             lbl_damage1.pack()
@@ -184,7 +180,7 @@ class EndScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        if game.pokemon_loser or game.pokemon_winner is None:
+        if (game.pokemon_loser or game.pokemon_winner) is None:
 
             lbl_no_winner = tk.Label(self, text=f"Nobody won")
             lbl_no_winner.pack()
