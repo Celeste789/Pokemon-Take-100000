@@ -42,6 +42,8 @@ class WelcomeScreen(tk.Frame):
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
+        lbl_acknowledgment = tk.Label(self, text="Thanks to Carpincho Feliz")
+        lbl_acknowledgment.pack()
 
 class PickAPokemonScreen(tk.Frame):
     def __init__(self, controller):
@@ -94,7 +96,7 @@ class PickAPokemonScreen(tk.Frame):
                 )
             else:
                 btn_pokemon2 = tk.Radiobutton(
-                    state="Disable"
+                    state=tk.DISABLED
                 )
             btn_pokemon2.grid(sticky="E")
 
