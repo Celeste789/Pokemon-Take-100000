@@ -45,6 +45,7 @@ class WelcomeScreen(tk.Frame):
         lbl_acknowledgment = tk.Label(self, text="Thanks to Carpincho Feliz")
         lbl_acknowledgment.pack()
 
+
 class PickAPokemonScreen(tk.Frame):
     def __init__(self, controller):
         super().__init__(controller.master)
@@ -59,46 +60,40 @@ class PickAPokemonScreen(tk.Frame):
         right_frame.grid(row=1, column=1, padx=20, pady=10, sticky="nsew")
 
         lbl_trainer1 = tk.Label(left_frame, text="Trainer 1's Pokémon:")
-        lbl_trainer1.grid(sticky="w", pady=5)
+        lbl_trainer1.grid()
 
         trainer_team1 = game_round.trainer1_game.trainer_team
         pokemon1_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team1.items():
-            if pokemon.pokemon_status:
-                btn_pokemon1 = tk.Radiobutton(
-                    master=left_frame,
-                    text=name,
-                    variable=pokemon1_var,
-                    value=name,
-                    command=lambda: game_round.selected_pokemon1_setter(pokemon1_var.get())
-                )
-            else:
-                btn_pokemon1 = tk.Radiobutton(
-                    state="Disable"
-                )
-            btn_pokemon1.grid(sticky="W")
+            btn_pokemon1 = tk.Radiobutton(
+                master=left_frame,
+                text=name,
+                variable=pokemon1_var,
+                value=name,
+                command=lambda: game_round.selected_pokemon1_setter(pokemon1_var.get())
+            )
+            if not pokemon.pokemon_status:
+                btn_pokemon1.configure(state=tk.DISABLED)
+            btn_pokemon1.grid()
 
         lbl_trainer2 = tk.Label(right_frame, text="Trainer 2's Pokémon:")
-        lbl_trainer2.grid(sticky="w", pady=5)
+        lbl_trainer2.grid()
 
         trainer_team2 = game_round.trainer2_game.trainer_team
         pokemon2_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team2.items():
-            if pokemon.pokemon_status:
-                btn_pokemon2 = tk.Radiobutton(
-                    master=left_frame,
-                    text=name,
-                    variable=pokemon2_var,
-                    value=name,
-                    command=lambda: game_round.selected_pokemon2_setter(pokemon2_var.get())
-                )
-            else:
-                btn_pokemon2 = tk.Radiobutton(
-                    state=tk.DISABLED
-                )
-            btn_pokemon2.grid(sticky="E")
+            btn_pokemon2 = tk.Radiobutton(
+                master=right_frame,
+                text=name,
+                variable=pokemon2_var,
+                value=name,
+                command=lambda: game_round.selected_pokemon2_setter(pokemon2_var.get())
+            )
+            if not pokemon.pokemon_status:
+                btn_pokemon2.configure(state=tk.DISABLED)
+            btn_pokemon2.grid()
 
         btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(PickAnAction))
         btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
@@ -247,8 +242,8 @@ class DamageScreen(tk.Frame):
 
             controller.change(EndScreen)
 
-        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
-        btn_quit.pack()
+        # btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
+        # btn_quit.pack()
 
 
 class EndScreen(tk.Frame):
@@ -257,21 +252,19 @@ class EndScreen(tk.Frame):
         controller.master.geometry("600x400")
 
         if (game_round.pokemon_loser or game_round.pokemon_winner) is None:
-
             lbl_no_winner = tk.Label(self, text=f"Nobody won")
             lbl_no_winner.pack()
-
         else:
-
             lbl_fainted = tk.Label(self, text=f"{game_round.pokemon_loser.pokemon_name} fainted")
             lbl_fainted.pack()
-
             lbl_winner = tk.Label(self, text=f"{game_round.pokemon_winner.pokemon_name} won")
             lbl_winner.pack()
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
+        btn_quit = tk.Button(self, text="Back", command=controller.change(PickAPokemonScreen))
+        btn_quit.pack()
 
 
 def main():

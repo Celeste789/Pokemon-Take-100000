@@ -45,6 +45,7 @@ class GameRound:
 
     def pokemon_loser_setter(self, pokemon):
         self.pokemon_loser = pokemon
+        self.pokemon_loser.pokemon_status_setter(False)
 
     def pokemon_winner_setter(self, pokemon):
         self.pokemon_winner = pokemon
@@ -81,8 +82,6 @@ class GameRound:
         else:
             done = False
 
-        self.pokemon_loser.pokemon_status_setter(False)
-
         return done
 
     def damage_calculator(self, pokemon1, pokemon2, move):
@@ -118,5 +117,3 @@ class GameRound:
 
         # pokemon1_exp = pokemon1.pokemon_exp
         # pokemon2_exp = pokemon2.pokemon_exp
-
-
