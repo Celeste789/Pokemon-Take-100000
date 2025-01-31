@@ -7,6 +7,8 @@ Created on Wed Jan 15 14:40:07 2025
 
 from random import uniform
 
+import pokemon
+
 from Specie import Specie
 
 
@@ -15,14 +17,11 @@ class Pokemon:
         self.pokemon_name = name
         self.pokemon_specie = specie
         self.pokemon_moves = moves
-        self.pokemon_hp = None
         self.pokemon_stats = {}
         self.pokemon_lvl = 5
         self.pokemon_exp = 0
         self.pokemon_status = True
-
         self.pokemon_hp = self.pokemon_hp_calculator()
-
         for stat_name, stat_value in self.pokemon_specie.specie_stats.items():
             self.pokemon_stats[stat_name] = self.pokemon_stats_calculator(stat_name)
 

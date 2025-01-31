@@ -263,8 +263,8 @@ class EndScreen(tk.Frame):
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
-        btn_quit = tk.Button(self, text="Back", command=controller.change(PickAPokemonScreen))
-        btn_quit.pack()
+        btn_back = tk.Button(self, text="Back", command=controller.change(PickAPokemonScreen))
+        btn_back.pack()
 
 
 def main():
