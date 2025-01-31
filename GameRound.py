@@ -13,7 +13,7 @@ from Battle import *
 from random import randint
 
 
-class Game:
+class GameRound:
     def __init__(self, trainer1_game, trainer2_game):
         self.trainer1_game = trainer1_game
         self.trainer2_game = trainer2_game

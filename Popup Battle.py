@@ -7,15 +7,15 @@ Created on Fri Jan 17 21:02:51 2025
 
 import tkinter as tk
 
-from Game import *
+from GameRound import *
 
 screen = tk.Tk()
 screen.geometry("400x400")
 screen.title("Pokemon Battle")
 
-game = Game(trainer1, trainer2)
-trainer1_frame_class = game.trainer1_game
-trainer2_frame_class = game.trainer2_game
+game_round = GameRound(trainer1, trainer2)
+trainer1_frame_class = game_round.trainer1_game
+trainer2_frame_class = game_round.trainer2_game
 
 
 class MainScreen:
@@ -59,7 +59,7 @@ class PickAPokemonScreen(tk.Frame):
         lbl_trainer1 = tk.Label(left_frame, text="Trainer 1's Pokémon:")
         lbl_trainer1.grid(sticky="w", pady=5)
 
-        trainer_team1 = game.trainer1_game.trainer_team
+        trainer_team1 = round.trainer1_game.trainer_team
         pokemon1_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team1.items():
@@ -68,14 +68,14 @@ class PickAPokemonScreen(tk.Frame):
                 text=name,
                 variable=pokemon1_var,
                 value=name,
-                command=lambda: game.selected_pokemon1_setter(pokemon1_var.get())
+                command=lambda: game_round.selected_pokemon1_setter(pokemon1_var.get())
             )
             btn_pokemon1.grid(sticky="W")
 
         lbl_trainer2 = tk.Label(right_frame, text="Trainer 2's Pokémon:")
         lbl_trainer2.grid(sticky="w", pady=5)
 
-        trainer_team2 = game.trainer2_game.trainer_team
+        trainer_team2 = game_round.trainer2_game.trainer_team
         pokemon2_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team2.items():
@@ -84,7 +84,7 @@ class PickAPokemonScreen(tk.Frame):
                 text=name,
                 variable=pokemon2_var,
                 value=name,
-                command=lambda: game.selected_pokemon2_setter(pokemon2_var.get())
+                command=lambda: game_round.selected_pokemon2_setter(pokemon2_var.get())
             )
             btn_pokemon2.grid(sticky="E")
 
@@ -127,24 +127,24 @@ class ShowStats(tk.Frame):
         controller.master.geometry("600x400")
 
         lbl_hp1 = tk.Label(self,
-                           text=f"{game.selected_pokemon1.pokemon_name}'s HP is {game.selected_pokemon1.pokemon_hp}")
+                           text=f"{game_round.selected_pokemon1.pokemon_name}'s HP is {game_round.selected_pokemon1.pokemon_hp}")
         lbl_hp1.pack()
 
         lbl_hp2 = tk.Label(self,
-                           text=f"{game.selected_pokemon2.pokemon_name}'s HP is {game.selected_pokemon2.pokemon_hp}")
+                           text=f"{game_round.selected_pokemon2.pokemon_name}'s HP is {game_round.selected_pokemon2.pokemon_hp}")
         lbl_hp2.pack()
 
-        lbl_title1 = tk.Label(self, text=f"{game.selected_pokemon1.pokemon_name} stats are")
+        lbl_title1 = tk.Label(self, text=f"{game_round.selected_pokemon1.pokemon_name} stats are")
         lbl_title1.pack()
 
-        for stat_name, stat_value in game.selected_pokemon1.pokemon_stats.items():
+        for stat_name, stat_value in game_round.selected_pokemon1.pokemon_stats.items():
             lbl_stat = tk.Label(self, text=f"{stat_name}: {stat_value}")
             lbl_stat.pack()
 
-        lbl_title2 = tk.Label(self, text=f"{game.selected_pokemon2.pokemon_name} stats are")
+        lbl_title2 = tk.Label(self, text=f"{game_round.selected_pokemon2.pokemon_name} stats are")
         lbl_title2.pack()
 
-        for stat_name, stat_value in game.selected_pokemon2.pokemon_stats.items():
+        for stat_name, stat_value in game_round.selected_pokemon2.pokemon_stats.items():
             lbl_stat = tk.Label(self, text=f"{stat_name}: {stat_value}")
             lbl_stat.pack()
 
@@ -168,33 +168,33 @@ class PickAMoveScreen(tk.Frame):
         left_frame.grid(row=1, column=0, padx=20, pady=10, sticky="nsew")
         right_frame.grid(row=1, column=1, padx=20, pady=10, sticky="nsew")
 
-        lbl_pokemon1 = tk.Label(left_frame, text=f"{game.selected_pokemon1.pokemon_name}'s moves")
+        lbl_pokemon1 = tk.Label(left_frame, text=f"{game_round.selected_pokemon1.pokemon_name}'s moves")
         lbl_pokemon1.grid(sticky="w", pady=5)
 
         move1_var = tk.StringVar(None, " ")
 
-        for name, move in game.selected_pokemon1.pokemon_moves.items():
+        for name, move in game_round.selected_pokemon1.pokemon_moves.items():
             btn_move1 = tk.Radiobutton(
                 master=left_frame,
                 text=name,
                 variable=move1_var,
                 value=name,
-                command=lambda: game.selected_move1_setter(move1_var.get())
+                command=lambda: game_round.selected_move1_setter(move1_var.get())
             )
             btn_move1.grid(sticky="W")
 
-        lbl_pokemon2 = tk.Label(left_frame, text=f"{game.selected_pokemon2.pokemon_name}'s moves")
+        lbl_pokemon2 = tk.Label(left_frame, text=f"{game_round.selected_pokemon2.pokemon_name}'s moves")
         lbl_pokemon2.grid(sticky="w", pady=5)
 
         move2_var = tk.StringVar(None, " ")
 
-        for name, move in game.selected_pokemon2.pokemon_moves.items():
+        for name, move in game_round.selected_pokemon2.pokemon_moves.items():
             btn_move2 = tk.Radiobutton(
                 master=left_frame,
                 text=name,
                 variable=move2_var,
                 value=name,
-                command=lambda: game.selected_move2_setter(move2_var.get())
+                command=lambda: game_round.selected_move2_setter(move2_var.get())
             )
             btn_move2.grid(sticky="W")
 
@@ -213,14 +213,14 @@ class DamageScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        if not game.battle():
+        if not game_round.battle():
 
             lbl_damage1 = tk.Label(self,
-                                   text=f"{game.selected_pokemon1.pokemon_name}'s HP is {game.selected_pokemon1.pokemon_stats['HP']}")
+                                   text=f"{game_round.selected_pokemon1.pokemon_name}'s HP is {game_round.selected_pokemon1.pokemon_stats['HP']}")
             lbl_damage1.pack()
 
             lbl_damage2 = tk.Label(self,
-                                   text=f"{game.selected_pokemon2.pokemon_name}'s HP is {game.selected_pokemon2.pokemon_stats['HP']}")
+                                   text=f"{game_round.selected_pokemon2.pokemon_name}'s HP is {game_round.selected_pokemon2.pokemon_stats['HP']}")
             lbl_damage2.pack()
 
             btn_change_pokemon = tk.Button(self, text="Change Pokemon",
@@ -244,17 +244,17 @@ class EndScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        if (game.pokemon_loser or game.pokemon_winner) is None:
+        if (game_round.pokemon_loser or game_round.pokemon_winner) is None:
 
             lbl_no_winner = tk.Label(self, text=f"Nobody won")
             lbl_no_winner.pack()
 
         else:
 
-            lbl_fainted = tk.Label(self, text=f"{game.pokemon_loser.pokemon_name} fainted")
+            lbl_fainted = tk.Label(self, text=f"{game_round.pokemon_loser.pokemon_name} fainted")
             lbl_fainted.pack()
 
-            lbl_winner = tk.Label(self, text=f"{game.pokemon_winner.pokemon_name} won")
+            lbl_winner = tk.Label(self, text=f"{game_round.pokemon_winner.pokemon_name} won")
             lbl_winner.pack()
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
