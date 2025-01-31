@@ -4,11 +4,11 @@ Created on Thu Jan 23 21:04:13 2025
 
 @author: Celeste
 """
-from Specie import Specie
-from Pokemon import Pokemon
-from Type import Type
-from Move import Move
-from Trainer import Trainer
+# from Specie import Specie
+# from Pokemon import Pokemon
+# from Type import Type
+# from Move import Move
+# from Trainer import Trainer
 from Battle import *
 from random import randint
 
@@ -54,11 +54,14 @@ class Game:
         move1 = self.selected_move1
         move2 = self.selected_move2
 
-        new_hp1 = pokemon1.pokemon_stats["HP"]
-        new_hp2 = pokemon2.pokemon_stats["HP"]
+        old_hp1 = pokemon1.pokemon_hp
+        old_hp2 = pokemon2.pokemon_hp
 
-        new_hp1 -= self.damage_calculator(pokemon2, pokemon1, move2)
-        new_hp2 -= self.damage_calculator(pokemon1, pokemon2, move1)
+        new_hp1 = pokemon1.pokemon_hp
+        new_hp2 = pokemon2.pokemon_hp
+
+        new_hp1 -= int(self.damage_calculator(pokemon2, pokemon1, move2))
+        new_hp2 -= int(self.damage_calculator(pokemon1, pokemon2, move1))
 
         Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
         Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
@@ -80,12 +83,14 @@ class Game:
         move_type = move.move_type
         type2 = pokemon2.pokemon_specie.specie_type
 
-        type_effectiveness = type2[move_type]
+        type_effectiveness = type2.type_effectiveness[move_type.type_name]
 
         move1_category = move.move_category
 
         defense_2 = pokemon2.pokemon_stats["Defense"]
         attack_1 = pokemon1.pokemon_stats["Attack"]
+
+        critical = 1
 
         if move1_category == "Special":
             defense_2 = pokemon2.pokemon_stats["Special Defense"]
@@ -93,12 +98,15 @@ class Game:
 
         pokemon1_lvl = pokemon1.pokemon_lvl
 
-        critical = randint(1, 6)
-        parcial_damage1 = (2 * pokemon1_lvl * critical / 5) + 2
-        parcial_damage2 = parcial_damage1 * power_move * attack_1 / defense_2 + 2
-        total_damage = parcial_damage2 * type_effectiveness
+        random_number = randint(1, 6)
+        if random_number == 1:
+            critical = 2
 
-        return total_damage
+        partial_damage1 = (2 * pokemon1_lvl * critical / 5) + 2
+        partial_damage2 = partial_damage1 * power_move * attack_1 / defense_2 + 2
+        total_damage = partial_damage2 / 20 * type_effectiveness
+
+        return int(total_damage)
 
         # pokemon1_exp = pokemon1.pokemon_exp
         # pokemon2_exp = pokemon2.pokemon_exp

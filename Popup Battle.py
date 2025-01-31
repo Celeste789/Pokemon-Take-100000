@@ -88,7 +88,7 @@ class PickAPokemonScreen(tk.Frame):
             )
             btn_pokemon2.grid(sticky="E")
 
-        btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(PickAMoveScreen))
+        btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(PickAnAction))
         btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
 
         btn_back = tk.Button(self, text="Back", command=lambda: controller.change(WelcomeScreen))
@@ -96,6 +96,63 @@ class PickAPokemonScreen(tk.Frame):
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.grid(row=6, column=0, columnspan=5, pady=10)
+
+
+class PickAnAction(tk.Frame):
+    def __init__(self, controller):
+        super().__init__(controller.master)
+        controller.master.geometry("600x400")
+
+        btn_stats = tk.Button(self, text=f"Show stats",
+                              command=lambda: controller.change(ShowStats))
+        btn_stats.pack()
+
+        btn_move = tk.Button(self, text=f"Pick a move",
+                             command=lambda: controller.change(PickAMoveScreen))
+        btn_move.pack()
+
+        # btn_potion = tk.Button(self, text="Quit", command=screen.destroy)
+        # btn_potion.grid(row=6, column=0, columnspan=5, pady=10)
+
+        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAPokemonScreen))
+        btn_back.pack()
+
+        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
+        btn_quit.pack()
+
+
+class ShowStats(tk.Frame):
+    def __init__(self, controller):
+        super().__init__(controller.master)
+        controller.master.geometry("600x400")
+
+        lbl_hp1 = tk.Label(self,
+                           text=f"{game.selected_pokemon1.pokemon_name}'s HP is {game.selected_pokemon1.pokemon_hp}")
+        lbl_hp1.pack()
+
+        lbl_hp2 = tk.Label(self,
+                           text=f"{game.selected_pokemon2.pokemon_name}'s HP is {game.selected_pokemon2.pokemon_hp}")
+        lbl_hp2.pack()
+
+        lbl_title1 = tk.Label(self, text=f"{game.selected_pokemon1.pokemon_name} stats are")
+        lbl_title1.pack()
+
+        for stat_name, stat_value in game.selected_pokemon1.pokemon_stats.items():
+            lbl_stat = tk.Label(self, text=f"{stat_name}: {stat_value}")
+            lbl_stat.pack()
+
+        lbl_title2 = tk.Label(self, text=f"{game.selected_pokemon2.pokemon_name} stats are")
+        lbl_title2.pack()
+
+        for stat_name, stat_value in game.selected_pokemon2.pokemon_stats.items():
+            lbl_stat = tk.Label(self, text=f"{stat_name}: {stat_value}")
+            lbl_stat.pack()
+
+        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAnAction))
+        btn_back.pack()
+
+        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
+        btn_quit.pack()
 
 
 class PickAMoveScreen(tk.Frame):
@@ -144,7 +201,7 @@ class PickAMoveScreen(tk.Frame):
         btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(DamageScreen))
         btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
 
-        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAPokemonScreen))
+        btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAnAction))
         btn_back.grid(row=5, column=0, columnspan=5, pady=10)
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
@@ -158,21 +215,28 @@ class DamageScreen(tk.Frame):
 
         if not game.battle():
 
-            lbl_damage1 = tk.Label(self, text=f"Pokemon1's HP is {game.selected_pokemon1.pokemon_stats['HP']}")
+            lbl_damage1 = tk.Label(self,
+                                   text=f"{game.selected_pokemon1.pokemon_name}'s HP is {game.selected_pokemon1.pokemon_stats['HP']}")
             lbl_damage1.pack()
 
-            lbl_damage2 = tk.Label(self, text=f"Pokemon2's HP is {game.selected_pokemon2.pokemon_stats['HP']}")
+            lbl_damage2 = tk.Label(self,
+                                   text=f"{game.selected_pokemon2.pokemon_name}'s HP is {game.selected_pokemon2.pokemon_stats['HP']}")
             lbl_damage2.pack()
 
-            btn_change_pokemon = tk.Button(self, text="Change Pokemon", command=lambda: controller.change(PickAPokemonScreen))
+            btn_change_pokemon = tk.Button(self, text="Change Pokemon",
+                                           command=lambda: controller.change(PickAPokemonScreen))
             btn_change_pokemon.pack()
 
-            btn_pick_move = tk.Button(self, text="Pick A Move", command=lambda: controller.change(PickAMoveScreen))
+            btn_pick_move = tk.Button(self, text="Pick A Move",
+                                      command=lambda: controller.change(PickAMoveScreen))
             btn_pick_move.pack()
 
         else:
 
             controller.change(EndScreen)
+
+        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
+        btn_quit.pack()
 
 
 class EndScreen(tk.Frame):
@@ -193,6 +257,11 @@ class EndScreen(tk.Frame):
             lbl_winner = tk.Label(self, text=f"{game.pokemon_winner.pokemon_name} won")
             lbl_winner.pack()
 
+        btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
+        btn_quit.pack()
+
+    # Pokemon.pokemon_HP_setter(game.selected_pokemon1, )
+    # Pokemon.pokemon_HP_setter(pokemon2, old_hp2)
 
 def main():
     MainScreen(screen)

@@ -50,7 +50,6 @@ razor_leaf = Move("Razor Leaf", 45, grass, "Physical")
 tackle = Move("Tackle", 40, normal, "Physical")
 
 cyndaquil_stats = {
-    "HP": 39,
     "Attack": 52,
     "Special Attack": 60,
     "Defense": 49,
@@ -58,8 +57,12 @@ cyndaquil_stats = {
     "Speed": 65
 }
 
+cyndaquil_hp = 39
+chikorita_hp = 45
+totodile_hp = 50
+rattata_hp = 30
+
 chikorita_stats = {
-    "HP": 45,
     "Attack": 49,
     "Special Attack": 49,
     "Defense": 65,
@@ -68,7 +71,6 @@ chikorita_stats = {
 }
 
 totodile_stats = {
-    "HP": 50,
     "Attack": 65,
     "Special Attack": 44,
     "Defense": 64,
@@ -77,7 +79,6 @@ totodile_stats = {
 }
 
 rattata_stats = {
-    "HP": 30,
     "Attack": 56,
     "Special Attack": 25,
     "Defense": 35,
@@ -104,16 +105,16 @@ ratta_moves = {
     "Tackle": tackle
 }
 
-cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_stats)
+cyndaquil = Specie("Cyndaquil", fire, [ember, tackle],cyndaquil_hp, cyndaquil_stats)
 cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves)
 
-chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], chikorita_stats)
+chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats)
 chiko = Pokemon("Chiko", chikorita, chiko_moves)
 
-totodile = Specie("Totodile", water, [water_gun, tackle], totodile_stats)
+totodile = Specie("Totodile", water, [water_gun, tackle], hp=totodile_hp, stats=totodile_stats)
 toto = Pokemon("Toto", totodile, toto_moves)
 
-rattata = Specie("Rattata", normal, [tackle], rattata_stats)
+rattata = Specie("Rattata", normal, [tackle], hp=rattata_hp, stats=rattata_stats)
 ratta1 = Pokemon("Ratta1", rattata, ratta_moves)
 ratta2 = Pokemon("Ratta2", rattata, ratta_moves)
 
