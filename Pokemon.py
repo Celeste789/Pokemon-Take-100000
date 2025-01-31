@@ -19,6 +19,7 @@ class Pokemon:
         self.pokemon_stats = {}
         self.pokemon_lvl = 5
         self.pokemon_exp = 0
+        self.pokemon_status = True
 
         self.pokemon_hp = self.pokemon_hp_calculator()
 
@@ -26,7 +27,10 @@ class Pokemon:
             self.pokemon_stats[stat_name] = self.pokemon_stats_calculator(stat_name)
 
     def pokemon_HP_setter(self, new_HP):
-        self.pokemon_stats["HP"] = new_HP
+        self.pokemon_hp = new_HP
+
+    def pokemon_HP_getter(self):
+        return self.pokemon_hp
 
     def pokemon_lvl_setter(self, new_lvl):
         self.pokemon_lvl = new_lvl
@@ -41,3 +45,6 @@ class Pokemon:
     def pokemon_stats_calculator(self, stat):
         new_stat = (0.02 * 2 * self.pokemon_specie.specie_stats[stat] * self.pokemon_lvl + 5) * uniform(0.9, 1.2)
         return int(new_stat)
+
+    def pokemon_status_setter(self, new_status):
+        self.pokemon_status = new_status

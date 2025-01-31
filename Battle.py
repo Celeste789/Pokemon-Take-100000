@@ -105,7 +105,7 @@ ratta_moves = {
     "Tackle": tackle
 }
 
-cyndaquil = Specie("Cyndaquil", fire, [ember, tackle],cyndaquil_hp, cyndaquil_stats)
+cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_hp, cyndaquil_stats)
 cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves)
 
 chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats)

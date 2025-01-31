@@ -27,6 +27,10 @@ class GameRound:
         self.pokemon_loser = None
         self.pokemon_winner = None
 
+        self.round_dict = None
+        self.round_event = None
+        self.round_number = 0
+
     def selected_pokemon1_setter(self, pokemon_name):
         self.selected_pokemon1 = self.trainer1_game.trainer_team[pokemon_name]
 
@@ -47,6 +51,7 @@ class GameRound:
 
     def battle(self):
         done = True
+        self.round_number += 1
 
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
@@ -57,8 +62,8 @@ class GameRound:
         old_hp1 = pokemon1.pokemon_hp
         old_hp2 = pokemon2.pokemon_hp
 
-        new_hp1 = pokemon1.pokemon_hp
-        new_hp2 = pokemon2.pokemon_hp
+        new_hp1 = pokemon1.pokemon_HP_getter()
+        new_hp2 = pokemon2.pokemon_HP_getter()
 
         new_hp1 -= int(self.damage_calculator(pokemon2, pokemon1, move2))
         new_hp2 -= int(self.damage_calculator(pokemon1, pokemon2, move1))
@@ -69,11 +74,14 @@ class GameRound:
         if new_hp2 <= 0:
             self.pokemon_loser_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
+
         elif new_hp1 <= 0:
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
         else:
             done = False
+
+        self.pokemon_loser.pokemon_status_setter(False)
 
         return done
 
@@ -110,3 +118,5 @@ class GameRound:
 
         # pokemon1_exp = pokemon1.pokemon_exp
         # pokemon2_exp = pokemon2.pokemon_exp
+
+

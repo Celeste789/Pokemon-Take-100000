@@ -59,17 +59,22 @@ class PickAPokemonScreen(tk.Frame):
         lbl_trainer1 = tk.Label(left_frame, text="Trainer 1's Pokémon:")
         lbl_trainer1.grid(sticky="w", pady=5)
 
-        trainer_team1 = round.trainer1_game.trainer_team
+        trainer_team1 = game_round.trainer1_game.trainer_team
         pokemon1_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team1.items():
-            btn_pokemon1 = tk.Radiobutton(
-                master=left_frame,
-                text=name,
-                variable=pokemon1_var,
-                value=name,
-                command=lambda: game_round.selected_pokemon1_setter(pokemon1_var.get())
-            )
+            if pokemon.pokemon_status:
+                btn_pokemon1 = tk.Radiobutton(
+                    master=left_frame,
+                    text=name,
+                    variable=pokemon1_var,
+                    value=name,
+                    command=lambda: game_round.selected_pokemon1_setter(pokemon1_var.get())
+                )
+            else:
+                btn_pokemon1 = tk.Radiobutton(
+                    state="Disable"
+                )
             btn_pokemon1.grid(sticky="W")
 
         lbl_trainer2 = tk.Label(right_frame, text="Trainer 2's Pokémon:")
@@ -79,13 +84,18 @@ class PickAPokemonScreen(tk.Frame):
         pokemon2_var = tk.StringVar(None, " ")
 
         for name, pokemon in trainer_team2.items():
-            btn_pokemon2 = tk.Radiobutton(
-                master=right_frame,
-                text=name,
-                variable=pokemon2_var,
-                value=name,
-                command=lambda: game_round.selected_pokemon2_setter(pokemon2_var.get())
-            )
+            if pokemon.pokemon_status:
+                btn_pokemon2 = tk.Radiobutton(
+                    master=left_frame,
+                    text=name,
+                    variable=pokemon2_var,
+                    value=name,
+                    command=lambda: game_round.selected_pokemon2_setter(pokemon2_var.get())
+                )
+            else:
+                btn_pokemon2 = tk.Radiobutton(
+                    state="Disable"
+                )
             btn_pokemon2.grid(sticky="E")
 
         btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(PickAnAction))
@@ -216,11 +226,11 @@ class DamageScreen(tk.Frame):
         if not game_round.battle():
 
             lbl_damage1 = tk.Label(self,
-                                   text=f"{game_round.selected_pokemon1.pokemon_name}'s HP is {game_round.selected_pokemon1.pokemon_stats['HP']}")
+                                   text=f"{game_round.selected_pokemon1.pokemon_name}'s HP is {game_round.selected_pokemon1.pokemon_hp}")
             lbl_damage1.pack()
 
             lbl_damage2 = tk.Label(self,
-                                   text=f"{game_round.selected_pokemon2.pokemon_name}'s HP is {game_round.selected_pokemon2.pokemon_stats['HP']}")
+                                   text=f"{game_round.selected_pokemon2.pokemon_name}'s HP is {game_round.selected_pokemon2.pokemon_hp}")
             lbl_damage2.pack()
 
             btn_change_pokemon = tk.Button(self, text="Change Pokemon",
@@ -260,8 +270,7 @@ class EndScreen(tk.Frame):
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
-    # Pokemon.pokemon_HP_setter(game.selected_pokemon1, )
-    # Pokemon.pokemon_HP_setter(pokemon2, old_hp2)
+
 
 def main():
     MainScreen(screen)
