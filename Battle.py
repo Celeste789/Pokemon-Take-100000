@@ -12,23 +12,23 @@ from Move import Move
 from Trainer import Trainer
 
 type_effectiveness_fire = {
-    "Water": 1 / 2,
-    "Fire": 1 / 2,
-    "Grass": 1 / 2,
+    "Water": 2,
+    "Fire": 1/2,
+    "Grass": 1/2,
     "Normal": 1
 }
 
 type_effectiveness_water = {
-    "Water": 1 / 2,
-    "Fire": 2,
-    "Grass": 1 / 2,
+    "Water": 1/2,
+    "Fire": 1/2,
+    "Grass": 2,
     "Normal": 1
 }
 
 type_effectiveness_grass = {
-    "Water": 2,
-    "Fire": 1 / 2,
-    "Grass": 1 / 2,
+    "Water": 1/2,
+    "Fire": 2,
+    "Grass": 1/2,
     "Normal": 1
 }
 

@@ -8,6 +8,7 @@ Created on Fri Jan 17 21:02:51 2025
 import tkinter as tk
 
 from GameRound import *
+from History import History
 
 screen = tk.Tk()
 screen.geometry("400x400")
@@ -16,6 +17,8 @@ screen.title("Pokemon Battle")
 game_round = GameRound(trainer1, trainer2)
 trainer1_frame_class = game_round.trainer1_game
 trainer2_frame_class = game_round.trainer2_game
+
+history = History()
 
 
 class MainScreen:
@@ -28,6 +31,12 @@ class MainScreen:
         self.frame.pack_forget()  # Remove the current frame
         self.frame = frame(self)  # Create the new frame
         self.frame.pack()
+
+    def change_screen2(self):
+        if game_round.battle():
+            self.change(EndScreen)
+        else:
+            self.change(DamageScreen)
 
 
 class WelcomeScreen(tk.Frame):
@@ -205,7 +214,7 @@ class PickAMoveScreen(tk.Frame):
             )
             btn_move2.grid(sticky="W")
 
-        btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change(DamageScreen))
+        btn_continue = tk.Button(self, text="Continue", command=lambda: controller.change_screen2())
         btn_continue.grid(row=4, column=0, columnspan=5, pady=10)
 
         btn_back = tk.Button(self, text="Back", command=lambda: controller.change(PickAnAction))
@@ -220,30 +229,26 @@ class DamageScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
-        if not game_round.battle():
+        lbl_hp1 = tk.Label(self,
+                           text=f"{game_round.selected_pokemon1.pokemon_name}'s HP is {game_round.selected_pokemon1.pokemon_hp}"
+                           )
+        lbl_hp1.pack()
 
-            lbl_damage1 = tk.Label(self,
-                                   text=f"{game_round.selected_pokemon1.pokemon_name}'s HP is {game_round.selected_pokemon1.pokemon_hp}")
-            lbl_damage1.pack()
+        history_event = history.history_getter()[0]
+        damage1 = history_event.new_round_damage1
+        lbl_damage1 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon1} is {damage1}")
+        lbl_damage1.pack()
 
-            lbl_damage2 = tk.Label(self,
-                                   text=f"{game_round.selected_pokemon2.pokemon_name}'s HP is {game_round.selected_pokemon2.pokemon_hp}")
-            lbl_damage2.pack()
+        lbl_hp2 = tk.Label(self,
+                           text=f"{game_round.selected_pokemon2.pokemon_name}'s HP is {game_round.selected_pokemon2.pokemon_hp}")
+        lbl_hp2.pack()
+        btn_change_pokemon = tk.Button(self, text="Change Pokemon",
+                                       command=lambda: controller.change(PickAPokemonScreen))
+        btn_change_pokemon.pack()
 
-            btn_change_pokemon = tk.Button(self, text="Change Pokemon",
-                                           command=lambda: controller.change(PickAPokemonScreen))
-            btn_change_pokemon.pack()
-
-            btn_pick_move = tk.Button(self, text="Pick A Move",
-                                      command=lambda: controller.change(PickAMoveScreen))
-            btn_pick_move.pack()
-
-        else:
-
-            controller.change(EndScreen)
-
-        # btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
-        # btn_quit.pack()
+        btn_pick_move = tk.Button(self, text="Pick A Move",
+                                  command=lambda: controller.change(PickAMoveScreen))
+        btn_pick_move.pack()
 
 
 class EndScreen(tk.Frame):
@@ -263,8 +268,9 @@ class EndScreen(tk.Frame):
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
-        btn_back = tk.Button(self, text="Back", command=controller.change(PickAPokemonScreen))
-        btn_back.pack()
+        btn_pick_another_pokemon = tk.Button(self, text="Pick another Pokemon",
+                                             command=lambda: controller.change(PickAPokemonScreen))
+        btn_pick_another_pokemon.pack()
 
 
 def main():
