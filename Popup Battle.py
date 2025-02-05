@@ -248,12 +248,10 @@ class DamageScreen(tk.Frame):
         lbl_damage2 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon2.pokemon_name} is {damage2}")
         lbl_damage2.pack()
 
-        if game_round.damage_calculator(game_round.selected_pokemon1, game_round.selected_pokemon2,
-                                        game_round.selected_move1)[1]:
+        if history_event.new_round_critical1:
             lbl_critic1 = tk.Label(self, text=f"{game_round.selected_pokemon1.pokemon_name} landed a critical hit")
             lbl_critic1.pack()
-        if game_round.damage_calculator(game_round.selected_pokemon2, game_round.selected_pokemon1,
-                                        game_round.selected_move2)[1]:
+        if history_event.new_round_critical2:
             lbl_critic2 = tk.Label(self, text=f"{game_round.selected_pokemon2.pokemon_name} landed a critical hit")
             lbl_critic2.pack()
 
@@ -279,11 +277,10 @@ class EndScreen(tk.Frame):
         lbl_damage2 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon2.pokemon_name} is {damage2}")
         lbl_damage2.pack()
 
-        if game_round.damage_calculator(game_round.selected_pokemon1, game_round.selected_pokemon2, game_round.selected_move1)[1]:
+        if history_event.new_round_critical1:
             lbl_critic1 = tk.Label(self, text=f"{game_round.selected_pokemon1.pokemon_name} landed a critical hit")
             lbl_critic1.pack()
-        if game_round.damage_calculator(game_round.selected_pokemon2, game_round.selected_pokemon1,
-                                        game_round.selected_move2)[1]:
+        if history_event.new_round_critical2:
             lbl_critic2 = tk.Label(self, text=f"{game_round.selected_pokemon2.pokemon_name} landed a critical hit")
             lbl_critic2.pack()
 

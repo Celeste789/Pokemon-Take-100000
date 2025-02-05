@@ -76,8 +76,8 @@ class GameRound:
         new_hp1 = pokemon1.pokemon_HP_getter()
         new_hp2 = pokemon2.pokemon_HP_getter()
 
-        damage1 = int(self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)[0])
-        damage2 = int(self.damage_calculator(attacker=pokemon1, defender=pokemon2, move=move1)[0])
+        damage1, critical1 = self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)
+        damage2, critical2 = self.damage_calculator(attacker=pokemon1, defender=pokemon2, move=move1)
 
         self.pokemon_history_event_setter(
             round_number=self.round_number,
@@ -85,8 +85,8 @@ class GameRound:
             pokemon2=pokemon2,
             damage1=damage1,
             damage2=damage2,
-            critical1=self.damage_calculator(attacker=pokemon1, defender=pokemon2, move=move1)[1],
-            critical2=self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)[1]
+            critical1=critical1,
+            critical2=critical2
         )
 
         history.add(event=self.history_event)
