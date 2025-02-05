@@ -7,10 +7,6 @@ Created on Wed Jan 15 14:40:07 2025
 
 from random import uniform
 
-import pokemon
-
-from Specie import Specie
-
 
 class Pokemon:
     def __init__(self, name, specie, moves):
@@ -24,6 +20,7 @@ class Pokemon:
         self.pokemon_hp = self.pokemon_hp_calculator()
         for stat_name, stat_value in self.pokemon_specie.specie_stats.items():
             self.pokemon_stats[stat_name] = self.pokemon_stats_calculator(stat_name)
+        self.pokemon_fainted = False
 
     def pokemon_HP_setter(self, new_HP):
         self.pokemon_hp = new_HP
@@ -36,6 +33,12 @@ class Pokemon:
 
     def pokemon_exp_setter(self, new_exp):
         self.pokemon_exp = new_exp
+
+    def pokemon_fainted_getter(self):
+        return self.pokemon_fainted
+
+    def pokemon_fainted_setter(self, boolean):
+        self.pokemon_fainted = boolean
 
     def pokemon_hp_calculator(self):
         hp = (0.02 * self.pokemon_specie.specie_hp * self.pokemon_lvl + self.pokemon_lvl + 10) * uniform(0.9, 1.2)

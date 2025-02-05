@@ -17,6 +17,7 @@ from History import History
 
 history = History()
 
+
 class GameRound:
     def __init__(self, trainer1_game, trainer2_game):
         self.trainer1_game = trainer1_game
@@ -99,10 +100,11 @@ class GameRound:
         if new_hp2 <= 0:
             self.pokemon_loser_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
-
+            self.pokemon_loser.pokemon_fainted_setter(True)
         elif new_hp1 <= 0:
             self.pokemon_loser_setter(pokemon1)
             self.pokemon_winner_setter(pokemon2)
+            self.pokemon_loser.pokemon_fainted_setter(True)
         else:
             done = False
             # self.selected_pokemon1.pokemon_HP_setter(old_hp1)
@@ -145,3 +147,13 @@ class GameRound:
 
         # pokemon1_exp = pokemon1.pokemon_exp
         # pokemon2_exp = pokemon2.pokemon_exp
+
+
+    def pokemon_left_trainer(self, trainer):
+        pokemon_left = False
+        for name in trainer.trainer_team.keys():
+            if not trainer.trainer_team[name].pokemon_fainted:
+                pokemon_left = True
+        return pokemon_left
+
+

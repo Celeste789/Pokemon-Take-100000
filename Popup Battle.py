@@ -18,8 +18,6 @@ game_round = GameRound(trainer1, trainer2)
 trainer1_frame_class = game_round.trainer1_game
 trainer2_frame_class = game_round.trainer2_game
 
-history = History()
-
 
 class MainScreen:
     def __init__(self, master):
@@ -235,8 +233,9 @@ class DamageScreen(tk.Frame):
         lbl_hp1.pack()
 
         history_event = history.history_getter()[0]
+
         damage1 = history_event.new_round_damage1
-        lbl_damage1 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon1} is {damage1}")
+        lbl_damage1 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon1.pokemon_name} is {damage1}")
         lbl_damage1.pack()
 
         lbl_hp2 = tk.Label(self,
@@ -244,6 +243,20 @@ class DamageScreen(tk.Frame):
         lbl_hp2.pack()
         btn_change_pokemon = tk.Button(self, text="Change Pokemon",
                                        command=lambda: controller.change(PickAPokemonScreen))
+
+        damage2 = history_event.new_round_damage2
+        lbl_damage2 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon2.pokemon_name} is {damage2}")
+        lbl_damage2.pack()
+
+        if game_round.damage_calculator(game_round.selected_pokemon1, game_round.selected_pokemon2,
+                                        game_round.selected_move1)[1]:
+            lbl_critic1 = tk.Label(self, text=f"{game_round.selected_pokemon1.pokemon_name} landed a critical hit")
+            lbl_critic1.pack()
+        if game_round.damage_calculator(game_round.selected_pokemon2, game_round.selected_pokemon1,
+                                        game_round.selected_move2)[1]:
+            lbl_critic2 = tk.Label(self, text=f"{game_round.selected_pokemon2.pokemon_name} landed a critical hit")
+            lbl_critic2.pack()
+
         btn_change_pokemon.pack()
 
         btn_pick_move = tk.Button(self, text="Pick A Move",
@@ -256,6 +269,24 @@ class EndScreen(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
 
+        history_event = history.history_getter()[0]
+
+        damage1 = history_event.new_round_damage1
+        lbl_damage1 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon1.pokemon_name} is {damage1}")
+        lbl_damage1.pack()
+
+        damage2 = history_event.new_round_damage2
+        lbl_damage2 = tk.Label(self, text=f"The damage for {game_round.selected_pokemon2.pokemon_name} is {damage2}")
+        lbl_damage2.pack()
+
+        if game_round.damage_calculator(game_round.selected_pokemon1, game_round.selected_pokemon2, game_round.selected_move1)[1]:
+            lbl_critic1 = tk.Label(self, text=f"{game_round.selected_pokemon1.pokemon_name} landed a critical hit")
+            lbl_critic1.pack()
+        if game_round.damage_calculator(game_round.selected_pokemon2, game_round.selected_pokemon1,
+                                        game_round.selected_move2)[1]:
+            lbl_critic2 = tk.Label(self, text=f"{game_round.selected_pokemon2.pokemon_name} landed a critical hit")
+            lbl_critic2.pack()
+
         if (game_round.pokemon_loser or game_round.pokemon_winner) is None:
             lbl_no_winner = tk.Label(self, text=f"Nobody won")
             lbl_no_winner.pack()
@@ -265,12 +296,20 @@ class EndScreen(tk.Frame):
             lbl_winner = tk.Label(self, text=f"{game_round.pokemon_winner.pokemon_name} won")
             lbl_winner.pack()
 
+        if not game_round.pokemon_left_trainer(trainer1):
+            lbl_loser1 = tk.Label(self, text=f"{trainer1.trainer_name} lost")
+            lbl_loser1.pack()
+        elif not game_round.pokemon_left_trainer(trainer2):
+            lbl_loser2 = tk.Label(self, text=f"{trainer2.trainer_name} lost")
+            lbl_loser2.pack()
+        else:
+            btn_pick_another_pokemon = tk.Button(self, text="Pick another Pokemon",
+                                                 command=lambda: controller.change(PickAPokemonScreen))
+            btn_pick_another_pokemon.pack()
+
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
-        btn_pick_another_pokemon = tk.Button(self, text="Pick another Pokemon",
-                                             command=lambda: controller.change(PickAPokemonScreen))
-        btn_pick_another_pokemon.pack()
 
 
 def main():
