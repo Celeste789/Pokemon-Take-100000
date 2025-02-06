@@ -105,16 +105,16 @@ ratta_moves = {
     "Tackle": tackle
 }
 
-cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_hp, cyndaquil_stats)
+cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_hp, cyndaquil_stats, 65)
 cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves)
 
-chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats)
+chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats, BYE=64)
 chiko = Pokemon("Chiko", chikorita, chiko_moves)
 
-totodile = Specie("Totodile", water, [water_gun, tackle], hp=totodile_hp, stats=totodile_stats)
+totodile = Specie("Totodile", water, [water_gun, tackle], hp=totodile_hp, stats=totodile_stats, BYE=66)
 toto = Pokemon("Toto", totodile, toto_moves)
 
-rattata = Specie("Rattata", normal, [tackle], hp=rattata_hp, stats=rattata_stats)
+rattata = Specie("Rattata", normal, [tackle], hp=rattata_hp, stats=rattata_stats, BYE=57)
 ratta1 = Pokemon("Ratta1", rattata, ratta_moves)
 ratta2 = Pokemon("Ratta2", rattata, ratta_moves)
 

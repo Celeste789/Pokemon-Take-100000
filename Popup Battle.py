@@ -292,6 +292,9 @@ class EndScreen(tk.Frame):
             lbl_fainted.pack()
             lbl_winner = tk.Label(self, text=f"{game_round.pokemon_winner.pokemon_name} won")
             lbl_winner.pack()
+            lbl_exp = tk.Label(self, text=f"{game_round.pokemon_winner.pokemon_name} gained {game_round.exp_formula(pokemon_fainted=game_round.pokemon_loser)} \n"
+                                          f"{game_round.pokemon_winner.pokemon_name} experience is now {game_round.add_up_exp()}")
+            lbl_exp.pack()
 
         if not game_round.pokemon_left_trainer(trainer1):
             lbl_loser1 = tk.Label(self, text=f"{trainer1.trainer_name} lost")

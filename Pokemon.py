@@ -14,7 +14,7 @@ class Pokemon:
         self.pokemon_specie = specie
         self.pokemon_moves = moves
         self.pokemon_stats = {}
-        self.pokemon_lvl = 5
+        self.pokemon_lvl = 1
         self.pokemon_exp = 0
         self.pokemon_status = True
         self.pokemon_hp = self.pokemon_hp_calculator()
@@ -50,3 +50,6 @@ class Pokemon:
 
     def pokemon_status_setter(self, new_status):
         self.pokemon_status = new_status
+
+    def pokemon_exp_getter(self):
+        return self.pokemon_exp

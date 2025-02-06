@@ -145,10 +145,6 @@ class GameRound:
 
         return int(total_damage), critical_bool
 
-        # pokemon1_exp = pokemon1.pokemon_exp
-        # pokemon2_exp = pokemon2.pokemon_exp
-
-
     def pokemon_left_trainer(self, trainer):
         pokemon_left = False
         for name in trainer.trainer_team.keys():
@@ -156,4 +152,13 @@ class GameRound:
                 pokemon_left = True
         return pokemon_left
 
+    def add_up_exp(self):
+        experience = self.pokemon_winner.pokemon_exp_getter()
+        new_exp = self.exp_formula(self.pokemon_loser)
+        plus = experience + new_exp
+        self.pokemon_winner.pokemon_exp_setter(plus)
 
+    def exp_formula(self, pokemon_fainted):
+        b = pokemon_fainted.pokemon_specie.base_yield_exp
+        l = pokemon_fainted.pokemon_lvl
+        return int(b * l / 7)
