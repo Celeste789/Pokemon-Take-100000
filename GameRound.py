@@ -70,14 +70,43 @@ class GameRound:
         move1 = self.selected_move1
         move2 = self.selected_move2
 
-        old_hp1 = pokemon1.pokemon_hp
-        old_hp2 = pokemon2.pokemon_hp
+        if pokemon2.pokemon_specie.specie_stats["Speed"] > pokemon1.pokemon_specie.specie_stats["Speed"]:
+            pokemon_aux = pokemon1
+            pokemon1 = pokemon2
+            pokemon2 = pokemon_aux
+
+            move_aux = move1
+            move1 = move2
+            move2 = move_aux
+
+        # old_hp1 = pokemon1.pokemon_hp
+        # old_hp2 = pokemon2.pokemon_hp
 
         new_hp1 = pokemon1.pokemon_HP_getter()
         new_hp2 = pokemon2.pokemon_HP_getter()
 
-        damage1, critical1 = self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)
         damage2, critical2 = self.damage_calculator(attacker=pokemon1, defender=pokemon2, move=move1)
+
+        new_hp2 -= damage2
+
+        # Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
+        # Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
+
+        if new_hp2 <= 0:
+            self.pokemon_loser_setter(pokemon2)
+            self.pokemon_winner_setter(pokemon1)
+            self.pokemon_loser.pokemon_fainted_setter(True)
+        else:
+            damage1, critical1 = self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)
+            new_hp1 -= damage1
+            if new_hp1 <= 0:
+                self.pokemon_loser_setter(pokemon1)
+                self.pokemon_winner_setter(pokemon2)
+                self.pokemon_loser.pokemon_fainted_setter(True)
+            else:
+                done = False
+            # self.selected_pokemon1.pokemon_HP_setter(old_hp1)
+            # self.selected_pokemon2.pokemon_HP_setter(old_hp2)
 
         self.pokemon_history_event_setter(
             round_number=self.round_number,
@@ -88,27 +117,7 @@ class GameRound:
             critical1=critical1,
             critical2=critical2
         )
-
         history.add(event=self.history_event)
-
-        new_hp1 -= damage1
-        new_hp2 -= damage2
-
-        Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
-        Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
-
-        if new_hp2 <= 0:
-            self.pokemon_loser_setter(pokemon2)
-            self.pokemon_winner_setter(pokemon1)
-            self.pokemon_loser.pokemon_fainted_setter(True)
-        elif new_hp1 <= 0:
-            self.pokemon_loser_setter(pokemon1)
-            self.pokemon_winner_setter(pokemon2)
-            self.pokemon_loser.pokemon_fainted_setter(True)
-        else:
-            done = False
-            # self.selected_pokemon1.pokemon_HP_setter(old_hp1)
-            # self.selected_pokemon2.pokemon_HP_setter(old_hp2)
 
         return done
 
