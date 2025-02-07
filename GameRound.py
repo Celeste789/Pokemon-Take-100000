@@ -85,12 +85,13 @@ class GameRound:
         new_hp1 = pokemon1.pokemon_HP_getter()
         new_hp2 = pokemon2.pokemon_HP_getter()
 
+        damage1 = 0
+        critical1 = False
         damage2, critical2 = self.damage_calculator(attacker=pokemon1, defender=pokemon2, move=move1)
 
         new_hp2 -= damage2
 
-        # Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
-        # Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
+        Pokemon.pokemon_HP_setter(pokemon2, new_HP=new_hp2)
 
         if new_hp2 <= 0:
             self.pokemon_loser_setter(pokemon2)
@@ -99,6 +100,7 @@ class GameRound:
         else:
             damage1, critical1 = self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)
             new_hp1 -= damage1
+            Pokemon.pokemon_HP_setter(pokemon1, new_HP=new_hp1)
             if new_hp1 <= 0:
                 self.pokemon_loser_setter(pokemon1)
                 self.pokemon_winner_setter(pokemon2)
