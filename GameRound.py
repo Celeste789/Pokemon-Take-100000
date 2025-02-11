@@ -11,7 +11,7 @@ Created on Thu Jan 23 21:04:13 2025
 # from Move import Move
 # from Trainer import Trainer
 import random
-from Battle import *
+from VariableStats import *
 from HistoryEvent import HistoryEvent
 from History import History
 
