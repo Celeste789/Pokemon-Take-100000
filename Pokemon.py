@@ -9,17 +9,23 @@ from random import uniform
 
 
 class Pokemon:
-    def __init__(self, name, specie, moves):
+    def __init__(self, name, specie, moves, stats=None, status=True, hp=None, lvl=1, exp=0):
         self.pokemon_name = name
         self.pokemon_specie = specie
         self.pokemon_moves = moves
-        self.pokemon_stats = {}
-        self.pokemon_lvl = 1
-        self.pokemon_exp = 0
-        self.pokemon_status = True
-        self.pokemon_hp = self.pokemon_hp_calculator()
-        for stat_name, stat_value in self.pokemon_specie.specie_stats.items():
-            self.pokemon_stats[stat_name] = self.pokemon_stats_calculator(stat_name)
+        self.pokemon_stats = stats
+        self.pokemon_lvl = lvl
+        self.pokemon_exp = exp
+        self.pokemon_status = status
+        if not self.pokemon_hp:
+            self.pokemon_hp = self.pokemon_hp_calculator()
+        else:
+            self.pokemon_hp = hp
+        if not self.pokemon_stats:
+            for stat_name, stat_value in self.pokemon_specie.specie_stats.items():
+                self.pokemon_stats[stat_name] = self.pokemon_stats_calculator(stat_name)
+        else:
+            self.pokemon_stats = stats
         self.pokemon_fainted = False
 
     def pokemon_HP_setter(self, new_HP):

@@ -1,4 +1,4 @@
-from VariableStats import *
+from VariableStatistics import *
 from Type import Type
 from Move import Move
 from Specie import Specie
