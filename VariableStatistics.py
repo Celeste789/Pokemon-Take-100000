@@ -52,7 +52,7 @@ trainer2 = Trainer("Trainer_2", team2, [])
 
 def pokemon_to_dic(pokemon_object: Pokemon) -> dict:
     pokemon_name = pokemon_object.pokemon_name
-    pokemon_specie = pokemon_object.pokemon_specie
+    pokemon_specie = pokemon_object.pokemon_specie.specie_name
     pokemon_moves = pokemon_object.pokemon_moves
     pokemon_stats = pokemon_object.pokemon_stats
     pokemon_lvl = pokemon_object.pokemon_lvl
@@ -94,3 +94,7 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
                    pokemon_status,
                    pokemon_hp,
                    pokemon_fainted)
+
+
+if __name__ == "__main__":
+    print(pokemon_to_dic(toto))
