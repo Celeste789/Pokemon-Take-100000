@@ -40,6 +40,14 @@ water_gun = Move("Water Gun", 40, water, "Special")
 razor_leaf = Move("Razor Leaf", 45, grass, "Physical")
 tackle = Move("Tackle", 40, normal, "Physical")
 
+cyndaquil_stats = {
+    "Attack": 52,
+    "Special Attack": 60,
+    "Defense": 49,
+    "Special Defense": 50,
+    "Speed": 65
+}
+
 chikorita_stats = {
     "Attack": 49,
     "Special Attack": 49,

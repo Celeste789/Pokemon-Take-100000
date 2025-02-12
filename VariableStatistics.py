@@ -9,14 +9,6 @@ from StaticsStatistics import *
 from Pokemon import Pokemon
 from Trainer import Trainer
 
-cyndaquil_stats = {
-    "Attack": 52,
-    "Special Attack": 60,
-    "Defense": 49,
-    "Special Defense": 50,
-    "Speed": 65
-}
-
 cyndi_moves = {
     "Ember": ember,
     "Tackle": tackle
