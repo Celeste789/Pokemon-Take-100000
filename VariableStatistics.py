@@ -17,11 +17,6 @@ cyndaquil_stats = {
     "Speed": 65
 }
 
-cyndaquil_hp = 39
-chikorita_hp = 45
-totodile_hp = 50
-rattata_hp = 30
-
 cyndi_moves = {
     "Ember": ember,
     "Tackle": tackle

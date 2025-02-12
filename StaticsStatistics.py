@@ -1,4 +1,3 @@
-from VariableStatistics import *
 from Type import Type
 from Move import Move
 from Specie import Specie
@@ -64,6 +63,11 @@ rattata_stats = {
     "Special Defense": 35,
     "Speed": 72
 }
+
+cyndaquil_hp = 39
+chikorita_hp = 45
+totodile_hp = 50
+rattata_hp = 30
 
 cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_hp, cyndaquil_stats, 65)
 chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats, BYE=64)

@@ -22,6 +22,7 @@ class Pokemon:
         else:
             self.pokemon_hp = hp
         if not self.pokemon_stats:
+            self.pokemon_stats = {}
             for stat_name, stat_value in self.pokemon_specie.specie_stats.items():
                 self.pokemon_stats[stat_name] = self.pokemon_stats_calculator(stat_name)
         else:
