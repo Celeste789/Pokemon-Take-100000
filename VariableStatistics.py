@@ -52,7 +52,7 @@ trainer2 = Trainer("Trainer_2", team2, [])
 
 def pokemon_to_dic(pokemon_object: Pokemon) -> dict:
     pokemon_name = pokemon_object.pokemon_name
-    pokemon_specie = pokemon_object.pokemon_specie
+    pokemon_specie = pokemon_object.pokemon_specie.specie_name
     pokemon_moves = pokemon_object.pokemon_moves
     pokemon_stats = pokemon_object.pokemon_stats
     pokemon_lvl = pokemon_object.pokemon_lvl
@@ -63,7 +63,7 @@ def pokemon_to_dic(pokemon_object: Pokemon) -> dict:
 
     dic = {
         "Name": pokemon_name,
-        "Specie": pokemon_specie,
+        "Specie": pokemon_specie.specie_name,
         "Moves": pokemon_moves,
         "Stats": pokemon_stats,
         "Lvl": pokemon_lvl,
@@ -77,7 +77,7 @@ def pokemon_to_dic(pokemon_object: Pokemon) -> dict:
 
 def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
     pokemon_name = pokemon_dic["Name"]
-    pokemon_specie = pokemon_dic["Specie"]
+    pokemon_specie = StaticsStatistics.species_dict[pokemon_dic["Specie"]]
     pokemon_moves = pokemon_dic["Moves"]
     pokemon_stats = pokemon_dic["Stats"]
     pokemon_lvl = pokemon_dic["Lvl"]
@@ -94,7 +94,6 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
                    pokemon_status,
                    pokemon_hp,
                    pokemon_fainted)
-
 
 if __name__ == "__main__":
     print(pokemon_to_dic(toto))
