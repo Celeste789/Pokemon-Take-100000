@@ -82,9 +82,16 @@ chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, st
 totodile = Specie("Totodile", water, [water_gun, tackle], hp=totodile_hp, stats=totodile_stats, BYE=66)
 rattata = Specie("Rattata", normal, [tackle], hp=rattata_hp, stats=rattata_stats, BYE=57)
 
-specie_dict = {
+species_dict = {
     "Cyndaquil": cyndaquil,
     "Chikorita": chikorita,
     "Totodile": totodile,
     "Rattata": rattata
+}
+
+moves_dict = {
+    "Tackle": tackle,
+    "Ember": ember,
+    "Water Gun": water_gun,
+    "Razor Leaf": razor_leaf
 }
