@@ -82,8 +82,8 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
     pokemon_specie = species_dict[pokemon_dic["Specie"]]
     pokemon_moves_aux = pokemon_dic["Moves"]
     pokemon_moves = {}
-    for move in pokemon_moves_aux:
-        pokemon_moves[move.move_name] = moves_dict[move.move_name]
+    for move_name in pokemon_moves_aux:
+        pokemon_moves[move_name] = moves_dict[move_name]
     pokemon_stats = pokemon_dic["Stats"]
     pokemon_lvl = pokemon_dic["Lvl"]
     pokemon_exp = pokemon_dic["Exp"]
