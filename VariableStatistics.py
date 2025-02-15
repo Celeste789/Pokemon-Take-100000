@@ -53,7 +53,10 @@ trainer2 = Trainer("Trainer_2", team2, [])
 def pokemon_to_dic(pokemon_object: Pokemon) -> dict:
     pokemon_name = pokemon_object.pokemon_name
     pokemon_specie = pokemon_object.pokemon_specie
-    pokemon_moves = pokemon_object.pokemon_moves
+    pokemon_moves_aux = pokemon_object.pokemon_moves
+    pokemon_moves = []
+    for name in pokemon_moves_aux.keys():
+        pokemon_moves.append(name)
     pokemon_stats = pokemon_object.pokemon_stats
     pokemon_lvl = pokemon_object.pokemon_lvl
     pokemon_exp = pokemon_object.pokemon_exp
