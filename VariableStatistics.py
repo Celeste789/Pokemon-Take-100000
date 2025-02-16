@@ -101,5 +101,13 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
                    pokemon_fainted)
 
 
+cyndi_dict = pokemon_to_dic(cyndi)
+todo_dict = pokemon_to_dic(toto)
+chiko_dict = pokemon_to_dic(chiko)
+ratta1_dict = pokemon_to_dic(ratta1)
+ratta2_dict = pokemon_to_dic(ratta2)
+
+
 if __name__ == "__main__":
-    print(pokemon_to_dic(toto))
+    pass
+
