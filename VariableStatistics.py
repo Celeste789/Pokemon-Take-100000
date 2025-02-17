@@ -101,13 +101,43 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
                    pokemon_fainted)
 
 
+def team_to_dict(team: dict) -> dict:
+    final_dict = {}
+    for name, pokemon in team:
+        final_dict[name] = pokemon_to_dic(pokemon)
+    return final_dict
+
+
+def dict_to_team(team_dict: dict) -> dict:
+    final_team = {}
+    for name, pokemon_dict in team_dict:
+        final_team[name] = dic_to_pokemon(pokemon_dict)
+    return final_team
+
+
+def trainer_to_dict(trainer: Trainer) -> dict:
+    final_dict = {}
+    trainer_name = trainer.trainer_name
+    trainer_team = team_to_dict(trainer.trainer_team)
+    trainer_potions = trainer.trainer_potions
+    final_dict["Name"] = trainer_name
+    final_dict["Team"] = trainer_team
+    final_dict["Potions"] = trainer_potions
+
+
+def trainer_dict_to_trainer(trainer_dict: dict) -> Trainer:
+    trainer_name = trainer_dict["Name"]
+    trainer_team = dict_to_team(trainer_dict["Team"])
+    trainer_potions = trainer_dict["Potions"]
+    trainer = Trainer(trainer_name, trainer_team, trainer_potions)
+    return trainer
+
+
 cyndi_dict = pokemon_to_dic(cyndi)
 todo_dict = pokemon_to_dic(toto)
 chiko_dict = pokemon_to_dic(chiko)
 ratta1_dict = pokemon_to_dic(ratta1)
 ratta2_dict = pokemon_to_dic(ratta2)
 
-
 if __name__ == "__main__":
     pass
-

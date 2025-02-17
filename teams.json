@@ -1,102 +1,102 @@
 [
- {
-  "Name": "Chiko",
-  "Specie": "Chikorita",
-  "Moves": [
-   "Razor Leaf",
-   "Tackle"
-  ],
-  "Stats": {
-   "Attack": 7,
-   "Special Attack": 7,
-   "Defense": 6,
-   "Special Defense": 6,
-   "Speed": 7
-  },
-  "Lvl": 1,
-  "Exp": 0,
-  "Status": true,
-  "HP": 12,
-  "Fainted": false
- },
- {
-  "Name": "Chiko",
-  "Specie": "Chikorita",
-  "Moves": [
-   "Razor Leaf",
-   "Tackle"
-  ],
-  "Stats": {
-   "Attack": 7,
-   "Special Attack": 7,
-   "Defense": 6,
-   "Special Defense": 6,
-   "Speed": 7
-  },
-  "Lvl": 1,
-  "Exp": 0,
-  "Status": true,
-  "HP": 12,
-  "Fainted": false
- },
- {
-  "Name": "Toto",
-  "Specie": "Totodile",
-  "Moves": [
-   "Water Gun",
-   "Tackle"
-  ],
-  "Stats": {
-   "Attack": 7,
-   "Special Attack": 6,
-   "Defense": 7,
-   "Special Defense": 7,
-   "Speed": 6
-  },
-  "Lvl": 1,
-  "Exp": 0,
-  "Status": true,
-  "HP": 13,
-  "Fainted": false
- },
- {
-  "Name": "Ratta1",
-  "Specie": "Rattata",
-  "Moves": [
-   "Tackle"
-  ],
-  "Stats": {
-   "Attack": 8,
-   "Special Attack": 5,
-   "Defense": 6,
-   "Special Defense": 6,
-   "Speed": 7
-  },
-  "Lvl": 1,
-  "Exp": 0,
-  "Status": true,
-  "HP": 12,
-  "Fainted": false
- },
- {
-  "Name": "Ratta2",
-  "Specie": "Rattata",
-  "Moves": [
-   "Tackle"
-  ],
-  "Stats": {
-   "Attack": 6,
-   "Special Attack": 5,
-   "Defense": 6,
-   "Special Defense": 7,
-   "Speed": 7
-  },
-  "Lvl": 1,
-  "Exp": 0,
-  "Status": true,
-  "HP": 11,
-  "Fainted": false
- }
+   {
+      "Name": "Chiko",
+      "Specie": "Chikorita",
+      "Moves": [
+         "Razor Leaf",
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 7,
+         "Special Attack": 7,
+         "Defense": 9,
+         "Special Defense": 6,
+         "Speed": 7
+      },
+      "Lvl": 1,
+      "Exp": 0,
+      "Status": true,
+      "HP": 10,
+      "Fainted": false
+   },
+   {
+      "Name": "Chiko",
+      "Specie": "Chikorita",
+      "Moves": [
+         "Razor Leaf",
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 7,
+         "Special Attack": 7,
+         "Defense": 9,
+         "Special Defense": 6,
+         "Speed": 7
+      },
+      "Lvl": 1,
+      "Exp": 0,
+      "Status": true,
+      "HP": 10,
+      "Fainted": false
+   },
+   {
+      "Name": "Toto",
+      "Specie": "Totodile",
+      "Moves": [
+         "Water Gun",
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 7,
+         "Special Attack": 7,
+         "Defense": 7,
+         "Special Defense": 7,
+         "Speed": 7
+      },
+      "Lvl": 1,
+      "Exp": 0,
+      "Status": true,
+      "HP": 13,
+      "Fainted": false
+   },
+   {
+      "Name": "Ratta1",
+      "Specie": "Rattata",
+      "Moves": [
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 7,
+         "Special Attack": 7,
+         "Defense": 7,
+         "Special Defense": 7,
+         "Speed": 7
+      },
+      "Lvl": 1,
+      "Exp": 0,
+      "Status": true,
+      "HP": 13,
+      "Fainted": false
+   },
+   {
+      "Name": "Ratta2",
+      "Specie": "Rattata",
+      "Moves": [
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 6,
+         "Special Attack": 6,
+         "Defense": 7,
+         "Special Defense": 6,
+         "Speed": 8
+      },
+      "Lvl": 1,
+      "Exp": 0,
+      "Status": true,
+      "HP": 10,
+      "Fainted": false
+   }
 ]
 
 

@@ -5,15 +5,11 @@ Created on Thu Jan 23 21:04:13 2025
 @author: Celeste
 """
 
-# from Specie import Specie
-# from Pokemon import Pokemon
-# from Type import Type
-# from Move import Move
-# from Trainer import Trainer
 import random
 from VariableStatistics import *
 from HistoryEvent import HistoryEvent
 from History import History
+import json
 
 history = History()
 
@@ -173,3 +169,6 @@ class GameRound:
         b = pokemon_fainted.pokemon_specie.base_yield_exp
         l = pokemon_fainted.pokemon_lvl
         return int(b * l / 7)
+
+    def save_team_to_json(self, team1, team2):
+        pass

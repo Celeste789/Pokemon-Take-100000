@@ -307,6 +307,9 @@ class EndScreen(tk.Frame):
                                                  command=lambda: controller.change(PickAPokemonScreen))
             btn_pick_another_pokemon.pack()
 
+
+        btn_save = tk.Button(self, text="Save team", command=None)
+
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
