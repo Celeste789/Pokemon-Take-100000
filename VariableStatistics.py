@@ -30,11 +30,10 @@ ratta_moves = {
 
 cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves)
 chiko = Pokemon("Chiko", chikorita, chiko_moves)
-
 toto = Pokemon("Toto", totodile, toto_moves)
-
 ratta1 = Pokemon("Ratta1", rattata, ratta_moves)
 ratta2 = Pokemon("Ratta2", rattata, ratta_moves)
+
 
 team1 = {
     "Toto": toto,
