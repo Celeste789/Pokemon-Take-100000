@@ -49,7 +49,7 @@ trainer1 = Trainer("Trainer_1", team1, [])
 trainer2 = Trainer("Trainer_2", team2, [])
 
 
-def pokemon_to_dic(pokemon_object: Pokemon) -> dict:
+def pokemon_to_dict(pokemon_object: Pokemon) -> dict:
     pokemon_name = pokemon_object.pokemon_name
     pokemon_specie = pokemon_object.pokemon_specie
     pokemon_moves = []
@@ -103,7 +103,7 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
 def team_to_dict(team: dict) -> dict:
     final_dict = {}
     for name, pokemon in team:
-        final_dict[name] = pokemon_to_dic(pokemon)
+        final_dict[name] = pokemon_to_dict(pokemon)
     return final_dict
 
 
@@ -132,11 +132,11 @@ def trainer_dict_to_trainer(trainer_dict: dict) -> Trainer:
     return trainer
 
 
-cyndi_dict = pokemon_to_dic(cyndi)
-todo_dict = pokemon_to_dic(toto)
-chiko_dict = pokemon_to_dic(chiko)
-ratta1_dict = pokemon_to_dic(ratta1)
-ratta2_dict = pokemon_to_dic(ratta2)
+cyndi_dict = pokemon_to_dict(cyndi)
+toto_dict = pokemon_to_dict(toto)
+chiko_dict = pokemon_to_dict(chiko)
+ratta1_dict = pokemon_to_dict(ratta1)
+ratta2_dict = pokemon_to_dict(ratta2)
 
 if __name__ == "__main__":
     pass

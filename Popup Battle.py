@@ -293,8 +293,8 @@ class EndScreen(tk.Frame):
             lbl_winner = tk.Label(self, text=f"{game_round.pokemon_winner.pokemon_name} won")
             lbl_winner.pack()
             lbl_exp = tk.Label(self,
-                               text=f"{game_round.pokemon_winner.pokemon_name} gained {game_round.exp_formula(pokemon_fainted=game_round.pokemon_loser)} \n"
-                                    f"{game_round.pokemon_winner.pokemon_name} experience is now {game_round.add_up_exp()}")
+                               text=f"{game_round.pokemon_winner.pokemon_name} gained {game_round.exp_formula(pokemon_fainted=game_round.pokemon_loser)} points of exp \n"
+                                    f"{game_round.pokemon_winner.pokemon_name} experience is now {game_round.pokemon_winner.pokemon_exp_getter()}")
             lbl_exp.pack()
 
         if not game_round.pokemon_left_trainer(trainer1):
@@ -307,8 +307,6 @@ class EndScreen(tk.Frame):
             btn_pick_another_pokemon = tk.Button(self, text="Pick another Pokemon",
                                                  command=lambda: controller.change(PickAPokemonScreen))
             btn_pick_another_pokemon.pack()
-
-        btn_save = tk.Button(self, text="Save team", command=None)
 
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()

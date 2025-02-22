@@ -32,6 +32,9 @@ class GameRound:
         self.new_round_critical_bool = False
         self.history_event = None
 
+        self.list_pokemon_participants_team1 = []
+        self.list_pokemon_participants_team2 = []
+
     def selected_pokemon1_setter(self, pokemon_name):
         self.selected_pokemon1 = self.trainer1_game.trainer_team[pokemon_name]
 
@@ -63,6 +66,19 @@ class GameRound:
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
 
+        same1 = False
+        for pokemon in self.list_pokemon_participants_team1:
+            if pokemon == pokemon1:
+                same1 = True
+        if not same1:
+            self.list_pokemon_participants_team1.append(pokemon1)
+        same2 = False
+        for pokemon in self.list_pokemon_participants_team2:
+            if pokemon == pokemon2:
+                same2 = True
+        if not same2:
+            self.list_pokemon_participants_team2.append(pokemon2)
+
         move1 = self.selected_move1
         move2 = self.selected_move2
 
@@ -74,9 +90,6 @@ class GameRound:
             move_aux = move1
             move1 = move2
             move2 = move_aux
-
-        # old_hp1 = pokemon1.pokemon_hp
-        # old_hp2 = pokemon2.pokemon_hp
 
         new_hp1 = pokemon1.pokemon_HP_getter()
         new_hp2 = pokemon2.pokemon_HP_getter()
@@ -93,6 +106,11 @@ class GameRound:
             self.pokemon_loser_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
             self.pokemon_loser.pokemon_fainted_setter(True)
+
+            exp_for_each1 = int(self.exp_formula(pokemon2) / len(self.list_pokemon_participants_team1))
+            for pokemon in self.list_pokemon_participants_team1:
+                total_exp = pokemon.pokemon_exp + exp_for_each1
+                pokemon.pokemon_exp_setter(total_exp)
         else:
             damage1, critical1 = self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)
             new_hp1 -= damage1
@@ -101,10 +119,13 @@ class GameRound:
                 self.pokemon_loser_setter(pokemon1)
                 self.pokemon_winner_setter(pokemon2)
                 self.pokemon_loser.pokemon_fainted_setter(True)
+
+                exp_for_each2 = int(self.exp_formula(pokemon1) / len(self.list_pokemon_participants_team2))
+                for pokemon in self.list_pokemon_participants_team2:
+                    total_exp = pokemon.pokemon_exp + exp_for_each2
+                    pokemon.pokemon_exp_setter(total_exp)
             else:
                 done = False
-            # self.selected_pokemon1.pokemon_HP_setter(old_hp1)
-            # self.selected_pokemon2.pokemon_HP_setter(old_hp2)
 
         self.pokemon_history_event_setter(
             round_number=self.round_number,
@@ -170,5 +191,5 @@ class GameRound:
         l = pokemon_fainted.pokemon_lvl
         return int(b * l / 7)
 
-    def save_team_to_json(self, team1, team2):
+    def save_team_to_json(self, pokemon1, pokemon2):
         pass
