@@ -9,15 +9,15 @@ import random
 from VariableStatistics import *
 from HistoryEvent import HistoryEvent
 from History import History
-import json
+import VariableStatistics
 
 history = History()
 
 
 class GameRound:
-    def __init__(self, trainer1_game, trainer2_game):
-        self.trainer1_game = trainer1_game
-        self.trainer2_game = trainer2_game
+    def __init__(self):
+        self.trainer1_game = VariableStatistics.trainer1
+        self.trainer2_game = VariableStatistics.trainer2
 
         self.selected_pokemon1 = None
         self.selected_move1 = None
@@ -66,17 +66,9 @@ class GameRound:
         pokemon1 = self.selected_pokemon1
         pokemon2 = self.selected_pokemon2
 
-        same1 = False
-        for pokemon in self.list_pokemon_participants_team1:
-            if pokemon == pokemon1:
-                same1 = True
-        if not same1:
+        if pokemon1 not in self.list_pokemon_participants_team1:
             self.list_pokemon_participants_team1.append(pokemon1)
-        same2 = False
-        for pokemon in self.list_pokemon_participants_team2:
-            if pokemon == pokemon2:
-                same2 = True
-        if not same2:
+        if pokemon2 not in self.list_pokemon_participants_team2:
             self.list_pokemon_participants_team2.append(pokemon2)
 
         move1 = self.selected_move1
@@ -106,11 +98,6 @@ class GameRound:
             self.pokemon_loser_setter(pokemon2)
             self.pokemon_winner_setter(pokemon1)
             self.pokemon_loser.pokemon_fainted_setter(True)
-
-            exp_for_each1 = int(self.exp_formula(pokemon2) / len(self.list_pokemon_participants_team1))
-            for pokemon in self.list_pokemon_participants_team1:
-                total_exp = pokemon.pokemon_exp + exp_for_each1
-                pokemon.pokemon_exp_setter(total_exp)
         else:
             damage1, critical1 = self.damage_calculator(attacker=pokemon2, defender=pokemon1, move=move2)
             new_hp1 -= damage1
@@ -119,13 +106,20 @@ class GameRound:
                 self.pokemon_loser_setter(pokemon1)
                 self.pokemon_winner_setter(pokemon2)
                 self.pokemon_loser.pokemon_fainted_setter(True)
-
-                exp_for_each2 = int(self.exp_formula(pokemon1) / len(self.list_pokemon_participants_team2))
-                for pokemon in self.list_pokemon_participants_team2:
-                    total_exp = pokemon.pokemon_exp + exp_for_each2
-                    pokemon.pokemon_exp_setter(total_exp)
             else:
                 done = False
+
+        if done:
+            if self.pokemon_loser in self.trainer1_game.trainer_team:
+                exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team2)
+                for pokemon in self.list_pokemon_participants_team2:
+                    plus = pokemon.pokemon_exp_getter() + exp_for_each
+                    pokemon.pokemon_exp_setter(plus)
+            elif self.pokemon_loser in self.trainer2_game.trainer_team:
+                exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team1)
+                for pokemon in self.list_pokemon_participants_team1:
+                    plus = pokemon.pokemon_exp_getter() + exp_for_each
+                    pokemon.pokemon_exp_setter(plus)
 
         self.pokemon_history_event_setter(
             round_number=self.round_number,
@@ -180,11 +174,11 @@ class GameRound:
                 pokemon_left = True
         return pokemon_left
 
-    def add_up_exp(self):
-        experience = self.pokemon_winner.pokemon_exp_getter()
-        new_exp = self.exp_formula(self.pokemon_loser)
-        plus = experience + new_exp
-        self.pokemon_winner.pokemon_exp_setter(plus)
+    # def add_up_exp(self):
+    #     experience = self.pokemon_winner.pokemon_exp_getter()
+    #     new_exp = self.exp_formula(self.pokemon_loser)
+    #     plus = experience + new_exp
+    #     self.pokemon_winner.pokemon_exp_setter(plus)
 
     def exp_formula(self, pokemon_fainted):
         b = pokemon_fainted.pokemon_specie.base_yield_exp
