@@ -110,15 +110,15 @@ class GameRound:
                 done = False
 
         if done:
-            if self.pokemon_loser in self.trainer1_game.trainer_team:
+            if self.pokemon_loser in self.trainer1_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team2)
                 for pokemon in self.list_pokemon_participants_team2:
-                    plus = pokemon.pokemon_exp_getter() + exp_for_each
+                    plus = int(pokemon.pokemon_exp_getter() + exp_for_each)
                     pokemon.pokemon_exp_setter(plus)
-            elif self.pokemon_loser in self.trainer2_game.trainer_team:
+            elif self.pokemon_loser in self.trainer2_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team1)
                 for pokemon in self.list_pokemon_participants_team1:
-                    plus = pokemon.pokemon_exp_getter() + exp_for_each
+                    plus = int(pokemon.pokemon_exp_getter() + exp_for_each)
                     pokemon.pokemon_exp_setter(plus)
 
         self.pokemon_history_event_setter(
