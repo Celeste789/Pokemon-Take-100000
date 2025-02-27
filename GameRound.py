@@ -25,6 +25,9 @@ class GameRound:
         self.selected_pokemon2 = None
         self.selected_move2 = None
 
+        # self.pokemon1_lvl = self.selected_pokemon1.pokemon_lvl_getter()
+        # self.pokemon2_lvl = self.selected_pokemon2.pokemon_lvl_getter()
+
         self.pokemon_loser = None
         self.pokemon_winner = None
 
@@ -115,11 +118,15 @@ class GameRound:
                 for pokemon in self.list_pokemon_participants_team2:
                     plus = int(pokemon.pokemon_exp_getter() + exp_for_each)
                     pokemon.pokemon_exp_setter(plus)
+                    if pokemon.pokemon_exp_getter() == pokemon.pokemon_lvl ** 3:
+                        pokemon.pokemon_lvl += 1
             elif self.pokemon_loser in self.trainer2_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team1)
                 for pokemon in self.list_pokemon_participants_team1:
                     plus = int(pokemon.pokemon_exp_getter() + exp_for_each)
                     pokemon.pokemon_exp_setter(plus)
+                    if pokemon.pokemon_exp_getter() == pokemon.pokemon_lvl ** 3:
+                        pokemon.pokemon_lvl += 1
 
         self.pokemon_history_event_setter(
             round_number=self.round_number,

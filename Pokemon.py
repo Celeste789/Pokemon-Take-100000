@@ -37,6 +37,9 @@ class Pokemon:
     def pokemon_lvl_setter(self, new_lvl):
         self.pokemon_lvl = new_lvl
 
+    def pokemon_lvl_getter(self):
+        return self.pokemon_lvl
+
     def pokemon_exp_setter(self, new_exp):
         self.pokemon_exp = int(new_exp)
 
