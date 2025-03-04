@@ -9,7 +9,7 @@ from random import uniform
 
 
 class Pokemon:
-    def __init__(self, name, specie, moves, stats=None, status=True, hp=None, lvl=1, exp=0, fainted=False):
+    def __init__(self, name, specie, moves, stats=None, status=True, hp=None, lvl=1, exp=6, fainted=False):
         self.pokemon_name = name
         self.pokemon_specie = specie
         self.pokemon_moves = moves

@@ -116,17 +116,11 @@ class GameRound:
             if self.pokemon_loser in self.trainer1_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team2)
                 for pokemon in self.list_pokemon_participants_team2:
-                    plus = int(pokemon.pokemon_exp_getter() + exp_for_each)
-                    pokemon.pokemon_exp_setter(plus)
-                    if pokemon.pokemon_exp_getter() == pokemon.pokemon_lvl ** 3:
-                        pokemon.pokemon_lvl += 1
+                    self.add_exp(exp_for_each, pokemon)
             elif self.pokemon_loser in self.trainer2_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team1)
                 for pokemon in self.list_pokemon_participants_team1:
-                    plus = int(pokemon.pokemon_exp_getter() + exp_for_each)
-                    pokemon.pokemon_exp_setter(plus)
-                    if pokemon.pokemon_exp_getter() == pokemon.pokemon_lvl ** 3:
-                        pokemon.pokemon_lvl += 1
+                    self.add_exp(exp_for_each, pokemon)
 
         self.pokemon_history_event_setter(
             round_number=self.round_number,
@@ -194,3 +188,14 @@ class GameRound:
 
     def save_team_to_json(self, pokemon1, pokemon2):
         pass
+
+    def add_exp(self, exp, pokemon):
+        lvl_up = False
+        plus = int(pokemon.pokemon_exp_getter() + exp)
+        pokemon.pokemon_exp_setter(plus)
+        if pokemon.pokemon_exp_getter() >= (pokemon.pokemon_lvl + 1) ** 3:
+            pokemon.pokemon_lvl += 1
+            lvl_up = True
+        return lvl_up
+
+
