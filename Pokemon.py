@@ -9,13 +9,13 @@ from random import uniform
 
 
 class Pokemon:
-    def __init__(self, name, specie, moves, stats=None, status=True, hp=None, lvl=1, exp=6, fainted=False):
+    def __init__(self, name, specie, moves, stats=None, hp=None, lvl=1, exp=6, fainted=False):
         self.pokemon_name = name
         self.pokemon_specie = specie
         self.pokemon_moves = moves
         self.pokemon_lvl = lvl
         self.pokemon_exp = exp
-        self.pokemon_status = status
+        # self.pokemon_status = status
         if not hp:
             self.pokemon_hp = self.pokemon_hp_calculator()
         else:
@@ -43,6 +43,12 @@ class Pokemon:
     def pokemon_exp_setter(self, new_exp):
         self.pokemon_exp = int(new_exp)
 
+    # def pokemon_status_setter(self, new_status):
+    #     self.pokemon_status = new_status
+
+    def pokemon_exp_getter(self):
+        return self.pokemon_exp
+
     def pokemon_fainted_getter(self):
         return self.pokemon_fainted
 
@@ -56,9 +62,3 @@ class Pokemon:
     def pokemon_stats_calculator(self, stat):
         new_stat = (0.02 * 2 * self.pokemon_specie.specie_stats[stat] * self.pokemon_lvl + 5) * uniform(0.9, 1.2)
         return int(new_stat)
-
-    def pokemon_status_setter(self, new_status):
-        self.pokemon_status = new_status
-
-    def pokemon_exp_getter(self):
-        return self.pokemon_exp

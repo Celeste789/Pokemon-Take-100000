@@ -47,7 +47,7 @@ class WelcomeScreen(tk.Frame):
         btn_quit = tk.Button(self, text="Quit", command=screen.destroy)
         btn_quit.pack()
 
-        lbl_acknowledgment = tk.Label(self, text="Thanks to Carpincho Feliz")
+        lbl_acknowledgment = tk.Label(self, text="Thanks to Amigo Carpincho")
         lbl_acknowledgment.pack()
 
 
@@ -78,7 +78,7 @@ class PickAPokemonScreen(tk.Frame):
                 value=name,
                 command=lambda: game_round.selected_pokemon1_setter(pokemon1_var.get())
             )
-            if not pokemon.pokemon_status:
+            if pokemon.pokemon_fainted:
                 btn_pokemon1.configure(state=tk.DISABLED)
             btn_pokemon1.grid()
 
@@ -96,7 +96,7 @@ class PickAPokemonScreen(tk.Frame):
                 value=name,
                 command=lambda: game_round.selected_pokemon2_setter(pokemon2_var.get())
             )
-            if not pokemon.pokemon_status:
+            if pokemon.pokemon_fainted:
                 btn_pokemon2.configure(state=tk.DISABLED)
             btn_pokemon2.grid()
 
@@ -292,34 +292,29 @@ class EndScreen(tk.Frame):
             lbl_winner.pack()
             if game_round.pokemon_loser in game_round.trainer1_game.trainer_team.values():
                 for pokemon in game_round.list_pokemon_participants_team2:
-                    exp_for_each = game_round.exp_formula(game_round.pokemon_loser) / len(game_round.trainer2_game.trainer_team)
-                    pokemon_lvl_up = game_round.add_exp(exp_for_each, pokemon)
-
                     lbl_exp = tk.Label(self,
-                                       text=f"{pokemon.pokemon_name} gained {exp_for_each} points of exp \n"
+                                       text=f"{pokemon.pokemon_name} gained {game_round.exp_formula(game_round.pokemon_loser) /len(game_round.list_pokemon_participants_team2)} points of exp \n"
                                             f"{pokemon.pokemon_name} experience is now {pokemon.pokemon_exp_getter()}")
                     lbl_exp.pack()
-                    if pokemon_lvl_up:
+
+                    if pokemon in game_round.list_pokemon_leveled_up:
                         lbl_lvl_up = tk.Label(self,
                                               text=f"{pokemon.pokemon_name} leveled up \n"
                                                    f"{pokemon.pokemon_name} level is now {pokemon.pokemon_lvl_getter()}")
                         lbl_lvl_up.pack()
             elif game_round.pokemon_loser in game_round.trainer2_game.trainer_team.values():
                 for pokemon in game_round.list_pokemon_participants_team1:
-                    exp_for_each = (game_round.exp_formula(game_round.pokemon_loser) /
-                                    len(game_round.trainer2_game.trainer_team))
-                    pokemon_lvl_up = game_round.add_exp(exp_for_each, pokemon)
-
                     lbl_exp = tk.Label(self,
-                                       text=f"{pokemon.pokemon_name} gained {exp_for_each} points of exp \n"
+                                       text=f"{pokemon.pokemon_name} gained {game_round.exp_formula(game_round.pokemon_loser) / len(game_round.list_pokemon_participants_team1)} points of exp \n"
                                             f"{pokemon.pokemon_name} experience is now {pokemon.pokemon_exp_getter()}")
                     lbl_exp.pack()
 
-                    if pokemon_lvl_up:
+                    if pokemon in game_round.list_pokemon_leveled_up:
                         lbl_lvl_up = tk.Label(self,
                                               text=f"{pokemon.pokemon_name} leveled up \n"
                                                    f"{pokemon.pokemon_name} level is now {pokemon.pokemon_lvl_getter()}")
                         lbl_lvl_up.pack()
+
         if not game_round.pokemon_left_trainer(game_round.trainer1_game):
             lbl_loser1 = tk.Label(self, text=f"{game_round.trainer1_game.trainer_name} lost")
             lbl_loser1.pack()
