@@ -1,0 +1,39 @@
+[
+   {
+      "Name": "Chiko",
+      "Specie": "Chikorita",
+      "Moves": [
+         "Razor Leaf",
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 6,
+         "Special Attack": 7,
+         "Defense": 8,
+         "Special Defense": 8,
+         "Speed": 8
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": 12,
+      "Fainted": false
+   },
+   {
+      "Name": "Ratta2",
+      "Specie": "Rattata",
+      "Moves": [
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 7,
+         "Special Attack": 6,
+         "Defense": 6,
+         "Special Defense": 6,
+         "Speed": 8
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": -6,
+      "Fainted": true
+   }
+]

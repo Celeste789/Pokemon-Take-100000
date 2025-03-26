@@ -4,7 +4,7 @@ Created on Thu Jan 23 21:04:13 2025
 
 @author: Celeste
 """
-
+import json
 import random
 from VariableStatistics import *
 from HistoryEvent import HistoryEvent
@@ -129,6 +129,8 @@ class GameRound:
                 for pokemon in self.list_pokemon_participants_team1:
                     self.add_exp(exp_for_each, pokemon)
                     self.list_pokemon_leveled_up.append(pokemon)
+        self.save_team_to_json(team1, 'save_team_1.json')
+        self.save_team_to_json(team2, 'save_team_2.json')
         # 18
         self.pokemon_history_event_setter(
             round_number=self.round_number,
@@ -189,10 +191,15 @@ class GameRound:
         b = pokemon_fainted.pokemon_specie.base_yield_exp
         l = pokemon_fainted.pokemon_lvl
         random_number = random.uniform(0.9, 1.2)
-        return int(b * l * random_number/ 7)
+        return int(b * l * random_number / 7)
 
-    def save_team_to_json(self, pokemon1, pokemon2):
-        pass
+    def save_team_to_json(self, team, file):
+        team_list = []
+        for pokemon in team.values():
+            pokemon_dict = pokemon_to_dict(pokemon)
+            team_list.append(pokemon_dict)
+        with open(file, 'w') as f:
+            json.dump(team_list, f, indent=3)
 
     def add_exp(self, exp, pokemon):
         # 1
@@ -203,6 +210,8 @@ class GameRound:
         pokemon.pokemon_exp_setter(plus)
         # 4
         if pokemon.pokemon_exp_getter() >= (pokemon.pokemon_lvl + 1) ** 3:
+            true_exp = int(pokemon.pokemon_exp_getter() - (pokemon.pokemon_lvl + 1) ** 3)
+            pokemon.pokemon_exp_setter(true_exp)
             pokemon.pokemon_lvl += 1
             lvl_up = True
         # 5

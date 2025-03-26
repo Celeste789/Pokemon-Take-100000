@@ -1,0 +1,39 @@
+[
+   {
+      "Name": "Toto",
+      "Specie": "Totodile",
+      "Moves": [
+         "Water Gun",
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 8,
+         "Special Attack": 8,
+         "Defense": 7,
+         "Special Defense": 7,
+         "Speed": 7
+      },
+      "Lvl": 2,
+      "Exp": 2,
+      "HP": 3,
+      "Fainted": false
+   },
+   {
+      "Name": "Ratta1",
+      "Specie": "Rattata",
+      "Moves": [
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 8,
+         "Special Attack": 5,
+         "Defense": 6,
+         "Special Defense": 7,
+         "Speed": 7
+      },
+      "Lvl": 2,
+      "Exp": 2,
+      "HP": 3,
+      "Fainted": false
+   }
+]

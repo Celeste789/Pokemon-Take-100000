@@ -58,7 +58,6 @@ def pokemon_to_dict(pokemon_object: Pokemon) -> dict:
     pokemon_stats = pokemon_object.pokemon_stats
     pokemon_lvl = pokemon_object.pokemon_lvl
     pokemon_exp = pokemon_object.pokemon_exp
-    # pokemon_status = pokemon_object.pokemon_status
     pokemon_hp = pokemon_object.pokemon_hp
     pokemon_fainted = pokemon_object.pokemon_fainted
 
@@ -69,7 +68,6 @@ def pokemon_to_dict(pokemon_object: Pokemon) -> dict:
         "Stats": pokemon_stats,
         "Lvl": pokemon_lvl,
         "Exp": pokemon_exp,
-        # "Status": pokemon_status,
         "HP": pokemon_hp,
         "Fainted": pokemon_fainted
     }
@@ -86,7 +84,6 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
     pokemon_stats = pokemon_dic["Stats"]
     pokemon_lvl = pokemon_dic["Lvl"]
     pokemon_exp = pokemon_dic["Exp"]
-    # pokemon_status = pokemon_dic["Status"]
     pokemon_hp = pokemon_dic["HP"]
     pokemon_fainted = pokemon_dic["Fainted"]
     return Pokemon(pokemon_name,
@@ -95,7 +92,6 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
                    pokemon_stats,
                    pokemon_lvl,
                    pokemon_exp,
-                   # pokemon_status,
                    pokemon_hp,
                    pokemon_fainted)
 
