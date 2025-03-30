@@ -29,11 +29,24 @@ ratta_moves = {
     "Tackle": tackle
 }
 
+hoothoot_moves = {
+    "Peck": peck
+}
+
+geodude_moves = {
+    "Roll Out": roll_out
+}
+
+
 cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves)
 chiko = Pokemon("Chiko", chikorita, chiko_moves)
 toto = Pokemon("Toto", totodile, toto_moves)
 ratta1 = Pokemon("Ratta1", rattata, ratta_moves)
 ratta2 = Pokemon("Ratta2", rattata, ratta_moves)
+hoot1 = Pokemon("Hoot1", hoothoot, hoothoot_moves)
+hoot2 = Pokemon("Hoot2", hoothoot, hoothoot_moves)
+geo1 = Pokemon("Geo1", geodude, geodude_moves)
+geo2 = Pokemon("Geo2", geodude, geodude_moves)
 
 team1 = {
     "Toto": toto,
@@ -134,6 +147,10 @@ toto_dict = pokemon_to_dict(toto)
 chiko_dict = pokemon_to_dict(chiko)
 ratta1_dict = pokemon_to_dict(ratta1)
 ratta2_dict = pokemon_to_dict(ratta2)
+geo1_dict = pokemon_to_dict(geo1)
+geo2_dict = pokemon_to_dict(geo2)
+hoot1_dict = pokemon_to_dict(hoot1)
+hoot2_dict = pokemon_to_dict(hoot2)
 
 with open('teams.json', 'r') as f:
     pokemon_dicts_read = json.load(f)
