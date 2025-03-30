@@ -1,5 +1,5 @@
-{
-   "Cyndi": {
+[
+   {
       "Name": "Cyndi",
       "Specie": "Cyndaquil",
       "Moves": [
@@ -7,38 +7,18 @@
          "Tackle"
       ],
       "Stats": {
-         "Attack": 8,
-         "Special Attack": 7,
-         "Defense": 7,
-         "Special Defense": 6,
-         "Speed": 7
-      },
-      "Lvl": 1,
-      "Exp": 0,
-      "HP": 14,
-      "Fainted": false
-   },
-   "Chiko": {
-      "Name": "Chiko",
-      "Specie": "Chikorita",
-      "Moves": [
-         "Razor Leaf",
-         "Tackle"
-      ],
-      "Stats": {
          "Attack": 6,
-         "Special Attack": 6,
-         "Defense": 7,
-         "Special Defense": 7,
-         "Speed": 7
+         "Special Attack": 7,
+         "Defense": 6,
+         "Special Defense": 6,
+         "Speed": 8
       },
       "Lvl": 1,
-      "Exp": 0,
-      "Status": true,
-      "HP": 14,
+      "Exp": 6,
+      "HP": 10,
       "Fainted": false
    },
-   "Toto": {
+   {
       "Name": "Toto",
       "Specie": "Totodile",
       "Moves": [
@@ -46,50 +26,70 @@
          "Tackle"
       ],
       "Stats": {
-         "Attack": 6,
-         "Special Attack": 6,
+         "Attack": 8,
+         "Special Attack": 7,
          "Defense": 7,
          "Special Defense": 8,
-         "Speed": 6
+         "Speed": 7
       },
       "Lvl": 1,
-      "Exp": 0,
+      "Exp": 6,
+      "HP": 12,
       "Fainted": false
    },
-   "Ratta1": {
+   {
+      "Name": "Chiko",
+      "Specie": "Chikorita",
+      "Moves": [
+         "Razor Leaf",
+         "Tackle"
+      ],
+      "Stats": {
+         "Attack": 8,
+         "Special Attack": 7,
+         "Defense": 8,
+         "Special Defense": 8,
+         "Speed": 7
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": 12,
+      "Fainted": false
+   },
+   {
       "Name": "Ratta1",
       "Specie": "Rattata",
       "Moves": [
          "Tackle"
       ],
       "Stats": {
-         "Attack": 6,
-         "Special Attack": 6,
+         "Attack": 7,
+         "Special Attack": 5,
          "Defense": 6,
          "Special Defense": 7,
-         "Speed": 7
+         "Speed": 8
       },
       "Lvl": 1,
-      "Exp": 0,
+      "Exp": 6,
       "HP": 10,
       "Fainted": false
    },
-   "Ratta2": {
+   {
       "Name": "Ratta2",
       "Specie": "Rattata",
       "Moves": [
          "Tackle"
       ],
       "Stats": {
-         "Attack": 6,
+         "Attack": 7,
          "Special Attack": 6,
          "Defense": 6,
          "Special Defense": 6,
          "Speed": 8
       },
       "Lvl": 1,
-      "Exp": 0,
+      "Exp": 6,
       "HP": 10,
       "Fainted": false
    }
-}
+]

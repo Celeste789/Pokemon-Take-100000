@@ -15,7 +15,6 @@ class Pokemon:
         self.pokemon_moves = moves
         self.pokemon_lvl = lvl
         self.pokemon_exp = exp
-        # self.pokemon_status = status
         if not hp:
             self.pokemon_hp = self.pokemon_hp_calculator()
         else:

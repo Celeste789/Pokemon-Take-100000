@@ -77,10 +77,10 @@ chikorita_hp = 45
 totodile_hp = 50
 rattata_hp = 30
 
-cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_hp, cyndaquil_stats, 65)
-chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats, BYE=64)
-totodile = Specie("Totodile", water, [water_gun, tackle], hp=totodile_hp, stats=totodile_stats, BYE=66)
-rattata = Specie("Rattata", normal, [tackle], hp=rattata_hp, stats=rattata_stats, BYE=57)
+cyndaquil = Specie("Cyndaquil", fire, [ember, tackle], cyndaquil_hp, cyndaquil_stats, 65, starter=True)
+chikorita = Specie("Chikorita", grass, [razor_leaf, tackle], hp=chikorita_hp, stats=chikorita_stats, BYE=64, starter=True)
+totodile = Specie("Totodile", water, [water_gun, tackle], hp=totodile_hp, stats=totodile_stats, BYE=66, starter=True)
+rattata = Specie("Rattata", normal, [tackle], hp=rattata_hp, stats=rattata_stats, BYE=57, starter=False)
 
 species_dict = {
     "Cyndaquil": cyndaquil,

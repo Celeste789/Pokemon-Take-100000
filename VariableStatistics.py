@@ -4,6 +4,7 @@ Created on Wed Jan 15 15:36:59 2025
 
 @author: Celeste
 """
+import json
 
 from StaticsStatistics import *
 from Pokemon import Pokemon
@@ -34,7 +35,6 @@ toto = Pokemon("Toto", totodile, toto_moves)
 ratta1 = Pokemon("Ratta1", rattata, ratta_moves)
 ratta2 = Pokemon("Ratta2", rattata, ratta_moves)
 
-
 team1 = {
     "Toto": toto,
     "Ratta1": ratta1
@@ -53,6 +53,7 @@ def pokemon_to_dict(pokemon_object: Pokemon) -> dict:
     pokemon_name = pokemon_object.pokemon_name
     pokemon_specie = pokemon_object.pokemon_specie
     pokemon_moves = []
+    pokemon_starter = pokemon_object.starter
     for name in pokemon_object.pokemon_moves.keys():
         pokemon_moves.append(name)
     pokemon_stats = pokemon_object.pokemon_stats
@@ -133,6 +134,25 @@ toto_dict = pokemon_to_dict(toto)
 chiko_dict = pokemon_to_dict(chiko)
 ratta1_dict = pokemon_to_dict(ratta1)
 ratta2_dict = pokemon_to_dict(ratta2)
+
+with open('teams.json', 'r') as f:
+    pokemon_dicts_read = json.load(f)
+
+list_of_pokemon = []
+
+for dictionary in pokemon_dicts_read:
+    pokemon = dic_to_pokemon(dictionary)
+    list_of_pokemon.append(pokemon)
+
+dict_of_pokemons = {}
+for pokemon in list_of_pokemon:
+    dict_of_pokemons[pokemon.pokemon_name] = pokemon
+
+cyndi = dict_of_pokemons["Cyndi"]
+chiko = dict_of_pokemons["Chiko"]
+toto = dict_of_pokemons["Toto"]
+ratta1 = dict_of_pokemons["Ratta1"]
+ratta2 = dict_of_pokemons["Ratta2"]
 
 if __name__ == "__main__":
     pass
