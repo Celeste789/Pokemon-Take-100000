@@ -12,8 +12,8 @@ pokemon_list = [
     geo2_dict
 ]
 
-with open("teams_.json", 'w') as f:
-    json.dump(pokemon_list, f)
+with open("teams.json", 'w') as f:
+    json.dump(pokemon_list, f, indent=3)
 
 
 

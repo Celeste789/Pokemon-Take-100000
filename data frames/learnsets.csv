@@ -1,0 +1,1291 @@
+Level,Move,Type,Cat.,Pwr.,Acc.,PP,Pokemon Name
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Chikorita
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Chikorita
+,,,,,,,
+6.0,Razor Leaf,Grass,Physical,55,95%,25,Chikorita
+,,,,,,,
+9.0,PoisonPowder,Poison,Status,—,75%,35,Chikorita
+,,,,,,,
+12.0,Synthesis,Grass,Status,—,—%,5,Chikorita
+,,,,,,,
+17.0,Reflect,Psychic,Status,—,—%,20,Chikorita
+,,,,,,,
+20.0,Magical Leaf,Grass,Special,60,—%,20,Chikorita
+,,,,,,,
+23.0,Natural Gift,Normal,Physical,—,100%,15,Chikorita
+,,,,,,,
+28.0,Sweet Scent,Normal,Status,—,100%,20,Chikorita
+,,,,,,,
+31.0,Light Screen,Psychic,Status,—,—%,30,Chikorita
+,,,,,,,
+34.0,Body Slam,Normal,Physical,85,100%,15,Chikorita
+,,,,,,,
+39.0,Safeguard,Normal,Status,—,—%,25,Chikorita
+,,,,,,,
+42.0,Aromatherapy,Grass,Status,—,—%,5,Chikorita
+,,,,,,,
+45.0,SolarBeam,Grass,Special,120,100%,10,Chikorita
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Bayleef
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Bayleef
+,,,,,,,
+1.0,Razor Leaf,Grass,Physical,55,95%,25,Bayleef
+,,,,,,,
+1.0,PoisonPowder,Poison,Status,—,75%,35,Bayleef
+,,,,,,,
+6.0,Razor Leaf,Grass,Physical,55,95%,25,Bayleef
+,,,,,,,
+9.0,PoisonPowder,Poison,Status,—,75%,35,Bayleef
+,,,,,,,
+12.0,Synthesis,Grass,Status,—,—%,5,Bayleef
+,,,,,,,
+18.0,Reflect,Psychic,Status,—,—%,20,Bayleef
+,,,,,,,
+22.0,Magical Leaf,Grass,Special,60,—%,20,Bayleef
+,,,,,,,
+26.0,Natural Gift,Normal,Physical,—,100%,15,Bayleef
+,,,,,,,
+32.0,Sweet Scent,Normal,Status,—,100%,20,Bayleef
+,,,,,,,
+36.0,Light Screen,Psychic,Status,—,—%,30,Bayleef
+,,,,,,,
+40.0,Body Slam,Normal,Physical,85,100%,15,Bayleef
+,,,,,,,
+46.0,Safeguard,Normal,Status,—,—%,25,Bayleef
+,,,,,,,
+50.0,Aromatherapy,Grass,Status,—,—%,5,Bayleef
+,,,,,,,
+54.0,SolarBeam,Grass,Special,120,100%,10,Bayleef
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Meganium
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Meganium
+,,,,,,,
+1.0,Razor Leaf,Grass,Physical,55,95%,25,Meganium
+,,,,,,,
+1.0,PoisonPowder,Poison,Status,—,75%,35,Meganium
+,,,,,,,
+6.0,Razor Leaf,Grass,Physical,55,95%,25,Meganium
+,,,,,,,
+9.0,PoisonPowder,Poison,Status,—,75%,35,Meganium
+,,,,,,,
+12.0,Synthesis,Grass,Status,—,—%,5,Meganium
+,,,,,,,
+18.0,Reflect,Psychic,Status,—,—%,20,Meganium
+,,,,,,,
+22.0,Magical Leaf,Grass,Special,60,—%,20,Meganium
+,,,,,,,
+26.0,Natural Gift,Normal,Physical,—,100%,15,Meganium
+,,,,,,,
+32.0,Petal Dance,Grass,Special,90,100%,20,Meganium
+,,,,,,,
+34.0,Sweet Scent,Normal,Status,—,100%,20,Meganium
+,,,,,,,
+40.0,Light Screen,Psychic,Status,—,—%,30,Meganium
+,,,,,,,
+46.0,Body Slam,Normal,Physical,85,100%,15,Meganium
+,,,,,,,
+54.0,Safeguard,Normal,Status,—,—%,25,Meganium
+,,,,,,,
+60.0,Aromatherapy,Grass,Status,—,—%,5,Meganium
+,,,,,,,
+66.0,SolarBeam,Grass,Special,120,100%,10,Meganium
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Cyndaquil
+,,,,,,,
+1,Leer,Normal,Status,—,100%,30,Cyndaquil
+,,,,,,,
+6,SmokeScreen,Normal,Status,—,100%,20,Cyndaquil
+,,,,,,,
+10,Ember,Fire,Special,40,100%,25,Cyndaquil
+,,,,,,,
+13,Quick Attack,Normal,Physical,40,100%,30,Cyndaquil
+,,,,,,,
+19,Flame Wheel,Fire,Physical,60,100%,25,Cyndaquil
+,,,,,,,
+22,Defense Curl,Normal,Status,—,—%,40,Cyndaquil
+,,,,,,,
+28,Swift,Normal,Special,60,—%,20,Cyndaquil
+,,,,,,,
+31,Lava Plume,Fire,Special,80,100%,15,Cyndaquil
+,,,,,,,
+37,Flamethrower,Fire,Special,95,100%,15,Cyndaquil
+,,,,,,,
+40,Rollout,Rock,Physical,30,90%,20,Cyndaquil
+,,,,,,,
+46,Double-Edge,Normal,Physical,120,100%,15,Cyndaquil
+,,,,,,,
+49,Eruption,Fire,Special,150,100%,5,Cyndaquil
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Quilava
+,,,,,,,
+1,Leer,Normal,Status,—,100%,30,Quilava
+,,,,,,,
+1,SmokeScreen,Normal,Status,—,100%,20,Quilava
+,,,,,,,
+6,SmokeScreen,Normal,Status,—,100%,20,Quilava
+,,,,,,,
+10,Ember,Fire,Special,40,100%,25,Quilava
+,,,,,,,
+13,Quick Attack,Normal,Physical,40,100%,30,Quilava
+,,,,,,,
+20,Flame Wheel,Fire,Physical,60,100%,25,Quilava
+,,,,,,,
+24,Defense Curl,Normal,Status,—,—%,40,Quilava
+,,,,,,,
+31,Swift,Normal,Special,60,—%,20,Quilava
+,,,,,,,
+35,Lava Plume,Fire,Special,80,100%,15,Quilava
+,,,,,,,
+42,Flamethrower,Fire,Special,95,100%,15,Quilava
+,,,,,,,
+46,Rollout,Rock,Physical,30,90%,20,Quilava
+,,,,,,,
+53,Double-Edge,Normal,Physical,120,100%,15,Quilava
+,,,,,,,
+57,Eruption,Fire,Special,150,100%,5,Quilava
+,,,,,,,
+1,Gyro Ball,Steel,Physical,—,100%,5,Typhlosion
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Typhlosion
+,,,,,,,
+1,Leer,Normal,Status,—,100%,30,Typhlosion
+,,,,,,,
+1,SmokeScreen,Normal,Status,—,100%,20,Typhlosion
+,,,,,,,
+1,Ember,Fire,Special,40,100%,25,Typhlosion
+,,,,,,,
+6,SmokeScreen,Normal,Status,—,100%,20,Typhlosion
+,,,,,,,
+10,Ember,Fire,Special,40,100%,25,Typhlosion
+,,,,,,,
+13,Quick Attack,Normal,Physical,40,100%,30,Typhlosion
+,,,,,,,
+20,Flame Wheel,Fire,Physical,60,100%,25,Typhlosion
+,,,,,,,
+24,Defense Curl,Normal,Status,—,—%,40,Typhlosion
+,,,,,,,
+31,Swift,Normal,Special,60,—%,20,Typhlosion
+,,,,,,,
+35,Lava Plume,Fire,Special,80,100%,15,Typhlosion
+,,,,,,,
+42,Flamethrower,Fire,Special,95,100%,15,Typhlosion
+,,,,,,,
+46,Rollout,Rock,Physical,30,90%,20,Typhlosion
+,,,,,,,
+53,Double-Edge,Normal,Physical,120,100%,15,Typhlosion
+,,,,,,,
+57,Eruption,Fire,Special,150,100%,5,Typhlosion
+,,,,,,,
+1,Scratch,Normal,Physical,40,100%,35,Totodile
+,,,,,,,
+1,Leer,Normal,Status,—,100%,30,Totodile
+,,,,,,,
+6,Water Gun,Water,Special,40,100%,25,Totodile
+,,,,,,,
+8,Rage,Normal,Physical,20,100%,20,Totodile
+,,,,,,,
+13,Bite,Dark,Physical,60,100%,25,Totodile
+,,,,,,,
+15,Scary Face,Normal,Status,—,90%,10,Totodile
+,,,,,,,
+20,Ice Fang,Ice,Physical,65,95%,15,Totodile
+,,,,,,,
+36,Thrash,Normal,Physical,90,100%,20,Totodile
+,,,,,,,
+22,Flail,Normal,Physical,—,100%,15,Totodile
+,,,,,,,
+27,Crunch,Dark,Physical,80,100%,15,Totodile
+,,,,,,,
+29,Slash,Normal,Physical,70,100%,20,Totodile
+,,,,,,,
+34,Screech,Normal,Status,—,85%,40,Totodile
+,,,,,,,
+41,Aqua Tail,Water,Physical,90,90%,10,Totodile
+,,,,,,,
+43,Superpower,Fighting,Physical,120,100%,5,Totodile
+,,,,,,,
+48,Hydro Pump,Water,Special,120,80%,5,Totodile
+,,,,,,,
+1,Scratch,Normal,Physical,40,100%,35,Croconaw
+,,,,,,,
+1,Leer,Normal,Status,—,100%,30,Croconaw
+,,,,,,,
+1,Water Gun,Water,Special,40,100%,25,Croconaw
+,,,,,,,
+6,Water Gun,Water,Special,40,100%,25,Croconaw
+,,,,,,,
+8,Rage,Normal,Physical,20,100%,20,Croconaw
+,,,,,,,
+13,Bite,Dark,Physical,60,100%,25,Croconaw
+,,,,,,,
+15,Scary Face,Normal,Status,—,90%,10,Croconaw
+,,,,,,,
+21,Ice Fang,Ice,Physical,65,95%,15,Croconaw
+,,,,,,,
+42,Thrash,Normal,Physical,90,100%,20,Croconaw
+,,,,,,,
+24,Flail,Normal,Physical,—,100%,15,Croconaw
+,,,,,,,
+30,Crunch,Dark,Physical,80,100%,15,Croconaw
+,,,,,,,
+33,Slash,Normal,Physical,70,100%,20,Croconaw
+,,,,,,,
+39,Screech,Normal,Status,—,85%,40,Croconaw
+,,,,,,,
+48,Aqua Tail,Water,Physical,90,90%,10,Croconaw
+,,,,,,,
+51,Superpower,Fighting,Physical,120,100%,5,Croconaw
+,,,,,,,
+57,Hydro Pump,Water,Special,120,80%,5,Croconaw
+,,,,,,,
+1,Scratch,Normal,Physical,40,100%,35,Feraligatr
+,,,,,,,
+1,Leer,Normal,Status,—,100%,30,Feraligatr
+,,,,,,,
+1,Water Gun,Water,Special,40,100%,25,Feraligatr
+,,,,,,,
+1,Rage,Normal,Physical,20,100%,20,Feraligatr
+,,,,,,,
+6,Water Gun,Water,Special,40,100%,25,Feraligatr
+,,,,,,,
+8,Rage,Normal,Physical,20,100%,20,Feraligatr
+,,,,,,,
+13,Bite,Dark,Physical,60,100%,25,Feraligatr
+,,,,,,,
+15,Scary Face,Normal,Status,—,90%,10,Feraligatr
+,,,,,,,
+21,Ice Fang,Ice,Physical,65,95%,15,Feraligatr
+,,,,,,,
+50,Thrash,Normal,Physical,90,100%,20,Feraligatr
+,,,,,,,
+24,Flail,Normal,Physical,—,100%,15,Feraligatr
+,,,,,,,
+30,Agility,Psychic,Status,—,—%,30,Feraligatr
+,,,,,,,
+32,Crunch,Dark,Physical,80,100%,15,Feraligatr
+,,,,,,,
+37,Slash,Normal,Physical,70,100%,20,Feraligatr
+,,,,,,,
+45,Screech,Normal,Status,—,85%,40,Feraligatr
+,,,,,,,
+58,Aqua Tail,Water,Physical,90,90%,10,Feraligatr
+,,,,,,,
+63,Superpower,Fighting,Physical,120,100%,5,Feraligatr
+,,,,,,,
+71,Hydro Pump,Water,Special,120,80%,5,Feraligatr
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Pidgey
+,,,,,,,
+5,Sand-Attack,Ground,Status,—,100%,15,Pidgey
+,,,,,,,
+9,Gust,Flying,Special,40,100%,35,Pidgey
+,,,,,,,
+13,Quick Attack,Normal,Physical,40,100%,30,Pidgey
+,,,,,,,
+17,Whirlwind,Normal,Status,—,100%,20,Pidgey
+,,,,,,,
+21,Twister,Dragon,Special,40,100%,20,Pidgey
+,,,,,,,
+25,FeatherDance,Flying,Status,—,100%,15,Pidgey
+,,,,,,,
+29,Agility,Psychic,Status,—,—%,30,Pidgey
+,,,,,,,
+33,Wing Attack,Flying,Physical,60,100%,35,Pidgey
+,,,,,,,
+37.0,Roost,Flying,Status,—,—%,10,Pidgey
+,,,,,,,
+41.0,Tailwind,Flying,Status,—,—%,30,Pidgey
+,,,,,,,
+45.0,Mirror Move,Flying,Status,—,—%,20,Pidgey
+,,,,,,,
+49.0,Air Slash,Flying,Special,75,95%,20,Pidgey
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Pidgeotto
+,,,,,,,
+1.0,Sand-Attack,Ground,Status,—,100%,15,Pidgeotto
+,,,,,,,
+1.0,Gust,Flying,Special,40,100%,35,Pidgeotto
+,,,,,,,
+5.0,Sand-Attack,Ground,Status,—,100%,15,Pidgeotto
+,,,,,,,
+9.0,Gust,Flying,Special,40,100%,35,Pidgeotto
+,,,,,,,
+13.0,Quick Attack,Normal,Physical,40,100%,30,Pidgeotto
+,,,,,,,
+17.0,Whirlwind,Normal,Status,—,100%,20,Pidgeotto
+,,,,,,,
+22.0,Twister,Dragon,Special,40,100%,20,Pidgeotto
+,,,,,,,
+27.0,FeatherDance,Flying,Status,—,100%,15,Pidgeotto
+,,,,,,,
+32.0,Agility,Psychic,Status,—,—%,30,Pidgeotto
+,,,,,,,
+37.0,Wing Attack,Flying,Physical,60,100%,35,Pidgeotto
+,,,,,,,
+42.0,Roost,Flying,Status,—,—%,10,Pidgeotto
+,,,,,,,
+47.0,Tailwind,Flying,Status,—,—%,30,Pidgeotto
+,,,,,,,
+52.0,Mirror Move,Flying,Status,—,—%,20,Pidgeotto
+,,,,,,,
+57.0,Air Slash,Flying,Special,75,95%,20,Pidgeotto
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Pidgeot
+,,,,,,,
+1.0,Sand-Attack,Ground,Status,—,100%,15,Pidgeot
+,,,,,,,
+1.0,Gust,Flying,Special,40,100%,35,Pidgeot
+,,,,,,,
+1.0,Quick Attack,Normal,Physical,40,100%,30,Pidgeot
+,,,,,,,
+5.0,Sand-Attack,Ground,Status,—,100%,15,Pidgeot
+,,,,,,,
+9.0,Gust,Flying,Special,40,100%,35,Pidgeot
+,,,,,,,
+13.0,Quick Attack,Normal,Physical,40,100%,30,Pidgeot
+,,,,,,,
+17.0,Whirlwind,Normal,Status,—,100%,20,Pidgeot
+,,,,,,,
+22.0,Twister,Dragon,Special,40,100%,20,Pidgeot
+,,,,,,,
+27.0,FeatherDance,Flying,Status,—,100%,15,Pidgeot
+,,,,,,,
+32.0,Agility,Psychic,Status,—,—%,30,Pidgeot
+,,,,,,,
+38.0,Wing Attack,Flying,Physical,60,100%,35,Pidgeot
+,,,,,,,
+44.0,Roost,Flying,Status,—,—%,10,Pidgeot
+,,,,,,,
+50.0,Tailwind,Flying,Status,—,—%,30,Pidgeot
+,,,,,,,
+56.0,Mirror Move,Flying,Status,—,—%,20,Pidgeot
+,,,,,,,
+62.0,Air Slash,Flying,Special,75,95%,20,Pidgeot
+,,,,,,,
+1.0,Peck,Flying,Physical,35,100%,35,Spearow
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Spearow
+,,,,,,,
+5.0,Leer,Normal,Status,—,100%,30,Spearow
+,,,,,,,
+9.0,Fury Attack,Normal,Physical,15,85%,20,Spearow
+,,,,,,,
+13.0,Pursuit,Dark,Physical,40,100%,20,Spearow
+,,,,,,,
+17.0,Aerial Ace,Flying,Physical,60,—%,20,Spearow
+,,,,,,,
+21.0,Mirror Move,Flying,Status,—,—%,20,Spearow
+,,,,,,,
+25.0,Agility,Psychic,Status,—,—%,30,Spearow
+,,,,,,,
+29.0,Assurance,Dark,Physical,50,100%,10,Spearow
+,,,,,,,
+33.0,Roost,Flying,Status,—,—%,10,Spearow
+,,,,,,,
+37.0,Drill Peck,Flying,Physical,80,100%,20,Spearow
+,,,,,,,
+1.0,Pluck,Flying,Physical,60,100%,20,Fearow
+,,,,,,,
+1.0,Peck,Flying,Physical,35,100%,35,Fearow
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Fearow
+,,,,,,,
+1.0,Leer,Normal,Status,—,100%,30,Fearow
+,,,,,,,
+1.0,Fury Attack,Normal,Physical,15,85%,20,Fearow
+,,,,,,,
+5.0,Leer,Normal,Status,—,100%,30,Fearow
+,,,,,,,
+9.0,Fury Attack,Normal,Physical,15,85%,20,Fearow
+,,,,,,,
+13.0,Pursuit,Dark,Physical,40,100%,20,Fearow
+,,,,,,,
+17.0,Aerial Ace,Flying,Physical,60,—%,20,Fearow
+,,,,,,,
+23.0,Mirror Move,Flying,Status,—,—%,20,Fearow
+,,,,,,,
+29.0,Agility,Psychic,Status,—,—%,30,Fearow
+,,,,,,,
+35.0,Assurance,Dark,Physical,50,100%,10,Fearow
+,,,,,,,
+41.0,Roost,Flying,Status,—,—%,10,Fearow
+,,,,,,,
+47.0,Drill Peck,Flying,Physical,80,100%,20,Fearow
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Hoothoot
+,,,,,,,
+1,Growl,Normal,Status,—,100%,40,Hoothoot
+,,,,,,,
+5,Foresight,Normal,Status,—,—%,40,Hoothoot
+,,,,,,,
+9.0,Hypnosis,Psychic,Status,—,60%,20,Hoothoot
+,,,,,,,
+13.0,Peck,Flying,Physical,35,100%,35,Hoothoot
+,,,,,,,
+13.0,Uproar,Normal,Special,50,100%,10,Hoothoot
+,,,,,,,
+17.0,Reflect,Psychic,Status,—,—%,20,Hoothoot
+,,,,,,,
+21.0,Confusion,Psychic,Special,50,100%,25,Hoothoot
+,,,,,,,
+25.0,Take Down,Normal,Physical,90,85%,20,Hoothoot
+,,,,,,,
+29.0,Air Slash,Flying,Special,75,95%,20,Hoothoot
+,,,,,,,
+33.0,Zen Headbutt,Psychic,Physical,80,90%,15,Hoothoot
+,,,,,,,
+37.0,Extrasensory,Psychic,Special,80,100%,30,Hoothoot
+,,,,,,,
+41.0,Psycho Shift,Psychic,Status,—,90%,10,Hoothoot
+,,,,,,,
+45.0,Roost,Flying,Status,—,—%,10,Hoothoot
+,,,,,,,
+49.0,Dream Eater,Psychic,Special,100,100%,15,Hoothoot
+,,,,,,,
+1,Sky Attack,Flying,Physical,140,90%,5,Noctowl
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Noctowl
+,,,,,,,
+1,Growl,Normal,Status,—,100%,40,Noctowl
+,,,,,,,
+1,Foresight,Normal,Status,—,—%,40,Noctowl
+,,,,,,,
+1,Hypnosis,Psychic,Status,—,60%,20,Noctowl
+,,,,,,,
+5,Foresight,Normal,Status,—,—%,40,Noctowl
+,,,,,,,
+5,Hypnosis,Psychic,Status,—,60%,20,Noctowl
+,,,,,,,
+9.0,Peck,Flying,Physical,35,100%,35,Noctowl
+,,,,,,,
+13.0,Uproar,Normal,Special,50,100%,10,Noctowl
+,,,,,,,
+17.0,Reflect,Psychic,Status,—,—%,20,Noctowl
+,,,,,,,
+22.0,Confusion,Psychic,Special,50,100%,25,Noctowl
+,,,,,,,
+27.0,Take Down,Normal,Physical,90,85%,20,Noctowl
+,,,,,,,
+32.0,Air Slash,Flying,Special,75,95%,20,Noctowl
+,,,,,,,
+37.0,Zen Headbutt,Psychic,Physical,80,90%,15,Noctowl
+,,,,,,,
+42.0,Extrasensory,Psychic,Special,80,100%,30,Noctowl
+,,,,,,,
+47.0,Psycho Shift,Psychic,Status,—,90%,10,Noctowl
+,,,,,,,
+52.0,Roost,Flying,Status,—,—%,10,Noctowl
+,,,,,,,
+57.0,Dream Eater,Psychic,Special,100,100%,15,Noctowl
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Rattata
+,,,,,,,
+1.0,Tail Whip,Normal,Status,—,100%,30,Rattata
+,,,,,,,
+4.0,Quick Attack,Normal,Physical,40,100%,30,Rattata
+,,,,,,,
+7.0,Focus Energy,Normal,Status,—,—%,30,Rattata
+,,,,,,,
+10.0,Bite,Dark,Physical,60,100%,25,Rattata
+,,,,,,,
+13.0,Pursuit,Dark,Physical,40,100%,20,Rattata
+,,,,,,,
+16.0,Hyper Fang,Normal,Physical,80,90%,15,Rattata
+,,,,,,,
+19.0,Sucker Punch,Dark,Physical,80,100%,5,Rattata
+,,,,,,,
+22.0,Crunch,Dark,Physical,80,100%,15,Rattata
+,,,,,,,
+25.0,Assurance,Dark,Physical,50,100%,10,Rattata
+,,,,,,,
+28.0,Super Fang,Normal,Physical,—,90%,10,Rattata
+,,,,,,,
+31.0,Double-Edge,Normal,Physical,120,100%,15,Rattata
+,,,,,,,
+34.0,Endeavor,Normal,Physical,—,100%,5,Rattata
+,,,,,,,
+1.0,Swords Dance,Normal,Status,—,—%,30,Raticate
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Raticate
+,,,,,,,
+1.0,Tail Whip,Normal,Status,—,100%,30,Raticate
+,,,,,,,
+1.0,Quick Attack,Normal,Physical,40,100%,30,Raticate
+,,,,,,,
+1.0,Focus Energy,Normal,Status,—,—%,30,Raticate
+,,,,,,,
+4.0,Quick Attack,Normal,Physical,40,100%,30,Raticate
+,,,,,,,
+7.0,Focus Energy,Normal,Status,—,—%,30,Raticate
+,,,,,,,
+10.0,Bite,Dark,Physical,60,100%,25,Raticate
+,,,,,,,
+13.0,Pursuit,Dark,Physical,40,100%,20,Raticate
+,,,,,,,
+16.0,Hyper Fang,Normal,Physical,80,90%,15,Raticate
+,,,,,,,
+19.0,Sucker Punch,Dark,Physical,80,100%,5,Raticate
+,,,,,,,
+20.0,Scary Face,Normal,Status,—,90%,10,Raticate
+,,,,,,,
+24.0,Crunch,Dark,Physical,80,100%,15,Raticate
+,,,,,,,
+29.0,Assurance,Dark,Physical,50,100%,10,Raticate
+,,,,,,,
+34.0,Super Fang,Normal,Physical,—,90%,10,Raticate
+,,,,,,,
+39.0,Double-Edge,Normal,Physical,120,100%,15,Raticate
+,,,,,,,
+44.0,Endeavor,Normal,Physical,—,100%,5,Raticate
+,,,,,,,
+1.0,Scratch,Normal,Physical,40,100%,35,Sentret
+,,,,,,,
+1.0,Foresight,Normal,Status,—,—%,40,Sentret
+,,,,,,,
+4.0,Defense Curl,Normal,Status,—,—%,40,Sentret
+,,,,,,,
+7.0,Quick Attack,Normal,Physical,40,100%,30,Sentret
+,,,,,,,
+13.0,Fury Swipes,Normal,Physical,18,80%,15,Sentret
+,,,,,,,
+16.0,Helping Hand,Normal,Status,—,—%,20,Sentret
+,,,,,,,
+19.0,Follow Me,Normal,Status,—,—%,20,Sentret
+,,,,,,,
+25.0,Slam,Normal,Physical,80,75%,20,Sentret
+,,,,,,,
+28.0,Rest,Psychic,Status,—,—%,10,Sentret
+,,,,,,,
+31.0,Sucker Punch,Dark,Physical,80,100%,5,Sentret
+,,,,,,,
+36.0,Amnesia,Psychic,Status,—,—%,20,Sentret
+,,,,,,,
+39.0,Baton Pass,Normal,Status,—,—%,40,Sentret
+,,,,,,,
+42.0,Me First,Normal,Status,—,—%,20,Sentret
+,,,,,,,
+47.0,Hyper Voice,Normal,Special,90,100%,10,Sentret
+,,,,,,,
+1.0,Scratch,Normal,Physical,40,100%,35,Furret
+,,,,,,,
+1.0,Foresight,Normal,Status,—,—%,40,Furret
+,,,,,,,
+1.0,Defense Curl,Normal,Status,—,—%,40,Furret
+,,,,,,,
+1.0,Quick Attack,Normal,Physical,40,100%,30,Furret
+,,,,,,,
+4.0,Defense Curl,Normal,Status,—,—%,40,Furret
+,,,,,,,
+7.0,Quick Attack,Normal,Physical,40,100%,30,Furret
+,,,,,,,
+13.0,Fury Swipes,Normal,Physical,18,80%,15,Furret
+,,,,,,,
+17.0,Helping Hand,Normal,Status,—,—%,20,Furret
+,,,,,,,
+21.0,Follow Me,Normal,Status,—,—%,20,Furret
+,,,,,,,
+28.0,Slam,Normal,Physical,80,75%,20,Furret
+,,,,,,,
+32.0,Rest,Psychic,Status,—,—%,10,Furret
+,,,,,,,
+36.0,Sucker Punch,Dark,Physical,80,100%,5,Furret
+,,,,,,,
+42.0,Amnesia,Psychic,Status,—,—%,20,Furret
+,,,,,,,
+46.0,Baton Pass,Normal,Status,—,—%,40,Furret
+,,,,,,,
+50.0,Me First,Normal,Status,—,—%,20,Furret
+,,,,,,,
+56.0,Hyper Voice,Normal,Special,90,100%,10,Furret
+,,,,,,,
+1.0,ThunderShock,Electric,Special,40,100%,30,Pichu
+,,,,,,,
+1.0,Charm,Normal,Status,—,100%,20,Pichu
+,,,,,,,
+5.0,Tail Whip,Normal,Status,—,100%,30,Pichu
+,,,,,,,
+10.0,Thunder Wave,Electric,Status,—,100%,20,Pichu
+,,,,,,,
+13.0,Sweet Kiss,Normal,Status,—,75%,10,Pichu
+,,,,,,,
+18.0,Nasty Plot,Dark,Status,—,—%,20,Pichu
+,,,,,,,
+1.0,ThunderShock,Electric,Special,40,100%,30,Pikachu
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Pikachu
+,,,,,,,
+5.0,Tail Whip,Normal,Status,—,100%,30,Pikachu
+,,,,,,,
+10.0,Thunder Wave,Electric,Status,—,100%,20,Pikachu
+,,,,,,,
+13.0,Quick Attack,Normal,Physical,40,100%,30,Pikachu
+,,,,,,,
+18.0,Double Team,Normal,Status,—,—%,15,Pikachu
+,,,,,,,
+21.0,Slam,Normal,Physical,80,75%,20,Pikachu
+,,,,,,,
+26.0,Thunderbolt,Electric,Special,95,100%,15,Pikachu
+,,,,,,,
+29.0,Feint,Normal,Physical,50,100%,10,Pikachu
+,,,,,,,
+34.0,Agility,Psychic,Status,—,—%,30,Pikachu
+,,,,,,,
+37.0,Discharge,Electric,Special,80,100%,15,Pikachu
+,,,,,,,
+42.0,Light Screen,Psychic,Status,—,—%,30,Pikachu
+,,,,,,,
+45.0,Thunder,Electric,Special,120,70%,10,Pikachu
+,,,,,,,
+1.0,ThunderShock,Electric,Special,40,100%,30,Raichu
+,,,,,,,
+1.0,Tail Whip,Normal,Status,—,100%,30,Raichu
+,,,,,,,
+1.0,Quick Attack,Normal,Physical,40,100%,30,Raichu
+,,,,,,,
+1.0,Thunderbolt,Electric,Special,95,100%,15,Raichu
+,,,,,,,
+1,Tackle,Normal,Physical,35,95%,35,Caterpie
+,,,,,,,
+1,String Shot,Bug,Status,—,95%,40,Caterpie
+,,,,,,,
+15.0,Bug Bite,Bug,Physical,60,100%,20,Caterpie
+,,,,,,,
+1.0,Harden,Normal,Status,—,—%,30,Metapod
+,,,,,,,
+7.0,Harden,Normal,Status,—,—%,30,Metapod
+,,,,,,,
+1.0,Confusion,Psychic,Special,50,100%,25,Butterfree
+,,,,,,,
+10.0,Confusion,Psychic,Special,50,100%,25,Butterfree
+,,,,,,,
+12.0,PoisonPowder,Poison,Status,—,75%,35,Butterfree
+,,,,,,,
+12.0,Stun Spore,Grass,Status,—,75%,30,Butterfree
+,,,,,,,
+12.0,Sleep Powder,Grass,Status,—,75%,15,Butterfree
+,,,,,,,
+16.0,Gust,Flying,Special,40,100%,35,Butterfree
+,,,,,,,
+18.0,Supersonic,Normal,Status,—,55%,20,Butterfree
+,,,,,,,
+22.0,Whirlwind,Normal,Status,—,100%,20,Butterfree
+,,,,,,,
+24.0,Psybeam,Psychic,Special,65,100%,20,Butterfree
+,,,,,,,
+28.0,Silver Wind,Bug,Special,60,100%,5,Butterfree
+,,,,,,,
+30.0,Tailwind,Flying,Status,—,—%,30,Butterfree
+,,,,,,,
+34.0,Safeguard,Normal,Status,—,—%,25,Butterfree
+,,,,,,,
+36.0,Captivate,Normal,Status,—,100%,20,Butterfree
+,,,,,,,
+40.0,Bug Buzz,Bug,Special,90,100%,10,Butterfree
+,,,,,,,
+,Poison Sting,Poison,Physical,15,100%,35,Weedle
+,,,,,,,
+,String Shot,Bug,Status,—,95%,40,Weedle
+,,,,,,,
+,Bug Bite,Bug,Physical,60,100%,20,Weedle
+,,,,,,,
+1.0,Harden,Normal,Status,—,—%,30,Kakuna
+,,,,,,,
+7.0,Harden,Normal,Status,—,—%,30,Kakuna
+,,,,,,,
+1.0,Fury Attack,Normal,Physical,15,85%,20,Beedrill
+,,,,,,,
+10.0,Fury Attack,Normal,Physical,15,85%,20,Beedrill
+,,,,,,,
+13.0,Focus Energy,Normal,Status,—,—%,30,Beedrill
+,,,,,,,
+16.0,Twineedle,Bug,Physical,25,100%,20,Beedrill
+,,,,,,,
+19.0,Rage,Normal,Physical,20,100%,20,Beedrill
+,,,,,,,
+22.0,Pursuit,Dark,Physical,40,100%,20,Beedrill
+,,,,,,,
+25.0,Toxic Spikes,Poison,Status,—,—%,20,Beedrill
+,,,,,,,
+28.0,Pin Missile,Bug,Physical,14,85%,20,Beedrill
+,,,,,,,
+31.0,Agility,Psychic,Status,—,—%,30,Beedrill
+,,,,,,,
+34.0,Assurance,Dark,Physical,50,100%,10,Beedrill
+,,,,,,,
+37.0,Poison Jab,Poison,Physical,80,100%,20,Beedrill
+,,,,,,,
+40.0,Endeavor,Normal,Physical,—,100%,5,Beedrill
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Ledyba
+,,,,,,,
+6.0,Supersonic,Normal,Status,—,55%,20,Ledyba
+,,,,,,,
+9.0,Comet Punch,Normal,Physical,18,85%,15,Ledyba
+,,,,,,,
+14.0,Light Screen,Psychic,Status,—,—%,30,Ledyba
+,,,,,,,
+14.0,Reflect,Psychic,Status,—,—%,20,Ledyba
+,,,,,,,
+14.0,Safeguard,Normal,Status,—,—%,25,Ledyba
+,,,,,,,
+17.0,Mach Punch,Fighting,Physical,40,100%,30,Ledyba
+,,,,,,,
+22.0,Baton Pass,Normal,Status,—,—%,40,Ledyba
+,,,,,,,
+25.0,Silver Wind,Bug,Special,60,100%,5,Ledyba
+,,,,,,,
+30.0,Agility,Psychic,Status,—,—%,30,Ledyba
+,,,,,,,
+33.0,Swift,Normal,Special,60,—%,20,Ledyba
+,,,,,,,
+38.0,Double-Edge,Normal,Physical,120,100%,15,Ledyba
+,,,,,,,
+41.0,Bug Buzz,Bug,Special,90,100%,10,Ledyba
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Ledian
+,,,,,,,
+1.0,Supersonic,Normal,Status,—,55%,20,Ledian
+,,,,,,,
+1.0,Comet Punch,Normal,Physical,18,85%,15,Ledian
+,,,,,,,
+6.0,Supersonic,Normal,Status,—,55%,20,Ledian
+,,,,,,,
+9.0,Comet Punch,Normal,Physical,18,85%,15,Ledian
+,,,,,,,
+14.0,Light Screen,Psychic,Status,—,—%,30,Ledian
+,,,,,,,
+14.0,Reflect,Psychic,Status,—,—%,20,Ledian
+,,,,,,,
+14.0,Safeguard,Normal,Status,—,—%,25,Ledian
+,,,,,,,
+17.0,Mach Punch,Fighting,Physical,40,100%,30,Ledian
+,,,,,,,
+24.0,Baton Pass,Normal,Status,—,—%,40,Ledian
+,,,,,,,
+29.0,Silver Wind,Bug,Special,60,100%,5,Ledian
+,,,,,,,
+36.0,Agility,Psychic,Status,—,—%,30,Ledian
+,,,,,,,
+41.0,Swift,Normal,Special,60,—%,20,Ledian
+,,,,,,,
+48.0,Double-Edge,Normal,Physical,120,100%,15,Ledian
+,,,,,,,
+53.0,Bug Buzz,Bug,Special,90,100%,10,Ledian
+,,,,,,,
+1.0,Poison Sting,Poison,Physical,15,100%,35,Spinarak
+,,,,,,,
+1.0,String Shot,Bug,Status,—,95%,40,Spinarak
+,,,,,,,
+5.0,Scary Face,Normal,Status,—,90%,10,Spinarak
+,,,,,,,
+8.0,Constrict,Normal,Physical,10,100%,35,Spinarak
+,,,,,,,
+12.0,Leech Life,Bug,Physical,20,100%,15,Spinarak
+,,,,,,,
+15.0,Night Shade,Ghost,Special,—,100%,15,Spinarak
+,,,,,,,
+19.0,Shadow Sneak,Ghost,Physical,40,100%,30,Spinarak
+,,,,,,,
+22.0,Fury Swipes,Normal,Physical,18,80%,15,Spinarak
+,,,,,,,
+26.0,Sucker Punch,Dark,Physical,80,100%,5,Spinarak
+,,,,,,,
+29.0,Spider Web,Bug,Status,—,—%,10,Spinarak
+,,,,,,,
+33.0,Agility,Psychic,Status,—,—%,30,Spinarak
+,,,,,,,
+36.0,Pin Missile,Bug,Physical,14,85%,20,Spinarak
+,,,,,,,
+40.0,Psychic,Psychic,Special,90,100%,10,Spinarak
+,,,,,,,
+43.0,Poison Jab,Poison,Physical,80,100%,20,Spinarak
+,,,,,,,
+1.0,Bug Bite,Bug,Physical,60,100%,20,Ariados
+,,,,,,,
+1.0,Poison Sting,Poison,Physical,15,100%,35,Ariados
+,,,,,,,
+1.0,String Shot,Bug,Status,—,95%,40,Ariados
+,,,,,,,
+1.0,Scary Face,Normal,Status,—,90%,10,Ariados
+,,,,,,,
+1.0,Constrict,Normal,Physical,10,100%,35,Ariados
+,,,,,,,
+5.0,Scary Face,Normal,Status,—,90%,10,Ariados
+,,,,,,,
+8.0,Constrict,Normal,Physical,10,100%,35,Ariados
+,,,,,,,
+12.0,Leech Life,Bug,Physical,20,100%,15,Ariados
+,,,,,,,
+15.0,Night Shade,Ghost,Special,—,100%,15,Ariados
+,,,,,,,
+19.0,Shadow Sneak,Ghost,Physical,40,100%,30,Ariados
+,,,,,,,
+23.0,Fury Swipes,Normal,Physical,18,80%,15,Ariados
+,,,,,,,
+28.0,Sucker Punch,Dark,Physical,80,100%,5,Ariados
+,,,,,,,
+32.0,Spider Web,Bug,Status,—,—%,10,Ariados
+,,,,,,,
+37.0,Agility,Psychic,Status,—,—%,30,Ariados
+,,,,,,,
+41.0,Pin Missile,Bug,Physical,14,85%,20,Ariados
+,,,,,,,
+46.0,Psychic,Psychic,Special,90,100%,10,Ariados
+,,,,,,,
+50.0,Poison Jab,Poison,Physical,80,100%,20,Ariados
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Geodude
+,,,,,,,
+1.0,Defense Curl,Normal,Status,—,—%,40,Geodude
+,,,,,,,
+4.0,Mud Sport,Ground,Status,—,—%,15,Geodude
+,,,,,,,
+8.0,Rock Polish,Rock,Status,—,—%,20,Geodude
+,,,,,,,
+11.0,Rock Throw,Rock,Physical,50,90%,15,Geodude
+,,,,,,,
+15.0,Magnitude,Ground,Physical,—,100%,30,Geodude
+,,,,,,,
+18.0,Selfdestruct,Normal,Physical,200,100%,5,Geodude
+,,,,,,,
+22.0,Rollout,Rock,Physical,30,90%,20,Geodude
+,,,,,,,
+25.0,Rock Blast,Rock,Physical,25,80%,10,Geodude
+,,,,,,,
+29.0,Earthquake,Ground,Physical,100,100%,10,Geodude
+,,,,,,,
+32.0,Explosion,Normal,Physical,250,100%,5,Geodude
+,,,,,,,
+36.0,Double-Edge,Normal,Physical,120,100%,15,Geodude
+,,,,,,,
+39.0,Stone Edge,Rock,Physical,100,80%,5,Geodude
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Graveler
+,,,,,,,
+1.0,Defense Curl,Normal,Status,—,—%,40,Graveler
+,,,,,,,
+1.0,Mud Sport,Ground,Status,—,—%,15,Graveler
+,,,,,,,
+1.0,Rock Polish,Rock,Status,—,—%,20,Graveler
+,,,,,,,
+4.0,Mud Sport,Ground,Status,—,—%,15,Graveler
+,,,,,,,
+8.0,Rock Polish,Rock,Status,—,—%,20,Graveler
+,,,,,,,
+11.0,Rock Throw,Rock,Physical,50,90%,15,Graveler
+,,,,,,,
+15.0,Magnitude,Ground,Physical,—,100%,30,Graveler
+,,,,,,,
+18.0,Selfdestruct,Normal,Physical,200,100%,5,Graveler
+,,,,,,,
+22.0,Rollout,Rock,Physical,30,90%,20,Graveler
+,,,,,,,
+27.0,Rock Blast,Rock,Physical,25,80%,10,Graveler
+,,,,,,,
+33.0,Earthquake,Ground,Physical,100,100%,10,Graveler
+,,,,,,,
+38.0,Explosion,Normal,Physical,250,100%,5,Graveler
+,,,,,,,
+44.0,Double-Edge,Normal,Physical,120,100%,15,Graveler
+,,,,,,,
+49.0,Stone Edge,Rock,Physical,100,80%,5,Graveler
+,,,,,,,
+1.0,Tackle,Normal,Physical,35,95%,35,Golem
+,,,,,,,
+1.0,Defense Curl,Normal,Status,—,—%,40,Golem
+,,,,,,,
+1.0,Mud Sport,Ground,Status,—,—%,15,Golem
+,,,,,,,
+1.0,Rock Polish,Rock,Status,—,—%,20,Golem
+,,,,,,,
+4.0,Mud Sport,Ground,Status,—,—%,15,Golem
+,,,,,,,
+8.0,Rock Polish,Rock,Status,—,—%,20,Golem
+,,,,,,,
+11.0,Rock Throw,Rock,Physical,50,90%,15,Golem
+,,,,,,,
+15.0,Magnitude,Ground,Physical,—,100%,30,Golem
+,,,,,,,
+18.0,Selfdestruct,Normal,Physical,200,100%,5,Golem
+,,,,,,,
+22.0,Rollout,Rock,Physical,30,90%,20,Golem
+,,,,,,,
+27.0,Rock Blast,Rock,Physical,25,80%,10,Golem
+,,,,,,,
+33.0,Earthquake,Ground,Physical,100,100%,10,Golem
+,,,,,,,
+38.0,Explosion,Normal,Physical,250,100%,5,Golem
+,,,,,,,
+44.0,Double-Edge,Normal,Physical,120,100%,15,Golem
+,,,,,,,
+49.0,Stone Edge,Rock,Physical,100,80%,5,Golem
+,,,,,,,
+1.0,Leech Life,Bug,Physical,20,100%,15,Zubat
+,,,,,,,
+5.0,Supersonic,Normal,Status,—,55%,20,Zubat
+,,,,,,,
+9.0,Astonish,Ghost,Physical,30,100%,15,Zubat
+,,,,,,,
+13.0,Bite,Dark,Physical,60,100%,25,Zubat
+,,,,,,,
+17.0,Wing Attack,Flying,Physical,60,100%,35,Zubat
+,,,,,,,
+21.0,Confuse Ray,Ghost,Status,—,100%,10,Zubat
+,,,,,,,
+25.0,Air Cutter,Flying,Special,55,95%,25,Zubat
+,,,,,,,
+29.0,Mean Look,Normal,Status,—,—%,5,Zubat
+,,,,,,,
+33.0,Poison Fang,Poison,Physical,50,100%,15,Zubat
+,,,,,,,
+37.0,Haze,Ice,Status,—,—%,30,Zubat
+,,,,,,,
+41.0,Air Slash,Flying,Special,75,95%,20,Zubat
+,,,,,,,
+1.0,Screech,Normal,Status,—,85%,40,Golbat
+,,,,,,,
+1.0,Leech Life,Bug,Physical,20,100%,15,Golbat
+,,,,,,,
+1.0,Supersonic,Normal,Status,—,55%,20,Golbat
+,,,,,,,
+1.0,Astonish,Ghost,Physical,30,100%,15,Golbat
+,,,,,,,
+5.0,Supersonic,Normal,Status,—,55%,20,Golbat
+,,,,,,,
+9.0,Astonish,Ghost,Physical,30,100%,15,Golbat
+,,,,,,,
+13.0,Bite,Dark,Physical,60,100%,25,Golbat
+,,,,,,,
+17.0,Wing Attack,Flying,Physical,60,100%,35,Golbat
+,,,,,,,
+21.0,Confuse Ray,Ghost,Status,—,100%,10,Golbat
+,,,,,,,
+27.0,Air Cutter,Flying,Special,55,95%,25,Golbat
+,,,,,,,
+33.0,Mean Look,Normal,Status,—,—%,5,Golbat
+,,,,,,,
+39.0,Poison Fang,Poison,Physical,50,100%,15,Golbat
+,,,,,,,
+45.0,Haze,Ice,Status,—,—%,30,Golbat
+,,,,,,,
+51.0,Air Slash,Flying,Special,75,95%,20,Golbat
+,,,,,,,
+1.0,Cross Poison,Poison,Physical,70,100%,20,Crobat
+,,,,,,,
+1.0,Screech,Normal,Status,—,85%,40,Crobat
+,,,,,,,
+1.0,Leech Life,Bug,Physical,20,100%,15,Crobat
+,,,,,,,
+1.0,Supersonic,Normal,Status,—,55%,20,Crobat
+,,,,,,,
+1.0,Astonish,Ghost,Physical,30,100%,15,Crobat
+,,,,,,,
+5.0,Supersonic,Normal,Status,—,55%,20,Crobat
+,,,,,,,
+9.0,Astonish,Ghost,Physical,30,100%,15,Crobat
+,,,,,,,
+13.0,Bite,Dark,Physical,60,100%,25,Crobat
+,,,,,,,
+17.0,Wing Attack,Flying,Physical,60,100%,35,Crobat
+,,,,,,,
+21.0,Confuse Ray,Ghost,Status,—,100%,10,Crobat
+,,,,,,,
+27.0,Air Cutter,Flying,Special,55,95%,25,Crobat
+,,,,,,,
+33.0,Mean Look,Normal,Status,—,—%,5,Crobat
+,,,,,,,
+39.0,Poison Fang,Poison,Physical,50,100%,15,Crobat
+,,,,,,,
+45.0,Haze,Ice,Status,—,—%,30,Crobat
+,,,,,,,
+51.0,Air Slash,Flying,Special,75,95%,20,Crobat
+,,,,,,,
+1.0,Pound,Normal,Physical,40,100%,35,Cleffa
+,,,,,,,
+1.0,Charm,Normal,Status,—,100%,20,Cleffa
+,,,,,,,
+4.0,Encore,Normal,Status,—,100%,5,Cleffa
+,,,,,,,
+7.0,Sing,Normal,Status,—,55%,15,Cleffa
+,,,,,,,
+10.0,Sweet Kiss,Normal,Status,—,75%,10,Cleffa
+,,,,,,,
+13.0,Copycat,Normal,Status,—,—%,20,Cleffa
+,,,,,,,
+16.0,Magical Leaf,Grass,Special,60,—%,20,Cleffa
+,,,,,,,
+1.0,Pound,Normal,Physical,40,100%,35,Clefairy
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Clefairy
+,,,,,,,
+4.0,Encore,Normal,Status,—,100%,5,Clefairy
+,,,,,,,
+7.0,Sing,Normal,Status,—,55%,15,Clefairy
+,,,,,,,
+10.0,DoubleSlap,Normal,Physical,15,85%,10,Clefairy
+,,,,,,,
+13.0,Defense Curl,Normal,Status,—,—%,40,Clefairy
+,,,,,,,
+16.0,Follow Me,Normal,Status,—,—%,20,Clefairy
+,,,,,,,
+19.0,Minimize,Normal,Status,—,—%,20,Clefairy
+,,,,,,,
+22.0,Wake-Up Slap,Fighting,Physical,60,100%,10,Clefairy
+,,,,,,,
+25.0,Cosmic Power,Psychic,Status,—,—%,20,Clefairy
+,,,,,,,
+28.0,Lucky Chant,Normal,Status,—,—%,30,Clefairy
+,,,,,,,
+31.0,Metronome,Normal,Status,—,—%,10,Clefairy
+,,,,,,,
+34.0,Gravity,Psychic,Status,—,—%,5,Clefairy
+,,,,,,,
+37.0,Moonlight,Normal,Status,—,—%,5,Clefairy
+,,,,,,,
+40.0,Light Screen,Psychic,Status,—,—%,30,Clefairy
+,,,,,,,
+43.0,Meteor Mash,Steel,Physical,100,85%,10,Clefairy
+,,,,,,,
+46.0,Healing Wish,Psychic,Status,—,—%,10,Clefairy
+,,,,,,,
+1.0,Minimize,Normal,Status,—,—%,20,Clefable
+,,,,,,,
+1.0,DoubleSlap,Normal,Physical,15,85%,10,Clefable
+,,,,,,,
+1.0,Sing,Normal,Status,—,55%,15,Clefable
+,,,,,,,
+1.0,Metronome,Normal,Status,—,—%,10,Clefable
+,,,,,,,
+1.0,Sing,Normal,Status,—,55%,15,Igglybuff
+,,,,,,,
+1.0,Charm,Normal,Status,—,100%,20,Igglybuff
+,,,,,,,
+5.0,Defense Curl,Normal,Status,—,—%,40,Igglybuff
+,,,,,,,
+9.0,Pound,Normal,Physical,40,100%,35,Igglybuff
+,,,,,,,
+13.0,Sweet Kiss,Normal,Status,—,75%,10,Igglybuff
+,,,,,,,
+17.0,Copycat,Normal,Status,—,—%,20,Igglybuff
+,,,,,,,
+1.0,Sing,Normal,Status,—,55%,15,Jigglypuff
+,,,,,,,
+5.0,Defense Curl,Normal,Status,—,—%,40,Jigglypuff
+,,,,,,,
+9.0,Pound,Normal,Physical,40,100%,35,Jigglypuff
+,,,,,,,
+13.0,Disable,Normal,Status,—,80%,20,Jigglypuff
+,,,,,,,
+17.0,Rollout,Rock,Physical,30,90%,20,Jigglypuff
+,,,,,,,
+21.0,DoubleSlap,Normal,Physical,15,85%,10,Jigglypuff
+,,,,,,,
+25.0,Rest,Psychic,Status,—,—%,10,Jigglypuff
+,,,,,,,
+29.0,Body Slam,Normal,Physical,85,100%,15,Jigglypuff
+,,,,,,,
+33.0,Gyro Ball,Steel,Physical,—,100%,5,Jigglypuff
+,,,,,,,
+37.0,Wake-Up Slap,Fighting,Physical,60,100%,10,Jigglypuff
+,,,,,,,
+41.0,Mimic,Normal,Status,—,—%,10,Jigglypuff
+,,,,,,,
+45.0,Hyper Voice,Normal,Special,90,100%,10,Jigglypuff
+,,,,,,,
+49.0,Double-Edge,Normal,Physical,120,100%,15,Jigglypuff
+,,,,,,,
+1.0,Sing,Normal,Status,—,55%,15,Wigglytuff
+,,,,,,,
+1.0,Disable,Normal,Status,—,80%,20,Wigglytuff
+,,,,,,,
+1.0,Defense Curl,Normal,Status,—,—%,40,Wigglytuff
+,,,,,,,
+1.0,DoubleSlap,Normal,Physical,15,85%,10,Wigglytuff
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Togepi
+,,,,,,,
+1.0,Charm,Normal,Status,—,100%,20,Togepi
+,,,,,,,
+6.0,Metronome,Normal,Status,—,—%,10,Togepi
+,,,,,,,
+10.0,Sweet Kiss,Normal,Status,—,75%,10,Togepi
+,,,,,,,
+15.0,Yawn,Normal,Status,—,—%,10,Togepi
+,,,,,,,
+19.0,Encore,Normal,Status,—,100%,5,Togepi
+,,,,,,,
+24.0,Follow Me,Normal,Status,—,—%,20,Togepi
+,,,,,,,
+28.0,Wish,Normal,Status,—,—%,10,Togepi
+,,,,,,,
+33.0,AncientPower,Rock,Special,60,100%,5,Togepi
+,,,,,,,
+37.0,Safeguard,Normal,Status,—,—%,25,Togepi
+,,,,,,,
+42.0,Baton Pass,Normal,Status,—,—%,40,Togepi
+,,,,,,,
+46.0,Double-Edge,Normal,Physical,120,100%,15,Togepi
+,,,,,,,
+51.0,Last Resort,Normal,Physical,130,100%,5,Togepi
+,,,,,,,
+1.0,Magical Leaf,Grass,Special,60,—%,20,Togetic
+,,,,,,,
+1.0,Growl,Normal,Status,—,100%,40,Togetic
+,,,,,,,
+1.0,Charm,Normal,Status,—,100%,20,Togetic
+,,,,,,,
+1.0,Metronome,Normal,Status,—,—%,10,Togetic
+,,,,,,,
+1.0,Sweet Kiss,Normal,Status,—,75%,10,Togetic
+,,,,,,,
+6.0,Metronome,Normal,Status,—,—%,10,Togetic
+,,,,,,,
+10.0,Sweet Kiss,Normal,Status,—,75%,10,Togetic
+,,,,,,,
+15.0,Yawn,Normal,Status,—,—%,10,Togetic
+,,,,,,,
+19.0,Encore,Normal,Status,—,100%,5,Togetic
+,,,,,,,
+24.0,Follow Me,Normal,Status,—,—%,20,Togetic
+,,,,,,,
+28.0,Wish,Normal,Status,—,—%,10,Togetic
+,,,,,,,
+33.0,AncientPower,Rock,Special,60,100%,5,Togetic
+,,,,,,,
+37.0,Safeguard,Normal,Status,—,—%,25,Togetic
+,,,,,,,
+42.0,Baton Pass,Normal,Status,—,—%,40,Togetic
+,,,,,,,
+46.0,Double-Edge,Normal,Physical,120,100%,15,Togetic
+,,,,,,,
+51.0,Last Resort,Normal,Physical,130,100%,5,Togetic
+,,,,,,,
+1.0,Scratch,Normal,Physical,40,100%,35,Sandshrew
+,,,,,,,
+3.0,Defense Curl,Normal,Status,—,—%,40,Sandshrew
+,,,,,,,
+7.0,Sand-Attack,Ground,Status,—,100%,15,Sandshrew
+,,,,,,,
+9.0,Poison Sting,Poison,Physical,15,100%,35,Sandshrew
+,,,,,,,
+13.0,Rapid Spin,Normal,Physical,20,100%,40,Sandshrew
+,,,,,,,
+15.0,Swift,Normal,Special,60,—%,20,Sandshrew
+,,,,,,,
+19.0,Fury Swipes,Normal,Physical,18,80%,15,Sandshrew
+,,,,,,,
+21.0,Rollout,Rock,Physical,30,90%,20,Sandshrew
+,,,,,,,
+25.0,Fury Cutter,Bug,Physical,10,95%,20,Sandshrew
+,,,,,,,
+27.0,Sand Tomb,Ground,Physical,15,70%,15,Sandshrew
+,,,,,,,
+31.0,Slash,Normal,Physical,70,100%,20,Sandshrew
+,,,,,,,
+33.0,Gyro Ball,Steel,Physical,—,100%,5,Sandshrew
+,,,,,,,
+37.0,Sandstorm,Rock,Status,—,—%,10,Sandshrew
+,,,,,,,
+1.0,Scratch,Normal,Physical,40,100%,35,Sandslash
+,,,,,,,
+1.0,Defense Curl,Normal,Status,—,—%,40,Sandslash
+,,,,,,,
+1.0,Sand-Attack,Ground,Status,—,100%,15,Sandslash
+,,,,,,,
+3.0,Defense Curl,Normal,Status,—,—%,40,Sandslash
+,,,,,,,
+7.0,Sand-Attack,Ground,Status,—,100%,15,Sandslash
+,,,,,,,
+9.0,Poison Sting,Poison,Physical,15,100%,35,Sandslash
+,,,,,,,
+13.0,Rapid Spin,Normal,Physical,20,100%,40,Sandslash
+,,,,,,,
+15.0,Swift,Normal,Special,60,—%,20,Sandslash
+,,,,,,,
+19.0,Fury Swipes,Normal,Physical,18,80%,15,Sandslash
+,,,,,,,
+21.0,Rollout,Rock,Physical,30,90%,20,Sandslash
+,,,,,,,
+22.0,Crush Claw,Normal,Physical,75,95%,10,Sandslash
+,,,,,,,
+28.0,Fury Cutter,Bug,Physical,10,95%,20,Sandslash
+,,,,,,,
+33.0,Sand Tomb,Ground,Physical,15,70%,15,Sandslash
+,,,,,,,
+40.0,Slash,Normal,Physical,70,100%,20,Sandslash
+,,,,,,,
+45.0,Gyro Ball,Steel,Physical,—,100%,5,Sandslash
+,,,,,,,
+52.0,Sandstorm,Rock,Status,—,—%,10,Sandslash
+,,,,,,,
+1.0,Wrap,Normal,Physical,15,85%,20,Ekans
+,,,,,,,
+1.0,Leer,Normal,Status,—,100%,30,Ekans
+,,,,,,,
+4.0,Poison Sting,Poison,Physical,15,100%,35,Ekans
+,,,,,,,
+9.0,Bite,Dark,Physical,60,100%,25,Ekans
+,,,,,,,
+12.0,Glare,Normal,Status,—,75%,30,Ekans
+,,,,,,,
+17.0,Screech,Normal,Status,—,85%,40,Ekans
+,,,,,,,
+20.0,Acid,Poison,Special,40,100%,30,Ekans
+,,,,,,,
+25.0,Stockpile,Normal,Status,—,—%,20,Ekans
+,,,,,,,
+25.0,Swallow,Normal,Status,—,—%,10,Ekans
+,,,,,,,
+25.0,Spit Up,Normal,Special,—,100%,10,Ekans
+,,,,,,,
+28.0,Mud Bomb,Ground,Special,65,85%,10,Ekans
+,,,,,,,
+33.0,Gastro Acid,Poison,Status,—,100%,10,Ekans
+,,,,,,,
+36.0,Haze,Ice,Status,—,—%,30,Ekans
+,,,,,,,
+41.0,Gunk Shot,Poison,Physical,120,70%,5,Ekans
+,,,,,,,
+1.0,Ice Fang,Ice,Physical,65,95%,15,Arbok
+,,,,,,,
+1.0,Thunder Fang,Electric,Physical,65,95%,15,Arbok
+,,,,,,,
+1.0,Fire Fang,Fire,Physical,65,95%,15,Arbok
+,,,,,,,
+1.0,Wrap,Normal,Physical,15,85%,20,Arbok
+,,,,,,,
+1.0,Leer,Normal,Status,—,100%,30,Arbok
+,,,,,,,
+1.0,Poison Sting,Poison,Physical,15,100%,35,Arbok
+,,,,,,,
+1.0,Bite,Dark,Physical,60,100%,25,Arbok
+,,,,,,,
+4.0,Poison Sting,Poison,Physical,15,100%,35,Arbok
+,,,,,,,
+9.0,Bite,Dark,Physical,60,100%,25,Arbok
+,,,,,,,
+12.0,Glare,Normal,Status,—,75%,30,Arbok
+,,,,,,,
+17.0,Screech,Normal,Status,—,85%,40,Arbok
+,,,,,,,
+20.0,Acid,Poison,Special,40,100%,30,Arbok
+,,,,,,,
+22.0,Crunch,Dark,Physical,80,100%,15,Arbok
+,,,,,,,
+28.0,Stockpile,Normal,Status,—,—%,20,Arbok
+,,,,,,,
+28.0,Swallow,Normal,Status,—,—%,10,Arbok
+,,,,,,,
+28.0,Spit Up,Normal,Special,—,100%,10,Arbok
+,,,,,,,
+34.0,Mud Bomb,Ground,Special,65,85%,10,Arbok
+,,,,,,,
+42.0,Gastro Acid,Poison,Status,—,100%,10,Arbok
+,,,,,,,
+48.0,Haze,Ice,Status,—,—%,30,Arbok
+,,,,,,,
+56.0,Gunk Shot,Poison,Physical,120,70%,5,Arbok

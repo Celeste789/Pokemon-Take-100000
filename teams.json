@@ -8,14 +8,14 @@
       ],
       "Stats": {
          "Attack": 6,
-         "Special Attack": 7,
-         "Defense": 6,
-         "Special Defense": 6,
-         "Speed": 8
+         "Special Attack": 8,
+         "Defense": 7,
+         "Special Defense": 7,
+         "Speed": 7
       },
       "Lvl": 1,
       "Exp": 6,
-      "HP": 10,
+      "HP": 14,
       "Fainted": false
    },
    {
@@ -26,15 +26,15 @@
          "Tackle"
       ],
       "Stats": {
-         "Attack": 8,
+         "Attack": 7,
          "Special Attack": 7,
-         "Defense": 7,
-         "Special Defense": 8,
-         "Speed": 7
+         "Defense": 6,
+         "Special Defense": 6,
+         "Speed": 6
       },
       "Lvl": 1,
       "Exp": 6,
-      "HP": 12,
+      "HP": 13,
       "Fainted": false
    },
    {
@@ -45,9 +45,9 @@
          "Tackle"
       ],
       "Stats": {
-         "Attack": 8,
-         "Special Attack": 7,
-         "Defense": 8,
+         "Attack": 7,
+         "Special Attack": 6,
+         "Defense": 7,
          "Special Defense": 8,
          "Speed": 7
       },
@@ -63,15 +63,15 @@
          "Tackle"
       ],
       "Stats": {
-         "Attack": 7,
-         "Special Attack": 5,
-         "Defense": 6,
+         "Attack": 6,
+         "Special Attack": 6,
+         "Defense": 7,
          "Special Defense": 7,
-         "Speed": 8
+         "Speed": 7
       },
       "Lvl": 1,
       "Exp": 6,
-      "HP": 10,
+      "HP": 13,
       "Fainted": false
    },
    {
@@ -83,13 +83,85 @@
       "Stats": {
          "Attack": 7,
          "Special Attack": 6,
-         "Defense": 6,
-         "Special Defense": 6,
+         "Defense": 7,
+         "Special Defense": 7,
          "Speed": 8
       },
       "Lvl": 1,
       "Exp": 6,
-      "HP": 10,
+      "HP": 12,
+      "Fainted": false
+   },
+   {
+      "Name": "Hoot1",
+      "Specie": "HootHoot",
+      "Moves": [
+         "Peck"
+      ],
+      "Stats": {
+         "Attack": 7,
+         "Special Attack": 7,
+         "Defense": 5,
+         "Special Defense": 7,
+         "Speed": 7
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": 11,
+      "Fainted": false
+   },
+   {
+      "Name": "Hoot2",
+      "Specie": "HootHoot",
+      "Moves": [
+         "Peck"
+      ],
+      "Stats": {
+         "Attack": 5,
+         "Special Attack": 6,
+         "Defense": 6,
+         "Special Defense": 8,
+         "Speed": 6
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": 11,
+      "Fainted": false
+   },
+   {
+      "Name": "Geo1",
+      "Specie": "Geodude",
+      "Moves": [
+         "Roll Out"
+      ],
+      "Stats": {
+         "Attack": 9,
+         "Special Attack": 5,
+         "Defense": 8,
+         "Special Defense": 7,
+         "Speed": 5
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": 13,
+      "Fainted": false
+   },
+   {
+      "Name": "Geo2",
+      "Specie": "Geodude",
+      "Moves": [
+         "Roll Out"
+      ],
+      "Stats": {
+         "Attack": 9,
+         "Special Attack": 6,
+         "Defense": 9,
+         "Special Defense": 6,
+         "Speed": 5
+      },
+      "Lvl": 1,
+      "Exp": 6,
+      "HP": 13,
       "Fainted": false
    }
 ]

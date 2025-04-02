@@ -1,0 +1,3491 @@
+Move,Type,Cat.,Pwr.,Acc.,PP,S. Contest,Appeal,Pokemon Name,level
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Chikorita,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Chikorita,1
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Chikorita,6
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Chikorita,9
+Synthesis,Grass,Status,—,—%,5,Smart,0,Chikorita,12
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Chikorita,17
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Chikorita,20
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Chikorita,23
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Chikorita,28
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Chikorita,31
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Chikorita,34
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Chikorita,39
+Aromatherapy,Grass,Status,—,—%,5,Smart,0,Chikorita,42
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Chikorita,45
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Bayleef,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Bayleef,1
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Bayleef,1
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Bayleef,1
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Bayleef,6
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Bayleef,9
+Synthesis,Grass,Status,—,—%,5,Smart,0,Bayleef,12
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Bayleef,18
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Bayleef,22
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Bayleef,26
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Bayleef,32
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Bayleef,36
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Bayleef,40
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Bayleef,46
+Aromatherapy,Grass,Status,—,—%,5,Smart,0,Bayleef,50
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Bayleef,54
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Meganium,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Meganium,1
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Meganium,1
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Meganium,1
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Meganium,6
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Meganium,9
+Synthesis,Grass,Status,—,—%,5,Smart,0,Meganium,12
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Meganium,18
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Meganium,22
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Meganium,26
+Petal Dance,Grass,Special,90,100%,20,Beauty,0,Meganium,32
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Meganium,34
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Meganium,40
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Meganium,46
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Meganium,54
+Aromatherapy,Grass,Status,—,—%,5,Smart,0,Meganium,60
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Meganium,66
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Cyndaquil,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Cyndaquil,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Cyndaquil,6
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Cyndaquil,10
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Cyndaquil,13
+Flame Wheel,Fire,Physical,60,100%,25,Beauty,2 ♥♥,Cyndaquil,19
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Cyndaquil,22
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Cyndaquil,28
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Cyndaquil,31
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Cyndaquil,37
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Cyndaquil,40
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Cyndaquil,46
+Eruption,Fire,Special,150,100%,5,Beauty,2 ♥♥,Cyndaquil,49
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Quilava,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Quilava,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Quilava,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Quilava,6
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Quilava,10
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Quilava,13
+Flame Wheel,Fire,Physical,60,100%,25,Beauty,2 ♥♥,Quilava,20
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Quilava,24
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Quilava,31
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Quilava,35
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Quilava,42
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Quilava,46
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Quilava,53
+Eruption,Fire,Special,150,100%,5,Beauty,2 ♥♥,Quilava,57
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Typhlosion,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Typhlosion,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Typhlosion,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Typhlosion,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Typhlosion,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Typhlosion,6
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Typhlosion,10
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Typhlosion,13
+Flame Wheel,Fire,Physical,60,100%,25,Beauty,2 ♥♥,Typhlosion,20
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Typhlosion,24
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Typhlosion,31
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Typhlosion,35
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Typhlosion,42
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Typhlosion,46
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Typhlosion,53
+Eruption,Fire,Special,150,100%,5,Beauty,2 ♥♥,Typhlosion,57
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Totodile,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Totodile,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Totodile,6
+Rage,Normal,Physical,20,100%,20,Cool,0,Totodile,8
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Totodile,13
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Totodile,15
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Totodile,20
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Totodile,36
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Totodile,22
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Totodile,27
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Totodile,29
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Totodile,34
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Totodile,41
+Superpower,Fighting,Physical,120,100%,5,Tough,2 ♥♥,Totodile,43
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Totodile,48
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Croconaw,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Croconaw,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Croconaw,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Croconaw,6
+Rage,Normal,Physical,20,100%,20,Cool,0,Croconaw,8
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Croconaw,13
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Croconaw,15
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Croconaw,21
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Croconaw,42
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Croconaw,24
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Croconaw,30
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Croconaw,33
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Croconaw,39
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Croconaw,48
+Superpower,Fighting,Physical,120,100%,5,Tough,2 ♥♥,Croconaw,51
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Croconaw,57
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Feraligatr,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Feraligatr,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Feraligatr,1
+Rage,Normal,Physical,20,100%,20,Cool,0,Feraligatr,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Feraligatr,6
+Rage,Normal,Physical,20,100%,20,Cool,0,Feraligatr,8
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Feraligatr,13
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Feraligatr,15
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Feraligatr,21
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Feraligatr,50
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Feraligatr,24
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Feraligatr,30
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Feraligatr,32
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Feraligatr,37
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Feraligatr,45
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Feraligatr,58
+Superpower,Fighting,Physical,120,100%,5,Tough,2 ♥♥,Feraligatr,63
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Feraligatr,71
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Pidgey,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Pidgey,5
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Pidgey,9
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Pidgey,13
+Whirlwind,Normal,Status,—,100%,20,Smart,0,Pidgey,17
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Pidgey,21
+FeatherDance,Flying,Status,—,100%,15,Beauty,2 ♥♥,Pidgey,25
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Pidgey,29
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Pidgey,33
+Roost,Flying,Status,—,—%,10,Cool,0,Pidgey,37
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Pidgey,41
+Mirror Move,Flying,Status,—,—%,20,Smart,2 ♥♥,Pidgey,45
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Pidgey,49
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Pidgeotto,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Pidgeotto,1
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Pidgeotto,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Pidgeotto,5
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Pidgeotto,9
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Pidgeotto,13
+Whirlwind,Normal,Status,—,100%,20,Smart,0,Pidgeotto,17
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Pidgeotto,22
+FeatherDance,Flying,Status,—,100%,15,Beauty,2 ♥♥,Pidgeotto,27
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Pidgeotto,32
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Pidgeotto,37
+Roost,Flying,Status,—,—%,10,Cool,0,Pidgeotto,42
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Pidgeotto,47
+Mirror Move,Flying,Status,—,—%,20,Smart,2 ♥♥,Pidgeotto,52
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Pidgeotto,57
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Pidgeot,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Pidgeot,1
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Pidgeot,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Pidgeot,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Pidgeot,5
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Pidgeot,9
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Pidgeot,13
+Whirlwind,Normal,Status,—,100%,20,Smart,0,Pidgeot,17
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Pidgeot,22
+FeatherDance,Flying,Status,—,100%,15,Beauty,2 ♥♥,Pidgeot,27
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Pidgeot,32
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Pidgeot,38
+Roost,Flying,Status,—,—%,10,Cool,0,Pidgeot,44
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Pidgeot,50
+Mirror Move,Flying,Status,—,—%,20,Smart,2 ♥♥,Pidgeot,56
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Pidgeot,62
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Spearow,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Spearow,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Spearow,5
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Spearow,9
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Spearow,13
+Aerial Ace,Flying,Physical,60,—%,20,Cool,2 ♥♥,Spearow,17
+Mirror Move,Flying,Status,—,—%,20,Smart,2 ♥♥,Spearow,21
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Spearow,25
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Spearow,29
+Roost,Flying,Status,—,—%,10,Cool,0,Spearow,33
+Drill Peck,Flying,Physical,80,100%,20,Cool,3 ♥♥♥,Spearow,37
+Pluck,Flying,Physical,60,100%,20,Cute,0,Fearow,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Fearow,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Fearow,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Fearow,1
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Fearow,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Fearow,5
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Fearow,9
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Fearow,13
+Aerial Ace,Flying,Physical,60,—%,20,Cool,2 ♥♥,Fearow,17
+Mirror Move,Flying,Status,—,—%,20,Smart,2 ♥♥,Fearow,23
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Fearow,29
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Fearow,35
+Roost,Flying,Status,—,—%,10,Cool,0,Fearow,41
+Drill Peck,Flying,Physical,80,100%,20,Cool,3 ♥♥♥,Fearow,47
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Hoothoot,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Hoothoot,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Hoothoot,5
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Hoothoot,9
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Hoothoot,13
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Hoothoot,13
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Hoothoot,17
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Hoothoot,21
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Hoothoot,25
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Hoothoot,29
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Hoothoot,33
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Hoothoot,37
+Psycho Shift,Psychic,Status,—,90%,10,Cool,0,Hoothoot,41
+Roost,Flying,Status,—,—%,10,Cool,0,Hoothoot,45
+Dream Eater,Psychic,Special,100,100%,15,Smart,1 ♥,Hoothoot,49
+Sky Attack,Flying,Physical,140,90%,5,Cool,1 ♥,Noctowl,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Noctowl,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Noctowl,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Noctowl,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Noctowl,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Noctowl,5
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Noctowl,5
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Noctowl,13
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Noctowl,13
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Noctowl,17
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Noctowl,22
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Noctowl,27
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Noctowl,32
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Noctowl,37
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Noctowl,42
+Psycho Shift,Psychic,Status,—,90%,10,Cool,0,Noctowl,47
+Roost,Flying,Status,—,—%,10,Cool,0,Noctowl,52
+Dream Eater,Psychic,Special,100,100%,15,Smart,1 ♥,Noctowl,57
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Rattata,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Rattata,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Rattata,4
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Rattata,7
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Rattata,10
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Rattata,13
+Hyper Fang,Normal,Physical,80,90%,15,Cool,2 ♥♥,Rattata,16
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Rattata,19
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Rattata,22
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Rattata,25
+Super Fang,Normal,Physical,—,90%,10,Tough,3 ♥♥♥,Rattata,28
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Rattata,31
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Rattata,34
+Swords Dance,Normal,Status,—,—%,30,Beauty,0,Raticate,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Raticate,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Raticate,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Raticate,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Raticate,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Raticate,4
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Raticate,7
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Raticate,10
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Raticate,13
+Hyper Fang,Normal,Physical,80,90%,15,Cool,2 ♥♥,Raticate,16
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Raticate,19
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Raticate,20
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Raticate,24
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Raticate,29
+Super Fang,Normal,Physical,—,90%,10,Tough,3 ♥♥♥,Raticate,34
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Raticate,39
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Raticate,44
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Sentret,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Sentret,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Sentret,4
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Sentret,7
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Sentret,13
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Sentret,16
+Follow Me,Normal,Status,—,—%,20,Cute,2 ♥♥,Sentret,19
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Sentret,25
+Rest,Psychic,Status,—,—%,10,Cute,0,Sentret,28
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Sentret,31
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Sentret,36
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Sentret,39
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Sentret,42
+Hyper Voice,Normal,Special,90,100%,10,Cool,3 ♥♥♥,Sentret,47
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Furret,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Furret,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Furret,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Furret,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Furret,4
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Furret,7
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Furret,13
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Furret,17
+Follow Me,Normal,Status,—,—%,20,Cute,2 ♥♥,Furret,21
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Furret,28
+Rest,Psychic,Status,—,—%,10,Cute,0,Furret,32
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Furret,36
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Furret,42
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Furret,46
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Furret,50
+Hyper Voice,Normal,Special,90,100%,10,Cool,3 ♥♥♥,Furret,56
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Pichu,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Pichu,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Pichu,5
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Pichu,10
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Pichu,13
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Pichu,18
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Pikachu,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Pikachu,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Pikachu,5
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Pikachu,10
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Pikachu,13
+Double Team,Normal,Status,—,—%,15,Cool,2 ♥♥,Pikachu,18
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Pikachu,21
+Thunderbolt,Electric,Special,95,100%,15,Cool,2 ♥♥,Pikachu,26
+Feint,Normal,Physical,50,100%,10,Beauty,0,Pikachu,29
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Pikachu,34
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Pikachu,37
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Pikachu,42
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Pikachu,45
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Raichu,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Raichu,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Raichu,1
+Thunderbolt,Electric,Special,95,100%,15,Cool,2 ♥♥,Raichu,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Caterpie,1
+String Shot,Bug,Status,—,95%,40,Smart,2 ♥♥,Caterpie,1
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Caterpie,15
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Metapod,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Metapod,7
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Butterfree,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Butterfree,10
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Butterfree,12
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Butterfree,12
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Butterfree,12
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Butterfree,16
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Butterfree,18
+Whirlwind,Normal,Status,—,100%,20,Smart,0,Butterfree,22
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Butterfree,24
+Silver Wind,Bug,Special,60,100%,5,Beauty,2 ♥♥,Butterfree,28
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Butterfree,30
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Butterfree,34
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Butterfree,36
+Bug Buzz,Bug,Special,90,100%,10,Cute,2 ♥♥,Butterfree,40
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Weedle,1
+String Shot,Bug,Status,—,95%,40,Smart,2 ♥♥,Weedle,1
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Weedle,15
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Kakuna,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Kakuna,7
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Beedrill,1
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Beedrill,10
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Beedrill,13
+Twineedle,Bug,Physical,25,100%,20,Cool,2 ♥♥,Beedrill,16
+Rage,Normal,Physical,20,100%,20,Cool,0,Beedrill,19
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Beedrill,22
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Beedrill,25
+Pin Missile,Bug,Physical,14,85%,20,Cool,2 ♥♥,Beedrill,28
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Beedrill,31
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Beedrill,34
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Beedrill,37
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Beedrill,40
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Ledyba,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Ledyba,6
+Comet Punch,Normal,Physical,18,85%,15,Tough,2 ♥♥,Ledyba,9
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Ledyba,14
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Ledyba,14
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Ledyba,14
+Mach Punch,Fighting,Physical,40,100%,30,Cool,2 ♥♥,Ledyba,17
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Ledyba,22
+Silver Wind,Bug,Special,60,100%,5,Beauty,2 ♥♥,Ledyba,25
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Ledyba,30
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Ledyba,33
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Ledyba,38
+Bug Buzz,Bug,Special,90,100%,10,Cute,2 ♥♥,Ledyba,41
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Ledian,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Ledian,1
+Comet Punch,Normal,Physical,18,85%,15,Tough,2 ♥♥,Ledian,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Ledian,6
+Comet Punch,Normal,Physical,18,85%,15,Tough,2 ♥♥,Ledian,9
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Ledian,14
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Ledian,14
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Ledian,14
+Mach Punch,Fighting,Physical,40,100%,30,Cool,2 ♥♥,Ledian,17
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Ledian,24
+Silver Wind,Bug,Special,60,100%,5,Beauty,2 ♥♥,Ledian,29
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Ledian,36
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Ledian,41
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Ledian,48
+Bug Buzz,Bug,Special,90,100%,10,Cute,2 ♥♥,Ledian,53
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Spinarak,1
+String Shot,Bug,Status,—,95%,40,Smart,2 ♥♥,Spinarak,1
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Spinarak,5
+Constrict,Normal,Physical,10,100%,35,Tough,0,Spinarak,8
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Spinarak,12
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Spinarak,15
+Shadow Sneak,Ghost,Physical,40,100%,30,Smart,2 ♥♥,Spinarak,19
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Spinarak,22
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Spinarak,26
+Spider Web,Bug,Status,—,—%,10,Smart,2 ♥♥,Spinarak,29
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Spinarak,33
+Pin Missile,Bug,Physical,14,85%,20,Cool,2 ♥♥,Spinarak,36
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Spinarak,40
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Spinarak,43
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Ariados,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Ariados,1
+String Shot,Bug,Status,—,95%,40,Smart,2 ♥♥,Ariados,1
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Ariados,1
+Constrict,Normal,Physical,10,100%,35,Tough,0,Ariados,1
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Ariados,5
+Constrict,Normal,Physical,10,100%,35,Tough,0,Ariados,8
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Ariados,12
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Ariados,15
+Shadow Sneak,Ghost,Physical,40,100%,30,Smart,2 ♥♥,Ariados,19
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Ariados,23
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Ariados,28
+Spider Web,Bug,Status,—,—%,10,Smart,2 ♥♥,Ariados,32
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Ariados,37
+Pin Missile,Bug,Physical,14,85%,20,Cool,2 ♥♥,Ariados,41
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Ariados,46
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Ariados,50
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Geodude,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Geodude,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Geodude,4
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Geodude,8
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Geodude,11
+Magnitude,Ground,Physical,—,100%,30,Tough,2 ♥♥,Geodude,15
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Geodude,18
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Geodude,22
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Geodude,25
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Geodude,29
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Geodude,32
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Geodude,36
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Geodude,39
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Graveler,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Graveler,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Graveler,1
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Graveler,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Graveler,4
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Graveler,8
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Graveler,11
+Magnitude,Ground,Physical,—,100%,30,Tough,2 ♥♥,Graveler,15
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Graveler,18
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Graveler,22
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Graveler,27
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Graveler,33
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Graveler,38
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Graveler,44
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Graveler,49
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Golem,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Golem,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Golem,1
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Golem,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Golem,4
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Golem,8
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Golem,11
+Magnitude,Ground,Physical,—,100%,30,Tough,2 ♥♥,Golem,15
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Golem,18
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Golem,22
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Golem,27
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Golem,33
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Golem,38
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Golem,44
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Golem,49
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Zubat,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Zubat,5
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Zubat,9
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Zubat,13
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Zubat,17
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Zubat,21
+Air Cutter,Flying,Special,55,95%,25,Cool,3 ♥♥♥,Zubat,25
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Zubat,29
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Zubat,33
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Zubat,37
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Zubat,41
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Golbat,1
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Golbat,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Golbat,1
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Golbat,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Golbat,5
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Golbat,9
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Golbat,13
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Golbat,17
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Golbat,21
+Air Cutter,Flying,Special,55,95%,25,Cool,3 ♥♥♥,Golbat,27
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Golbat,33
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Golbat,39
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Golbat,45
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Golbat,51
+Cross Poison,Poison,Physical,70,100%,20,Cool,3 ♥♥♥,Crobat,1
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Crobat,1
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Crobat,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Crobat,1
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Crobat,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Crobat,5
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Crobat,9
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Crobat,13
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Crobat,17
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Crobat,21
+Air Cutter,Flying,Special,55,95%,25,Cool,3 ♥♥♥,Crobat,27
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Crobat,33
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Crobat,39
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Crobat,45
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Crobat,51
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Cleffa,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Cleffa,1
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Cleffa,4
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Cleffa,7
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Cleffa,10
+Copycat,Normal,Status,—,—%,20,Cool,0,Cleffa,13
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Cleffa,16
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Clefairy,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Clefairy,1
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Clefairy,4
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Clefairy,7
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Clefairy,10
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Clefairy,13
+Follow Me,Normal,Status,—,—%,20,Cute,2 ♥♥,Clefairy,16
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Clefairy,19
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Clefairy,22
+Cosmic Power,Psychic,Status,—,—%,20,Cool,0,Clefairy,25
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Clefairy,28
+Metronome,Normal,Status,—,—%,10,Cute,2 ♥♥,Clefairy,31
+Gravity,Psychic,Status,—,—%,5,Beauty,2 ♥♥,Clefairy,34
+Moonlight,Normal,Status,—,—%,5,Beauty,0,Clefairy,37
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Clefairy,40
+Meteor Mash,Steel,Physical,100,85%,10,Cool,2 ♥♥,Clefairy,43
+Healing Wish,Psychic,Status,—,—%,10,Cute,0,Clefairy,46
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Clefable,1
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Clefable,1
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Clefable,1
+Metronome,Normal,Status,—,—%,10,Cute,2 ♥♥,Clefable,1
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Igglybuff,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Igglybuff,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Igglybuff,5
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Igglybuff,9
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Igglybuff,13
+Copycat,Normal,Status,—,—%,20,Cool,0,Igglybuff,17
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Jigglypuff,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Jigglypuff,5
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Jigglypuff,9
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Jigglypuff,13
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Jigglypuff,17
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Jigglypuff,21
+Rest,Psychic,Status,—,—%,10,Cute,0,Jigglypuff,25
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Jigglypuff,29
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Jigglypuff,33
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Jigglypuff,37
+Mimic,Normal,Status,—,—%,10,Cute,0,Jigglypuff,41
+Hyper Voice,Normal,Special,90,100%,10,Cool,3 ♥♥♥,Jigglypuff,45
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Jigglypuff,49
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Wigglytuff,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Wigglytuff,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Wigglytuff,1
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Wigglytuff,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Togepi,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Togepi,1
+Metronome,Normal,Status,—,—%,10,Cute,2 ♥♥,Togepi,6
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Togepi,10
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Togepi,15
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Togepi,19
+Follow Me,Normal,Status,—,—%,20,Cute,2 ♥♥,Togepi,24
+Wish,Normal,Status,—,—%,10,Cute,0,Togepi,28
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Togepi,33
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Togepi,37
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Togepi,42
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Togepi,46
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Togepi,51
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Togetic,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Togetic,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Togetic,1
+Metronome,Normal,Status,—,—%,10,Cute,2 ♥♥,Togetic,1
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Togetic,1
+Metronome,Normal,Status,—,—%,10,Cute,2 ♥♥,Togetic,6
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Togetic,10
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Togetic,15
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Togetic,19
+Follow Me,Normal,Status,—,—%,20,Cute,2 ♥♥,Togetic,24
+Wish,Normal,Status,—,—%,10,Cute,0,Togetic,28
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Togetic,33
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Togetic,37
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Togetic,42
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Togetic,46
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Togetic,51
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Sandshrew,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Sandshrew,3
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Sandshrew,7
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Sandshrew,9
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Sandshrew,13
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Sandshrew,15
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Sandshrew,19
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Sandshrew,21
+Fury Cutter,Bug,Physical,10,95%,20,Cool,2 ♥♥,Sandshrew,25
+Sand Tomb,Ground,Physical,15,70%,15,Smart,0,Sandshrew,27
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Sandshrew,31
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Sandshrew,33
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Sandshrew,37
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Sandslash,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Sandslash,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Sandslash,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Sandslash,3
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Sandslash,7
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Sandslash,9
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Sandslash,13
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Sandslash,15
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Sandslash,19
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Sandslash,21
+Crush Claw,Normal,Physical,75,95%,10,Cool,3 ♥♥♥,Sandslash,22
+Fury Cutter,Bug,Physical,10,95%,20,Cool,2 ♥♥,Sandslash,28
+Sand Tomb,Ground,Physical,15,70%,15,Smart,0,Sandslash,33
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Sandslash,40
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Sandslash,45
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Sandslash,52
+Wrap,Normal,Physical,15,85%,20,Tough,0,Ekans,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Ekans,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Ekans,4
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Ekans,9
+Glare,Normal,Status,—,75%,30,Tough,2 ♥♥,Ekans,12
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Ekans,17
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Ekans,20
+Stockpile,Normal,Status,—,—%,20,Tough,0,Ekans,25
+Swallow,Normal,Status,—,—%,10,Tough,0,Ekans,25
+Spit Up,Normal,Special,—,100%,10,Tough,2 ♥♥,Ekans,25
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Ekans,28
+Gastro Acid,Poison,Status,—,100%,10,Beauty,2 ♥♥,Ekans,33
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Ekans,36
+Gunk Shot,Poison,Physical,120,70%,5,Cool,3 ♥♥♥,Ekans,41
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Arbok,1
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Arbok,1
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Arbok,1
+Wrap,Normal,Physical,15,85%,20,Tough,0,Arbok,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Arbok,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Arbok,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Arbok,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Arbok,4
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Arbok,9
+Glare,Normal,Status,—,75%,30,Tough,2 ♥♥,Arbok,12
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Arbok,17
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Arbok,20
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Arbok,22
+Stockpile,Normal,Status,—,—%,20,Tough,0,Arbok,28
+Swallow,Normal,Status,—,—%,10,Tough,0,Arbok,28
+Spit Up,Normal,Special,—,100%,10,Tough,2 ♥♥,Arbok,28
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Arbok,34
+Gastro Acid,Poison,Status,—,100%,10,Beauty,2 ♥♥,Arbok,42
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Arbok,48
+Gunk Shot,Poison,Physical,120,70%,5,Cool,3 ♥♥♥,Arbok,56
+Rage,Normal,Physical,20,100%,20,Cool,0,Dunsparce,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Dunsparce,5
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Dunsparce,9
+Glare,Normal,Status,—,75%,30,Tough,2 ♥♥,Dunsparce,13
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Dunsparce,17
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Dunsparce,21
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Dunsparce,25
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Dunsparce,29
+Roost,Flying,Status,—,—%,10,Cool,0,Dunsparce,33
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Dunsparce,37
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Dunsparce,41
+Dig,Ground,Physical,80,100%,10,Smart,1 ♥,Dunsparce,45
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Dunsparce,49
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Dunsparce,53
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Mareep,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Mareep,5
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Mareep,10
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Mareep,14
+Cotton Spore,Grass,Status,—,85%,40,Beauty,2 ♥♥,Mareep,19
+Charge,Electric,Status,—,—%,20,Smart,0,Mareep,23
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Mareep,28
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Mareep,32
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Mareep,37
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Mareep,41
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Mareep,46
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Flaaffy,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Flaaffy,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Flaaffy,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Flaaffy,5
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Flaaffy,10
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Flaaffy,14
+Cotton Spore,Grass,Status,—,85%,40,Beauty,2 ♥♥,Flaaffy,20
+Charge,Electric,Status,—,—%,20,Smart,0,Flaaffy,25
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Flaaffy,31
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Flaaffy,36
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Flaaffy,42
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Flaaffy,47
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Flaaffy,53
+Fire Punch,Fire,Physical,75,100%,15,Beauty,2 ♥♥,Ampharos,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Ampharos,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Ampharos,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Ampharos,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Ampharos,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Ampharos,5
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Ampharos,10
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Ampharos,14
+Cotton Spore,Grass,Status,—,85%,40,Beauty,2 ♥♥,Ampharos,20
+Charge,Electric,Status,—,—%,20,Smart,0,Ampharos,25
+ThunderPunch,Electric,Physical,75,100%,15,Cool,2 ♥♥,Ampharos,30
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Ampharos,34
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Ampharos,42
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Ampharos,51
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Ampharos,59
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Ampharos,68
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Wooper,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Wooper,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Wooper,5
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Wooper,9
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Wooper,15
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Wooper,19
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Wooper,23
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Wooper,29
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Wooper,33
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Wooper,37
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Wooper,43
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Wooper,43
+Muddy Water,Water,Special,95,85%,10,Tough,2 ♥♥,Wooper,47
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Quagsire,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Quagsire,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Quagsire,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Quagsire,5
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Quagsire,9
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Quagsire,15
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Quagsire,19
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Quagsire,24
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Quagsire,31
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Quagsire,36
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Quagsire,41
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Quagsire,48
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Quagsire,48
+Muddy Water,Water,Special,95,85%,10,Tough,2 ♥♥,Quagsire,53
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Gastly,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Gastly,1
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Gastly,5
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Gastly,8
+Curse,???,Status,—,—%,10,Tough,0,Gastly,12
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Gastly,15
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Gastly,19
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Gastly,22
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Gastly,26
+Shadow Ball,Ghost,Special,80,100%,15,Smart,2 ♥♥,Gastly,29
+Dream Eater,Psychic,Special,100,100%,15,Smart,1 ♥,Gastly,33
+Dark Pulse,Dark,Special,80,100%,15,Cool,2 ♥♥,Gastly,36
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Gastly,40
+Nightmare,Ghost,Status,—,100%,15,Smart,2 ♥♥,Gastly,43
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Haunter,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Haunter,1
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Haunter,1
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Haunter,5
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Haunter,8
+Curse,???,Status,—,—%,10,Tough,0,Haunter,12
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Haunter,15
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Haunter,19
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Haunter,22
+Shadow Punch,Ghost,Physical,60,—%,20,Smart,2 ♥♥,Haunter,25
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Haunter,28
+Shadow Ball,Ghost,Special,80,100%,15,Smart,2 ♥♥,Haunter,33
+Dream Eater,Psychic,Special,100,100%,15,Smart,1 ♥,Haunter,39
+Dark Pulse,Dark,Special,80,100%,15,Cool,2 ♥♥,Haunter,44
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Haunter,50
+Nightmare,Ghost,Status,—,100%,15,Smart,2 ♥♥,Haunter,55
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Gengar,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Gengar,1
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Gengar,1
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Gengar,5
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Gengar,8
+Curse,???,Status,—,—%,10,Tough,0,Gengar,12
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Gengar,15
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Gengar,19
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Gengar,22
+Shadow Punch,Ghost,Physical,60,—%,20,Smart,2 ♥♥,Gengar,25
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Gengar,28
+Shadow Ball,Ghost,Special,80,100%,15,Smart,2 ♥♥,Gengar,33
+Dream Eater,Psychic,Special,100,100%,15,Smart,1 ♥,Gengar,39
+Dark Pulse,Dark,Special,80,100%,15,Cool,2 ♥♥,Gengar,44
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Gengar,50
+Nightmare,Ghost,Status,—,100%,15,Smart,2 ♥♥,Gengar,55
+Hidden Power,Normal,Special,—,100%,15,Smart,1 ♥,Unown,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Onix,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Onix,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Onix,1
+Bind,Normal,Physical,15,75%,20,Tough,0,Onix,1
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Onix,6
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Onix,9
+Rage,Normal,Physical,20,100%,20,Cool,0,Onix,14
+Rock Tomb,Rock,Physical,50,80%,10,Smart,2 ♥♥,Onix,17
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Onix,22
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Onix,25
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Onix,30
+DragonBreath,Dragon,Special,60,100%,20,Cool,2 ♥♥,Onix,33
+Curse,???,Status,—,—%,10,Tough,0,Onix,38
+Iron Tail,Steel,Physical,100,75%,15,Cool,2 ♥♥,Onix,41
+Sand Tomb,Ground,Physical,15,70%,15,Smart,0,Onix,46
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Onix,49
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Onix,54
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Steelix,1
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Steelix,1
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Steelix,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Steelix,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Steelix,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Steelix,1
+Bind,Normal,Physical,15,75%,20,Tough,0,Steelix,1
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Steelix,6
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Steelix,9
+Rage,Normal,Physical,20,100%,20,Cool,0,Steelix,14
+Rock Tomb,Rock,Physical,50,80%,10,Smart,2 ♥♥,Steelix,17
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Steelix,22
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Steelix,25
+Rock Polish,Rock,Status,—,—%,20,Tough,2 ♥♥,Steelix,30
+DragonBreath,Dragon,Special,60,100%,20,Cool,2 ♥♥,Steelix,33
+Curse,???,Status,—,—%,10,Tough,0,Steelix,38
+Iron Tail,Steel,Physical,100,75%,15,Cool,2 ♥♥,Steelix,41
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Steelix,46
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Steelix,49
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Steelix,54
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Bellsprout,1
+Growth,Normal,Status,—,—%,40,Beauty,0,Bellsprout,7
+Wrap,Normal,Physical,15,85%,20,Tough,0,Bellsprout,11
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Bellsprout,13
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Bellsprout,15
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Bellsprout,17
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Bellsprout,23
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Bellsprout,27
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Bellsprout,29
+Gastro Acid,Poison,Status,—,100%,10,Beauty,2 ♥♥,Bellsprout,35
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Bellsprout,39
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Bellsprout,41
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Bellsprout,47
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Weepinbell,1
+Growth,Normal,Status,—,—%,40,Beauty,0,Weepinbell,1
+Wrap,Normal,Physical,15,85%,20,Tough,0,Weepinbell,1
+Growth,Normal,Status,—,—%,40,Beauty,0,Weepinbell,7
+Wrap,Normal,Physical,15,85%,20,Tough,0,Weepinbell,11
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Weepinbell,13
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Weepinbell,15
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Weepinbell,17
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Weepinbell,23
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Weepinbell,27
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Weepinbell,29
+Gastro Acid,Poison,Status,—,100%,10,Beauty,2 ♥♥,Weepinbell,35
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Weepinbell,39
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Weepinbell,41
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Weepinbell,47
+Stockpile,Normal,Status,—,—%,20,Tough,0,Victreebel,1
+Swallow,Normal,Status,—,—%,10,Tough,0,Victreebel,1
+Spit Up,Normal,Special,—,100%,10,Tough,2 ♥♥,Victreebel,1
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Victreebel,1
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Victreebel,1
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Victreebel,1
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Victreebel,1
+Leaf Storm,Grass,Special,140,90%,5,Cute,2 ♥♥,Victreebel,47
+Leaf Blade,Grass,Physical,90,100%,15,Cool,2 ♥♥,Victreebel,47
+Splash,Normal,Status,—,—%,40,Cute,0,Hoppip,1
+Synthesis,Grass,Status,—,—%,5,Smart,0,Hoppip,4
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Hoppip,7
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Hoppip,10
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Hoppip,12
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Hoppip,14
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Hoppip,16
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Hoppip,19
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Hoppip,22
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Hoppip,25
+Cotton Spore,Grass,Status,—,85%,40,Beauty,2 ♥♥,Hoppip,28
+U-turn,Bug,Physical,70,100%,20,Cute,0,Hoppip,31
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Hoppip,34
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Hoppip,37
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Hoppip,40
+Memento,Dark,Status,—,100%,10,Tough,0,Hoppip,43
+Splash,Normal,Status,—,—%,40,Cute,0,Skiploom,1
+Synthesis,Grass,Status,—,—%,5,Smart,0,Skiploom,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Skiploom,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Skiploom,1
+Synthesis,Grass,Status,—,—%,5,Smart,0,Skiploom,4
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Skiploom,7
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Skiploom,10
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Skiploom,12
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Skiploom,14
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Skiploom,16
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Skiploom,20
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Skiploom,24
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Skiploom,28
+Cotton Spore,Grass,Status,—,85%,40,Beauty,2 ♥♥,Skiploom,32
+U-turn,Bug,Physical,70,100%,20,Cute,0,Skiploom,36
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Skiploom,40
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Skiploom,44
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Skiploom,48
+Memento,Dark,Status,—,100%,10,Tough,0,Skiploom,52
+Splash,Normal,Status,—,—%,40,Cute,0,Jumpluff,1
+Synthesis,Grass,Status,—,—%,5,Smart,0,Jumpluff,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Jumpluff,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Jumpluff,1
+Synthesis,Grass,Status,—,—%,5,Smart,0,Jumpluff,4
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Jumpluff,7
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Jumpluff,10
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Jumpluff,12
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Jumpluff,14
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Jumpluff,16
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Jumpluff,20
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Jumpluff,24
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Jumpluff,28
+Cotton Spore,Grass,Status,—,85%,40,Beauty,2 ♥♥,Jumpluff,32
+U-turn,Bug,Physical,70,100%,20,Cute,0,Jumpluff,36
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Jumpluff,40
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Jumpluff,44
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Jumpluff,48
+Memento,Dark,Status,—,100%,10,Tough,0,Jumpluff,52
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Paras,1
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Paras,6
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Paras,6
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Paras,11
+Spore,Grass,Status,—,100%,15,Beauty,2 ♥♥,Paras,17
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Paras,22
+Growth,Normal,Status,—,—%,40,Beauty,0,Paras,27
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Paras,33
+Aromatherapy,Grass,Status,—,—%,5,Smart,0,Paras,38
+X-Scissor,Bug,Physical,80,100%,15,Beauty,2 ♥♥,Paras,43
+Cross Poison,Poison,Physical,70,100%,20,Cool,3 ♥♥♥,Parasect,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Parasect,1
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Parasect,1
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Parasect,1
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Parasect,1
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Parasect,6
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Parasect,6
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Parasect,11
+Spore,Grass,Status,—,100%,15,Beauty,2 ♥♥,Parasect,17
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Parasect,22
+Growth,Normal,Status,—,—%,40,Beauty,0,Parasect,30
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Parasect,39
+Aromatherapy,Grass,Status,—,—%,5,Smart,0,Parasect,47
+X-Scissor,Bug,Physical,80,100%,15,Beauty,2 ♥♥,Parasect,55
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Poliwag,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Poliwag,5
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Poliwag,8
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Poliwag,11
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Poliwag,15
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Poliwag,18
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Poliwag,21
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Poliwag,25
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Poliwag,28
+Belly Drum,Normal,Status,—,—%,10,Cute,0,Poliwag,31
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Poliwag,35
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Poliwag,38
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Poliwag,41
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Poliwhirl,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Poliwhirl,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Poliwhirl,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Poliwhirl,5
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Poliwhirl,8
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Poliwhirl,11
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Poliwhirl,15
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Poliwhirl,18
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Poliwhirl,21
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Poliwhirl,27
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Poliwhirl,32
+Belly Drum,Normal,Status,—,—%,10,Cute,0,Poliwhirl,37
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Poliwhirl,43
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Poliwhirl,48
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Poliwhirl,53
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Poliwrath,1
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Poliwrath,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Poliwrath,1
+Submission,Fighting,Physical,80,80%,25,Cool,3 ♥♥♥,Poliwrath,1
+DynamicPunch,Fighting,Physical,100,50%,5,Cool,2 ♥♥,Poliwrath,43
+Mind Reader,Normal,Status,—,—%,5,Smart,1 ♥,Poliwrath,53
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Politoed,1
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Politoed,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Politoed,1
+Perish Song,Normal,Status,—,—%,5,Beauty,2 ♥♥,Politoed,1
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Politoed,53
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Politoed,43
+Hyper Voice,Normal,Special,90,100%,10,Cool,3 ♥♥♥,Politoed,48
+Splash,Normal,Status,—,—%,40,Cute,0,Magikarp,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Magikarp,15
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Magikarp,30
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Gyarados,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Gyarados,20
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Gyarados,23
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Gyarados,26
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Gyarados,29
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Gyarados,32
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Gyarados,35
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Gyarados,38
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Gyarados,41
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Gyarados,44
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Gyarados,47
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Goldeen,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Goldeen,1
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Goldeen,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Goldeen,7
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Goldeen,11
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Goldeen,17
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Goldeen,21
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Goldeen,27
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Goldeen,31
+Waterfall,Water,Physical,80,100%,15,Tough,3 ♥♥♥,Goldeen,37
+Horn Drill,Normal,Physical,—,30%,5,Cool,0,Goldeen,41
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Goldeen,47
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Goldeen,51
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Seaking,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Seaking,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Seaking,1
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Seaking,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Seaking,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Seaking,7
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Seaking,11
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Seaking,17
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Seaking,21
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Seaking,27
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Seaking,31
+Waterfall,Water,Physical,80,100%,15,Tough,3 ♥♥♥,Seaking,40
+Horn Drill,Normal,Physical,—,30%,5,Cool,0,Seaking,47
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Seaking,56
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Seaking,63
+Curse,???,Status,—,—%,10,Tough,0,Slowpoke,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Slowpoke,1
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Slowpoke,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Slowpoke,6
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Slowpoke,11
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Slowpoke,15
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Slowpoke,20
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Slowpoke,25
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Slowpoke,29
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Slowpoke,34
+Slack Off,Normal,Status,—,—%,10,Cute,0,Slowpoke,39
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Slowpoke,43
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Slowpoke,48
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Slowpoke,53
+Psych Up,Normal,Status,—,—%,10,Smart,0,Slowpoke,57
+Curse,???,Status,—,—%,10,Tough,0,Slowbro,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Slowbro,1
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Slowbro,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Slowbro,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Slowbro,6
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Slowbro,11
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Slowbro,15
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Slowbro,20
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Slowbro,25
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Slowbro,29
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Slowbro,34
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Slowbro,37
+Slack Off,Normal,Status,—,—%,10,Cute,0,Slowbro,41
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Slowbro,47
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Slowbro,54
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Slowbro,61
+Psych Up,Normal,Status,—,—%,10,Smart,0,Slowbro,67
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Slowking,1
+Hidden Power,Normal,Special,—,100%,15,Smart,1 ♥,Slowking,1
+Curse,???,Status,—,—%,10,Tough,0,Slowking,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Slowking,1
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Slowking,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Slowking,6
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Slowking,11
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Slowking,15
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Slowking,20
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Slowking,25
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Slowking,29
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Slowking,34
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Slowking,39
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Slowking,43
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Slowking,48
+Trump Card,Normal,Special,—,—%,5,Cool,0,Slowking,53
+Psych Up,Normal,Status,—,—%,10,Smart,0,Slowking,57
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Oddish,1
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Oddish,5
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Oddish,9
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Oddish,13
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Oddish,15
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Oddish,17
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Oddish,21
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Oddish,25
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Oddish,29
+Moonlight,Normal,Status,—,—%,5,Beauty,0,Oddish,33
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Oddish,37
+Petal Dance,Grass,Special,90,100%,20,Beauty,0,Oddish,41
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Gloom,1
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Gloom,1
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Gloom,1
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Gloom,5
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Gloom,9
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Gloom,13
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Gloom,15
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Gloom,17
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Gloom,23
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Gloom,29
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Gloom,35
+Moonlight,Normal,Status,—,—%,5,Beauty,0,Gloom,41
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Gloom,47
+Petal Dance,Grass,Special,90,100%,20,Beauty,0,Gloom,53
+Aromatherapy,Grass,Status,—,—%,5,Smart,0,Vileplume,1
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Vileplume,1
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Vileplume,1
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Vileplume,1
+Petal Dance,Grass,Special,90,100%,20,Beauty,0,Vileplume,53
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Vileplume,65
+Leaf Blade,Grass,Physical,90,100%,15,Cool,2 ♥♥,Bellossom,1
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Bellossom,1
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Bellossom,1
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Bellossom,1
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Bellossom,1
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Bellossom,23
+Leaf Storm,Grass,Special,140,90%,5,Cute,2 ♥♥,Bellossom,53
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Drowzee,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Drowzee,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Drowzee,7
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Drowzee,9
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Drowzee,15
+Poison Gas,Poison,Status,—,55%,40,Smart,3 ♥♥♥,Drowzee,18
+Meditate,Psychic,Status,—,—%,40,Beauty,0,Drowzee,21
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Drowzee,26
+Psych Up,Normal,Status,—,—%,10,Smart,0,Drowzee,29
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Drowzee,32
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Drowzee,37
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Drowzee,40
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Drowzee,43
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Drowzee,50
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Drowzee,53
+Nightmare,Ghost,Status,—,100%,15,Smart,2 ♥♥,Hypno,1
+Switcheroo,Dark,Status,—,100%,10,Cool,0,Hypno,1
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Hypno,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Hypno,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Hypno,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Hypno,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Hypno,7
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Hypno,9
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Hypno,15
+Poison Gas,Poison,Status,—,55%,40,Smart,3 ♥♥♥,Hypno,18
+Meditate,Psychic,Status,—,—%,40,Beauty,0,Hypno,21
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Hypno,28
+Psych Up,Normal,Status,—,—%,10,Smart,0,Hypno,33
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Hypno,38
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Hypno,45
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Hypno,50
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Hypno,55
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Hypno,64
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Hypno,69
+Teleport,Psychic,Status,—,—%,20,Cool,2 ♥♥,Abra,1
+Kinesis,Psychic,Status,—,80%,15,Smart,0,Kadabra,1
+Teleport,Psychic,Status,—,—%,20,Cool,2 ♥♥,Kadabra,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Kadabra,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Kadabra,16
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Kadabra,18
+Miracle Eye,Psychic,Status,—,—%,40,Cute,1 ♥,Kadabra,22
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Kadabra,24
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Kadabra,28
+Recover,Normal,Status,—,—%,10,Smart,0,Kadabra,30
+Psycho Cut,Psychic,Physical,70,100%,20,Cool,2 ♥♥,Kadabra,34
+Role Play,Psychic,Status,—,—%,10,Cute,1 ♥,Kadabra,36
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Kadabra,40
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Kadabra,42
+Trick,Psychic,Status,—,100%,10,Smart,0,Kadabra,46
+Kinesis,Psychic,Status,—,80%,15,Smart,0,Alakazam,1
+Teleport,Psychic,Status,—,—%,20,Cool,2 ♥♥,Alakazam,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Alakazam,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Alakazam,16
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Alakazam,18
+Miracle Eye,Psychic,Status,—,—%,40,Cute,1 ♥,Alakazam,22
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Alakazam,24
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Alakazam,28
+Recover,Normal,Status,—,—%,10,Smart,0,Alakazam,30
+Psycho Cut,Psychic,Physical,70,100%,20,Cool,2 ♥♥,Alakazam,34
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Alakazam,36
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Alakazam,40
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Alakazam,42
+Trick,Psychic,Status,—,100%,10,Smart,0,Alakazam,46
+Transform,Normal,Status,—,—%,10,Smart,1 ♥,Ditto,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Pineco,1
+Protect,Normal,Status,—,—%,10,Cute,0,Pineco,1
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Pineco,6
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Pineco,12
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Pineco,9
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Pineco,17
+Bide,Normal,Physical,—,—%,10,Tough,2 ♥♥,Pineco,20
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Pineco,23
+Spikes,Ground,Status,—,—%,20,Smart,2 ♥♥,Pineco,28
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Pineco,31
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Pineco,34
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Pineco,39
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Pineco,42
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Pineco,45
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Forretress,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Forretress,1
+Protect,Normal,Status,—,—%,10,Cute,0,Forretress,1
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Forretress,1
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Forretress,1
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Forretress,1
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Forretress,6
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Forretress,12
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Forretress,9
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Forretress,17
+Bide,Normal,Physical,—,—%,10,Tough,2 ♥♥,Forretress,20
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Forretress,23
+Spikes,Ground,Status,—,—%,20,Smart,2 ♥♥,Forretress,28
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Forretress,33
+Mirror Shot,Steel,Special,65,85%,10,Cute,2 ♥♥,Forretress,31
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Forretress,38
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Forretress,45
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Forretress,50
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Forretress,55
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Forretress,62
+Zap Cannon,Electric,Special,120,50%,5,Cool,2 ♥♥,Forretress,67
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Nidoran♀,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Nidoran♀,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Nidoran♀,7
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Nidoran♀,9
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Nidoran♀,13
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Nidoran♀,19
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Nidoran♀,21
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Nidoran♀,25
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Nidoran♀,31
+Flatter,Dark,Status,—,100%,15,Smart,2 ♥♥,Nidoran♀,33
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Nidoran♀,37
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Nidoran♀,43
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Nidoran♀,45
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Nidorina,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Nidorina,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Nidorina,7
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Nidorina,9
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Nidorina,13
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Nidorina,20
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Nidorina,23
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Nidorina,28
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Nidorina,35
+Flatter,Dark,Status,—,100%,15,Smart,2 ♥♥,Nidorina,38
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Nidorina,43
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Nidorina,50
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Nidorina,58
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Nidoqueen,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Nidoqueen,1
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Nidoqueen,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Nidoqueen,1
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Nidoqueen,23
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Nidoqueen,43
+Superpower,Fighting,Physical,120,100%,5,Tough,2 ♥♥,Nidoqueen,58
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Nidoran♂,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Nidoran♂,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Nidoran♂,7
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Nidoran♂,9
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Nidoran♂,13
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Nidoran♂,19
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Nidoran♂,21
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Nidoran♂,25
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Nidoran♂,31
+Flatter,Dark,Status,—,100%,15,Smart,2 ♥♥,Nidoran♂,33
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Nidoran♂,37
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Nidoran♂,43
+Horn Drill,Normal,Physical,—,30%,5,Cool,0,Nidoran♂,45
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Nidorino,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Nidorino,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Nidorino,7
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Nidorino,9
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Nidorino,13
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Nidorino,20
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Nidorino,23
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Nidorino,28
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Nidorino,35
+Flatter,Dark,Status,—,100%,15,Smart,2 ♥♥,Nidorino,38
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Nidorino,43
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Nidorino,50
+Horn Drill,Normal,Physical,—,30%,5,Cool,0,Nidorino,58
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Nidoking,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Nidoking,1
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Nidoking,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Nidoking,1
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Nidoking,23
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Nidoking,43
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Nidoking,58
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Yanma,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Yanma,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Yanma,6
+Double Team,Normal,Status,—,—%,15,Cool,2 ♥♥,Yanma,11
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Yanma,14
+Detect,Fighting,Status,—,—%,5,Cool,0,Yanma,17
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Yanma,22
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Yanma,27
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Yanma,30
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Yanma,33
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Yanma,38
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Yanma,43
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Yanma,46
+U-turn,Bug,Physical,70,100%,20,Cute,0,Yanma,49
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Yanma,54
+Bug Buzz,Bug,Special,90,100%,10,Cute,2 ♥♥,Yanma,57
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Yanmega,1
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Yanmega,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Yanmega,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Yanmega,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Yanmega,1
+Double Team,Normal,Status,—,—%,15,Cool,2 ♥♥,Yanmega,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Yanmega,6
+Double Team,Normal,Status,—,—%,15,Cool,2 ♥♥,Yanmega,11
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Yanmega,14
+Detect,Fighting,Status,—,—%,5,Cool,0,Yanmega,17
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Yanmega,22
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Yanmega,27
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Yanmega,30
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Yanmega,33
+Feint,Normal,Physical,50,100%,10,Beauty,0,Yanmega,38
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Yanmega,43
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Yanmega,46
+U-turn,Bug,Physical,70,100%,20,Cute,0,Yanmega,49
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Yanmega,54
+Bug Buzz,Bug,Special,90,100%,10,Cute,2 ♥♥,Yanmega,57
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Sunkern,1
+Growth,Normal,Status,—,—%,40,Beauty,0,Sunkern,1
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Sunkern,5
+Ingrain,Grass,Status,—,—%,20,Smart,0,Sunkern,9
+GrassWhistle,Grass,Status,—,55%,15,Smart,0,Sunkern,13
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Sunkern,17
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Sunkern,21
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Sunkern,25
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Sunkern,29
+Synthesis,Grass,Status,—,—%,5,Smart,0,Sunkern,33
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Sunkern,37
+Giga Drain,Grass,Special,60,100%,10,Smart,1 ♥,Sunkern,41
+Seed Bomb,Grass,Physical,80,100%,15,Smart,3 ♥♥♥,Sunkern,45
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Sunflora,1
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Sunflora,1
+Growth,Normal,Status,—,—%,40,Beauty,0,Sunflora,1
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Sunflora,5
+Ingrain,Grass,Status,—,—%,20,Smart,0,Sunflora,9
+GrassWhistle,Grass,Status,—,55%,15,Smart,0,Sunflora,13
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Sunflora,17
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Sunflora,21
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Sunflora,25
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Sunflora,29
+Petal Dance,Grass,Special,90,100%,20,Beauty,0,Sunflora,33
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Sunflora,37
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Sunflora,41
+Leaf Storm,Grass,Special,140,90%,5,Cute,2 ♥♥,Sunflora,43
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Exeggcute,1
+Barrage,Normal,Physical,15,85%,20,Tough,2 ♥♥,Exeggcute,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Exeggcute,1
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Exeggcute,7
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Exeggcute,11
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Exeggcute,17
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Exeggcute,19
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Exeggcute,21
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Exeggcute,23
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Exeggcute,27
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Exeggcute,33
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Exeggcute,37
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Exeggcute,43
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Exeggcute,47
+Seed Bomb,Grass,Physical,80,100%,15,Smart,3 ♥♥♥,Exeggutor,1
+Barrage,Normal,Physical,15,85%,20,Tough,2 ♥♥,Exeggutor,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Exeggutor,1
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Exeggutor,1
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Exeggutor,1
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Exeggutor,17
+Egg Bomb,Normal,Physical,100,75%,10,Tough,3 ♥♥♥,Exeggutor,27
+Wood Hammer,Grass,Physical,120,100%,15,Tough,2 ♥♥,Exeggutor,37
+Leaf Storm,Grass,Special,140,90%,5,Cute,2 ♥♥,Exeggutor,47
+Wood Hammer,Grass,Physical,120,100%,15,Tough,2 ♥♥,Sudowoodo,1
+Copycat,Normal,Status,—,—%,20,Cool,0,Sudowoodo,1
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Sudowoodo,1
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Sudowoodo,1
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Sudowoodo,1
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Sudowoodo,6
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Sudowoodo,9
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Sudowoodo,14
+Mimic,Normal,Status,—,—%,10,Cute,0,Sudowoodo,17
+Block,Normal,Status,—,—%,5,Cute,2 ♥♥,Sudowoodo,22
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Sudowoodo,25
+Rock Tomb,Rock,Physical,50,80%,10,Smart,2 ♥♥,Sudowoodo,30
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Sudowoodo,33
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Sudowoodo,38
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Sudowoodo,41
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Sudowoodo,46
+Hammer Arm,Fighting,Physical,100,90%,10,Cool,2 ♥♥,Sudowoodo,49
+Counter,Fighting,Physical,—,100%,20,Tough,2 ♥♥,Wobbuffet,1
+Mirror Coat,Psychic,Special,—,100%,20,Beauty,2 ♥♥,Wobbuffet,1
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Wobbuffet,1
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Wobbuffet,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Venonat,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Venonat,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Venonat,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Venonat,5
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Venonat,11
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Venonat,13
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Venonat,17
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Venonat,23
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Venonat,25
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Venonat,29
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Venonat,35
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Venonat,37
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Venonat,41
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Venonat,47
+Silver Wind,Bug,Special,60,100%,5,Beauty,2 ♥♥,Venomoth,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Venomoth,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Venomoth,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Venomoth,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Venomoth,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Venomoth,5
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Venomoth,11
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Venomoth,13
+Leech Life,Bug,Physical,20,100%,15,Smart,1 ♥,Venomoth,17
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Venomoth,23
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Venomoth,25
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Venomoth,29
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Venomoth,31
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Venomoth,37
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Venomoth,41
+Poison Fang,Poison,Physical,50,100%,15,Smart,2 ♥♥,Venomoth,47
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Venomoth,55
+Bug Buzz,Bug,Special,90,100%,10,Cute,2 ♥♥,Venomoth,59
+Vacuum Wave,Fighting,Special,40,100%,30,Smart,2 ♥♥,Scyther,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Scyther,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Scyther,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Scyther,5
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Scyther,9
+False Swipe,Normal,Physical,40,100%,40,Cool,0,Scyther,13
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Scyther,17
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Scyther,21
+Fury Cutter,Bug,Physical,10,95%,20,Cool,2 ♥♥,Scyther,25
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Scyther,29
+Razor Wind,Normal,Special,80,100%,10,Cool,1 ♥,Scyther,33
+Double Team,Normal,Status,—,—%,15,Cool,2 ♥♥,Scyther,37
+X-Scissor,Bug,Physical,80,100%,15,Beauty,2 ♥♥,Scyther,41
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Scyther,45
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Scyther,49
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Scyther,53
+Swords Dance,Normal,Status,—,—%,30,Beauty,0,Scyther,57
+Feint,Normal,Physical,50,100%,10,Beauty,0,Scyther,61
+Bullet Punch,Steel,Physical,40,100%,30,Smart,2 ♥♥,Scizor,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Scizor,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Scizor,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Scizor,5
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Scizor,9
+False Swipe,Normal,Physical,40,100%,40,Cool,0,Scizor,13
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Scizor,17
+Metal Claw,Steel,Physical,50,95%,35,Cool,2 ♥♥,Scizor,21
+Fury Cutter,Bug,Physical,10,95%,20,Cool,2 ♥♥,Scizor,25
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Scizor,29
+Razor Wind,Normal,Special,80,100%,10,Cool,1 ♥,Scizor,33
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Scizor,37
+X-Scissor,Bug,Physical,80,100%,15,Beauty,2 ♥♥,Scizor,41
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Scizor,45
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Scizor,49
+Iron Head,Steel,Physical,80,100%,15,Tough,2 ♥♥,Scizor,53
+Swords Dance,Normal,Status,—,—%,30,Beauty,0,Scizor,57
+Feint,Normal,Physical,50,100%,10,Beauty,0,Scizor,61
+ViceGrip,Normal,Physical,55,100%,30,Tough,3 ♥♥♥,Pinsir,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Pinsir,1
+Bind,Normal,Physical,15,75%,20,Tough,0,Pinsir,4
+Seismic Toss,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Pinsir,8
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Pinsir,13
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Pinsir,18
+Brick Break,Fighting,Physical,75,100%,15,Cool,3 ♥♥♥,Pinsir,21
+Vital Throw,Fighting,Physical,70,—%,10,Cool,2 ♥♥,Pinsir,25
+X-Scissor,Bug,Physical,80,100%,15,Beauty,2 ♥♥,Pinsir,30
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Pinsir,35
+Swords Dance,Normal,Status,—,—%,30,Beauty,0,Pinsir,38
+Submission,Fighting,Physical,80,80%,25,Cool,3 ♥♥♥,Pinsir,42
+Guillotine,Normal,Physical,—,30%,5,Cool,0,Pinsir,47
+Superpower,Fighting,Physical,120,100%,5,Tough,2 ♥♥,Pinsir,52
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Heracross,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Heracross,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Heracross,1
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Heracross,1
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Heracross,1
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Heracross,7
+Aerial Ace,Flying,Physical,60,—%,20,Cool,2 ♥♥,Heracross,13
+Brick Break,Fighting,Physical,75,100%,15,Cool,3 ♥♥♥,Heracross,19
+Counter,Fighting,Physical,—,100%,20,Tough,2 ♥♥,Heracross,25
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Heracross,31
+Close Combat,Fighting,Physical,120,100%,5,Smart,2 ♥♥,Heracross,37
+Reversal,Fighting,Physical,—,100%,15,Cool,2 ♥♥,Heracross,43
+Feint,Normal,Physical,50,100%,10,Beauty,0,Heracross,49
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Heracross,55
+Poison Gas,Poison,Status,—,55%,40,Smart,3 ♥♥♥,Koffing,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Koffing,1
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Koffing,6
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Koffing,10
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Koffing,15
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Koffing,19
+Sludge,Poison,Special,65,100%,20,Tough,2 ♥♥,Koffing,24
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Koffing,28
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Koffing,33
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Koffing,37
+Sludge Bomb,Poison,Special,90,100%,10,Tough,2 ♥♥,Koffing,42
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Koffing,46
+Memento,Dark,Status,—,100%,10,Tough,0,Koffing,51
+Poison Gas,Poison,Status,—,55%,40,Smart,3 ♥♥♥,Weezing,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Weezing,1
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Weezing,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Weezing,1
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Weezing,6
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Weezing,10
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Weezing,15
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Weezing,19
+Sludge,Poison,Special,65,100%,20,Tough,2 ♥♥,Weezing,24
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Weezing,28
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Weezing,33
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Weezing,40
+Sludge Bomb,Poison,Special,90,100%,10,Tough,2 ♥♥,Weezing,48
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Weezing,55
+Memento,Dark,Status,—,100%,10,Tough,0,Weezing,63
+Poison Gas,Poison,Status,—,55%,40,Smart,3 ♥♥♥,Grimer,1
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Grimer,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Grimer,4
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Grimer,7
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Grimer,12
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Grimer,17
+Sludge,Poison,Special,65,100%,20,Tough,2 ♥♥,Grimer,20
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Grimer,23
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Grimer,28
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Grimer,33
+Sludge Bomb,Poison,Special,90,100%,10,Tough,2 ♥♥,Grimer,36
+Acid Armor,Poison,Status,—,—%,40,Tough,0,Grimer,39
+Gunk Shot,Poison,Physical,120,70%,5,Cool,3 ♥♥♥,Grimer,44
+Memento,Dark,Status,—,100%,10,Tough,0,Grimer,49
+Poison Gas,Poison,Status,—,55%,40,Smart,3 ♥♥♥,Muk,1
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Muk,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Muk,1
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Muk,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Muk,4
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Muk,7
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Muk,12
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Muk,17
+Sludge,Poison,Special,65,100%,20,Tough,2 ♥♥,Muk,20
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Muk,23
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Muk,28
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Muk,33
+Sludge Bomb,Poison,Special,90,100%,10,Tough,2 ♥♥,Muk,36
+Acid Armor,Poison,Status,—,—%,40,Tough,0,Muk,44
+Gunk Shot,Poison,Physical,120,70%,5,Cool,3 ♥♥♥,Muk,54
+Memento,Dark,Status,—,100%,10,Tough,0,Muk,65
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Magnemite,1
+Metal Sound,Steel,Status,—,85%,40,Smart,2 ♥♥,Magnemite,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Magnemite,6
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Magnemite,11
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Magnemite,14
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Magnemite,17
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Magnemite,22
+Lock-On,Normal,Status,—,—%,5,Smart,1 ♥,Magnemite,27
+Magnet Bomb,Steel,Physical,60,—%,20,Cool,3 ♥♥♥,Magnemite,30
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Magnemite,33
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Magnemite,38
+Mirror Shot,Steel,Special,65,85%,10,Cute,2 ♥♥,Magnemite,43
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Magnemite,46
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Magnemite,49
+Zap Cannon,Electric,Special,120,50%,5,Cool,2 ♥♥,Magnemite,54
+Tri Attack,Normal,Special,80,100%,10,Beauty,3 ♥♥♥,Magneton,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Magneton,1
+Metal Sound,Steel,Status,—,85%,40,Smart,2 ♥♥,Magneton,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Magneton,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Magneton,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Magneton,6
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Magneton,11
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Magneton,14
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Magneton,17
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Magneton,22
+Lock-On,Normal,Status,—,—%,5,Smart,1 ♥,Magneton,27
+Magnet Bomb,Steel,Physical,60,—%,20,Cool,3 ♥♥♥,Magneton,30
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Magneton,34
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Magneton,40
+Mirror Shot,Steel,Special,65,85%,10,Cute,2 ♥♥,Magneton,46
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Magneton,50
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Magneton,54
+Zap Cannon,Electric,Special,120,50%,5,Cool,2 ♥♥,Magneton,60
+Charge,Electric,Status,—,—%,20,Smart,0,Voltorb,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Voltorb,5
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Voltorb,8
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Voltorb,12
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Voltorb,15
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Voltorb,19
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Voltorb,22
+Charge Beam,Electric,Special,50,90%,10,Beauty,2 ♥♥,Voltorb,26
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Voltorb,29
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Voltorb,33
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Voltorb,36
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Voltorb,40
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Voltorb,43
+Mirror Coat,Psychic,Special,—,100%,20,Beauty,2 ♥♥,Voltorb,47
+Charge,Electric,Status,—,—%,20,Smart,0,Electrode,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Electrode,1
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Electrode,1
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Electrode,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Electrode,5
+SonicBoom,Normal,Special,—,90%,20,Cool,3 ♥♥♥,Electrode,8
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Electrode,12
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Electrode,15
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Electrode,19
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Electrode,22
+Charge Beam,Electric,Special,50,90%,10,Beauty,2 ♥♥,Electrode,26
+Selfdestruct,Normal,Physical,200,100%,5,Beauty,0,Electrode,29
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Electrode,35
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Electrode,40
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Electrode,46
+Explosion,Normal,Physical,250,100%,5,Beauty,0,Electrode,51
+Mirror Coat,Psychic,Special,—,100%,20,Beauty,2 ♥♥,Electrode,57
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Aipom,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Aipom,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Aipom,4
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Aipom,8
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Aipom,11
+Tickle,Normal,Status,—,100%,20,Cute,2 ♥♥,Aipom,15
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Aipom,18
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Aipom,22
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Aipom,25
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Aipom,29
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Aipom,32
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Aipom,36
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Aipom,39
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Aipom,43
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Ambipom,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Ambipom,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Ambipom,1
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Ambipom,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Ambipom,4
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Ambipom,8
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Ambipom,11
+Tickle,Normal,Status,—,100%,20,Cute,2 ♥♥,Ambipom,15
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Ambipom,18
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Ambipom,22
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Ambipom,25
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Ambipom,29
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Ambipom,32
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Ambipom,36
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Ambipom,39
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Ambipom,43
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Snubbull,1
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Snubbull,1
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Snubbull,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Snubbull,1
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Snubbull,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Snubbull,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Snubbull,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Snubbull,7
+Lick,Ghost,Physical,20,100%,30,Tough,0,Snubbull,13
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Snubbull,19
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Snubbull,25
+Rage,Normal,Physical,20,100%,20,Cool,0,Snubbull,31
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Snubbull,37
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Snubbull,43
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Snubbull,49
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Granbull,1
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Granbull,1
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Granbull,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Granbull,1
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Granbull,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Granbull,1
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Granbull,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Granbull,7
+Lick,Ghost,Physical,20,100%,30,Tough,0,Granbull,13
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Granbull,19
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Granbull,27
+Rage,Normal,Physical,20,100%,20,Cool,0,Granbull,35
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Granbull,43
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Granbull,51
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Granbull,59
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Vulpix,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Vulpix,4
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Vulpix,7
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Vulpix,11
+Will-O-Wisp,Fire,Status,—,75%,15,Beauty,2 ♥♥,Vulpix,14
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Vulpix,17
+Imprison,Psychic,Status,—,—%,10,Smart,1 ♥,Vulpix,21
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Vulpix,24
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Vulpix,27
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Vulpix,31
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Vulpix,34
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Vulpix,37
+Grudge,Ghost,Status,—,—%,5,Tough,2 ♥♥,Vulpix,41
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Vulpix,44
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Vulpix,47
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Ninetales,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Ninetales,1
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Ninetales,1
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Ninetales,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Ninetales,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Growlithe,1
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Growlithe,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Growlithe,6
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Growlithe,9
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Growlithe,14
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Growlithe,17
+Flame Wheel,Fire,Physical,60,100%,25,Beauty,2 ♥♥,Growlithe,20
+Reversal,Fighting,Physical,—,100%,15,Cool,2 ♥♥,Growlithe,25
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Growlithe,28
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Growlithe,31
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Growlithe,34
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Growlithe,39
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Growlithe,42
+Heat Wave,Fire,Special,100,90%,10,Beauty,2 ♥♥,Growlithe,45
+Flare Blitz,Fire,Physical,120,100%,15,Smart,2 ♥♥,Growlithe,48
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Arcanine,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Arcanine,1
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Arcanine,1
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Arcanine,1
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Arcanine,1
+ExtremeSpeed,Normal,Physical,80,100%,5,Cool,2 ♥♥,Arcanine,39
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Stantler,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Stantler,3
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Stantler,7
+Hypnosis,Psychic,Status,—,60%,20,Smart,2 ♥♥,Stantler,10
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Stantler,13
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Stantler,16
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Stantler,21
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Stantler,23
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Stantler,27
+Role Play,Psychic,Status,—,—%,10,Cute,1 ♥,Stantler,33
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Stantler,38
+Imprison,Psychic,Status,—,—%,10,Smart,1 ♥,Stantler,43
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Stantler,49
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Stantler,53
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Marill,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Marill,2
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Marill,7
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Marill,10
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Marill,15
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Marill,18
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Marill,23
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Marill,27
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Marill,32
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Marill,37
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Marill,42
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Azumarill,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Azumarill,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Azumarill,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Azumarill,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Azumarill,2
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Azumarill,7
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Azumarill,10
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Azumarill,15
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Azumarill,20
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Azumarill,27
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Azumarill,33
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Azumarill,40
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Azumarill,47
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Azumarill,54
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Diglett,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Diglett,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Diglett,4
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Diglett,7
+Magnitude,Ground,Physical,—,100%,30,Tough,2 ♥♥,Diglett,12
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Diglett,15
+Dig,Ground,Physical,80,100%,10,Smart,1 ♥,Diglett,18
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Diglett,23
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Diglett,26
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Diglett,29
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Diglett,34
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Diglett,37
+Fissure,Ground,Physical,—,30%,5,Tough,0,Diglett,40
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Dugtrio,1
+Tri Attack,Normal,Special,80,100%,10,Beauty,3 ♥♥♥,Dugtrio,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Dugtrio,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Dugtrio,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Dugtrio,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Dugtrio,4
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Dugtrio,7
+Magnitude,Ground,Physical,—,100%,30,Tough,2 ♥♥,Dugtrio,12
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Dugtrio,15
+Dig,Ground,Physical,80,100%,10,Smart,1 ♥,Dugtrio,18
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Dugtrio,23
+Sand Tomb,Ground,Physical,15,70%,15,Smart,0,Dugtrio,26
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Dugtrio,28
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Dugtrio,33
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Dugtrio,40
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Dugtrio,45
+Fissure,Ground,Physical,—,30%,5,Tough,0,Dugtrio,50
+Covet,Normal,Physical,40,100%,40,Cute,0,Mankey,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Mankey,1
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Mankey,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Mankey,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Mankey,1
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Mankey,9
+Karate Chop,Fighting,Physical,50,100%,25,Tough,3 ♥♥♥,Mankey,13
+Seismic Toss,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Mankey,17
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Mankey,21
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Mankey,25
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Mankey,33
+Cross Chop,Fighting,Physical,100,80%,5,Cool,2 ♥♥,Mankey,37
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Mankey,41
+Punishment,Dark,Physical,—,100%,5,Smart,1 ♥,Mankey,45
+Close Combat,Fighting,Physical,120,100%,5,Smart,2 ♥♥,Mankey,49
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Primeape,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Primeape,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Primeape,1
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Primeape,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Primeape,1
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Primeape,9
+Karate Chop,Fighting,Physical,50,100%,25,Tough,3 ♥♥♥,Primeape,13
+Seismic Toss,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Primeape,17
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Primeape,21
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Primeape,25
+Rage,Normal,Physical,20,100%,20,Cool,0,Primeape,28
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Primeape,35
+Cross Chop,Fighting,Physical,100,80%,5,Cool,2 ♥♥,Primeape,41
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Primeape,47
+Punishment,Dark,Physical,—,100%,5,Smart,1 ♥,Primeape,53
+Close Combat,Fighting,Physical,120,100%,5,Smart,2 ♥♥,Primeape,59
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Meowth,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Meowth,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Meowth,6
+Fake Out,Normal,Physical,40,100%,10,Cute,2 ♥♥,Meowth,9
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Meowth,14
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Meowth,17
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Meowth,22
+Taunt,Dark,Status,—,100%,20,Smart,0,Meowth,25
+Pay Day,Normal,Physical,40,100%,20,Smart,1 ♥,Meowth,30
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Meowth,33
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Meowth,38
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Meowth,41
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Meowth,46
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Meowth,49
+Feint,Normal,Physical,50,100%,10,Beauty,0,Meowth,54
+Switcheroo,Dark,Status,—,100%,10,Cool,0,Persian,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Persian,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Persian,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Persian,1
+Fake Out,Normal,Physical,40,100%,10,Cute,2 ♥♥,Persian,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Persian,6
+Fake Out,Normal,Physical,40,100%,10,Cute,2 ♥♥,Persian,9
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Persian,14
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Persian,17
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Persian,22
+Taunt,Dark,Status,—,100%,20,Smart,0,Persian,25
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Persian,32
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Persian,37
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Persian,44
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Persian,49
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Persian,56
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Persian,61
+Feint,Normal,Physical,50,100%,10,Beauty,0,Persian,68
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Psyduck,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Psyduck,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Psyduck,5
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Psyduck,9
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Psyduck,14
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Psyduck,18
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Psyduck,22
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Psyduck,27
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Psyduck,31
+Psych Up,Normal,Status,—,—%,10,Smart,0,Psyduck,35
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Psyduck,40
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Psyduck,44
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Psyduck,48
+Aqua Jet,Water,Physical,40,100%,20,Beauty,2 ♥♥,Golduck,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Golduck,1
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Golduck,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Golduck,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Golduck,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Golduck,5
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Golduck,9
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Golduck,14
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Golduck,18
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Golduck,22
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Golduck,27
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Golduck,31
+Psych Up,Normal,Status,—,—%,10,Smart,0,Golduck,37
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Golduck,44
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Golduck,50
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Golduck,56
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Machop,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Machop,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Machop,7
+Karate Chop,Fighting,Physical,50,100%,25,Tough,3 ♥♥♥,Machop,10
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Machop,13
+Seismic Toss,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Machop,19
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Machop,22
+Vital Throw,Fighting,Physical,70,—%,10,Cool,2 ♥♥,Machop,25
+Submission,Fighting,Physical,80,80%,25,Cool,3 ♥♥♥,Machop,31
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Machop,34
+Cross Chop,Fighting,Physical,100,80%,5,Cool,2 ♥♥,Machop,37
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Machop,43
+DynamicPunch,Fighting,Physical,100,50%,5,Cool,2 ♥♥,Machop,46
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Machoke,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Machoke,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Machoke,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Machoke,7
+Karate Chop,Fighting,Physical,50,100%,25,Tough,3 ♥♥♥,Machoke,10
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Machoke,13
+Seismic Toss,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Machoke,19
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Machoke,22
+Vital Throw,Fighting,Physical,70,—%,10,Cool,2 ♥♥,Machoke,25
+Submission,Fighting,Physical,80,80%,25,Cool,3 ♥♥♥,Machoke,32
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Machoke,36
+Cross Chop,Fighting,Physical,100,80%,5,Cool,2 ♥♥,Machoke,40
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Machoke,44
+DynamicPunch,Fighting,Physical,100,50%,5,Cool,2 ♥♥,Machoke,51
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Machamp,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Machamp,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Machamp,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Machamp,7
+Karate Chop,Fighting,Physical,50,100%,25,Tough,3 ♥♥♥,Machamp,10
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Machamp,13
+Seismic Toss,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Machamp,19
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Machamp,22
+Vital Throw,Fighting,Physical,70,—%,10,Cool,2 ♥♥,Machamp,25
+Submission,Fighting,Physical,80,80%,25,Cool,3 ♥♥♥,Machamp,32
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Machamp,36
+Cross Chop,Fighting,Physical,100,80%,5,Cool,2 ♥♥,Machamp,40
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Machamp,44
+DynamicPunch,Fighting,Physical,100,50%,5,Cool,2 ♥♥,Machamp,51
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Tyrogue,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Tyrogue,1
+Fake Out,Normal,Physical,40,100%,10,Cute,2 ♥♥,Tyrogue,1
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Tyrogue,1
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Hitmonlee,1
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Hitmonlee,1
+Meditate,Psychic,Status,—,—%,40,Beauty,0,Hitmonlee,5
+Rolling Kick,Fighting,Physical,60,85%,15,Cool,3 ♥♥♥,Hitmonlee,9
+Jump Kick,Fighting,Physical,85,95%,25,Cool,3 ♥♥♥,Hitmonlee,13
+Brick Break,Fighting,Physical,75,100%,15,Cool,3 ♥♥♥,Hitmonlee,17
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Hitmonlee,21
+Feint,Normal,Physical,50,100%,10,Beauty,0,Hitmonlee,25
+Hi Jump Kick,Fighting,Physical,100,90%,20,Cool,3 ♥♥♥,Hitmonlee,29
+Mind Reader,Normal,Status,—,—%,5,Smart,1 ♥,Hitmonlee,33
+Foresight,Normal,Status,—,—%,40,Smart,1 ♥,Hitmonlee,37
+Blaze Kick,Fire,Physical,85,90%,10,Beauty,2 ♥♥,Hitmonlee,41
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Hitmonlee,45
+Mega Kick,Normal,Physical,120,75%,5,Cool,2 ♥♥,Hitmonlee,49
+Close Combat,Fighting,Physical,120,100%,5,Smart,2 ♥♥,Hitmonlee,53
+Reversal,Fighting,Physical,—,100%,15,Cool,2 ♥♥,Hitmonlee,57
+Comet Punch,Normal,Physical,18,85%,15,Tough,2 ♥♥,Hitmonchan,1
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Hitmonchan,1
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Hitmonchan,6
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Hitmonchan,11
+Bullet Punch,Steel,Physical,40,100%,30,Smart,2 ♥♥,Hitmonchan,16
+Mach Punch,Fighting,Physical,40,100%,30,Cool,2 ♥♥,Hitmonchan,16
+Feint,Normal,Physical,50,100%,10,Beauty,0,Hitmonchan,21
+Vacuum Wave,Fighting,Special,40,100%,30,Smart,2 ♥♥,Hitmonchan,26
+Fire Punch,Fire,Physical,75,100%,15,Beauty,2 ♥♥,Hitmonchan,31
+Ice Punch,Ice,Physical,75,100%,15,Beauty,2 ♥♥,Hitmonchan,31
+ThunderPunch,Electric,Physical,75,100%,15,Cool,2 ♥♥,Hitmonchan,31
+Sky Uppercut,Fighting,Physical,85,90%,15,Cool,2 ♥♥,Hitmonchan,36
+Mega Punch,Normal,Physical,80,85%,20,Tough,2 ♥♥,Hitmonchan,41
+Detect,Fighting,Status,—,—%,5,Cool,0,Hitmonchan,46
+Counter,Fighting,Physical,—,100%,20,Tough,2 ♥♥,Hitmonchan,51
+Close Combat,Fighting,Physical,120,100%,5,Smart,2 ♥♥,Hitmonchan,56
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Hitmontop,1
+Rolling Kick,Fighting,Physical,60,85%,15,Cool,3 ♥♥♥,Hitmontop,1
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Hitmontop,6
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Hitmontop,10
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Hitmontop,15
+Triple Kick,Fighting,Physical,10,90%,10,Cool,2 ♥♥,Hitmontop,19
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Hitmontop,24
+Counter,Fighting,Physical,—,100%,20,Tough,2 ♥♥,Hitmontop,28
+Feint,Normal,Physical,50,100%,10,Beauty,0,Hitmontop,33
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Hitmontop,37
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Hitmontop,42
+Detect,Fighting,Status,—,—%,5,Cool,0,Hitmontop,46
+Close Combat,Fighting,Physical,120,100%,5,Smart,2 ♥♥,Hitmontop,51
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Hitmontop,55
+Power Swap,Psychic,Status,—,—%,10,Beauty,0,Girafarig,1
+Guard Swap,Psychic,Status,—,—%,10,Cute,0,Girafarig,1
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Girafarig,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Girafarig,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Girafarig,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Girafarig,1
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Girafarig,5
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Girafarig,10
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Girafarig,14
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Girafarig,19
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Girafarig,23
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Girafarig,28
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Girafarig,32
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Girafarig,37
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Girafarig,41
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Girafarig,46
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Tauros,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Tauros,3
+Rage,Normal,Physical,20,100%,20,Cool,0,Tauros,5
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Tauros,8
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Tauros,11
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Tauros,15
+Rest,Psychic,Status,—,—%,10,Cute,0,Tauros,19
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Tauros,24
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Tauros,29
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Tauros,35
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Tauros,41
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Tauros,48
+Giga Impact,Normal,Physical,150,90%,5,Beauty,2 ♥♥,Tauros,55
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Miltank,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Miltank,3
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Miltank,5
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Miltank,8
+Milk Drink,Normal,Status,—,—%,10,Cute,0,Miltank,11
+Bide,Normal,Physical,—,—%,10,Tough,2 ♥♥,Miltank,15
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Miltank,19
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Miltank,24
+Zen Headbutt,Psychic,Physical,80,90%,15,Beauty,2 ♥♥,Miltank,29
+Captivate,Normal,Status,—,100%,20,Beauty,2 ♥♥,Miltank,35
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Miltank,41
+Heal Bell,Normal,Status,—,—%,5,Beauty,0,Miltank,48
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Miltank,55
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Magby,1
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Magby,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Magby,7
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Magby,10
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Magby,16
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Magby,19
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Magby,25
+Fire Punch,Fire,Physical,75,100%,15,Beauty,2 ♥♥,Magby,28
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Magby,34
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Magby,37
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Magby,43
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Magby,46
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Magmar,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Magmar,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Magmar,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Magmar,7
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Magmar,10
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Magmar,16
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Magmar,19
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Magmar,25
+Fire Punch,Fire,Physical,75,100%,15,Beauty,2 ♥♥,Magmar,28
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Magmar,36
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Magmar,41
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Magmar,49
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Magmar,54
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Smoochum,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Smoochum,5
+Sweet Kiss,Normal,Status,—,75%,10,Cute,2 ♥♥,Smoochum,8
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Smoochum,11
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Smoochum,15
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Smoochum,18
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Smoochum,21
+Fake Tears,Dark,Status,—,100%,20,Smart,2 ♥♥,Smoochum,25
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Smoochum,28
+Avalanche,Ice,Physical,60,100%,10,Cool,2 ♥♥,Smoochum,31
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Smoochum,35
+Copycat,Normal,Status,—,—%,20,Cool,0,Smoochum,38
+Perish Song,Normal,Status,—,—%,5,Beauty,2 ♥♥,Smoochum,41
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Smoochum,45
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Jynx,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Jynx,1
+Lovely Kiss,Normal,Status,—,75%,10,Beauty,2 ♥♥,Jynx,1
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Jynx,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Jynx,5
+Lovely Kiss,Normal,Status,—,75%,10,Beauty,2 ♥♥,Jynx,8
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Jynx,11
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Jynx,15
+Ice Punch,Ice,Physical,75,100%,15,Beauty,2 ♥♥,Jynx,18
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Jynx,21
+Fake Tears,Dark,Status,—,100%,20,Smart,2 ♥♥,Jynx,25
+Wake-Up Slap,Fighting,Physical,60,100%,10,Smart,0,Jynx,28
+Avalanche,Ice,Physical,60,100%,10,Cool,2 ♥♥,Jynx,33
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Jynx,39
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Jynx,44
+Perish Song,Normal,Status,—,—%,5,Beauty,2 ♥♥,Jynx,49
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Jynx,55
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Elekid,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Elekid,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Elekid,7
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Elekid,10
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Elekid,16
+Shock Wave,Electric,Special,60,—%,20,Cool,2 ♥♥,Elekid,19
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Elekid,25
+ThunderPunch,Electric,Physical,75,100%,15,Cool,2 ♥♥,Elekid,28
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Elekid,34
+Thunderbolt,Electric,Special,95,100%,15,Cool,2 ♥♥,Elekid,37
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Elekid,43
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Elekid,46
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Electabuzz,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Electabuzz,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Electabuzz,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Electabuzz,7
+Low Kick,Fighting,Physical,—,100%,20,Tough,3 ♥♥♥,Electabuzz,10
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Electabuzz,16
+Shock Wave,Electric,Special,60,—%,20,Cool,2 ♥♥,Electabuzz,19
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Electabuzz,25
+ThunderPunch,Electric,Physical,75,100%,15,Cool,2 ♥♥,Electabuzz,28
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Electabuzz,37
+Thunderbolt,Electric,Special,95,100%,15,Cool,2 ♥♥,Electabuzz,43
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Electabuzz,52
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Electabuzz,58
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Mr. Mime,1
+Power Swap,Psychic,Status,—,—%,10,Beauty,0,Mr. Mime,1
+Guard Swap,Psychic,Status,—,—%,10,Cute,0,Mr. Mime,1
+Barrier,Psychic,Status,—,—%,30,Cool,2 ♥♥,Mr. Mime,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Mr. Mime,1
+Copycat,Normal,Status,—,—%,20,Cool,0,Mr. Mime,4
+Meditate,Psychic,Status,—,—%,40,Beauty,0,Mr. Mime,8
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Mr. Mime,11
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Mr. Mime,15
+Mimic,Normal,Status,—,—%,10,Cute,0,Mr. Mime,18
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Mr. Mime,22
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Mr. Mime,22
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Mr. Mime,25
+Substitute,Normal,Status,—,—%,10,Smart,1 ♥,Mr. Mime,29
+Recycle,Normal,Status,—,—%,10,Smart,0,Mr. Mime,32
+Trick,Psychic,Status,—,100%,10,Smart,0,Mr. Mime,36
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Mr. Mime,39
+Role Play,Psychic,Status,—,—%,10,Cute,1 ♥,Mr. Mime,43
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Mr. Mime,46
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Mr. Mime,50
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,1
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,11
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,21
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,31
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,41
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,51
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,61
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,71
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,81
+Sketch,Normal,Status,—,—%,1,Smart,1 ♥,Smeargle,91
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Farfetch'd,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Farfetch'd,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Farfetch'd,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Farfetch'd,1
+Fury Cutter,Bug,Physical,10,95%,20,Cool,2 ♥♥,Farfetch'd,1
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Farfetch'd,7
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Farfetch'd,9
+Aerial Ace,Flying,Physical,60,—%,20,Cool,2 ♥♥,Farfetch'd,13
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Farfetch'd,19
+Air Cutter,Flying,Special,55,95%,25,Cool,3 ♥♥♥,Farfetch'd,21
+Swords Dance,Normal,Status,—,—%,30,Beauty,0,Farfetch'd,25
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Farfetch'd,31
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Farfetch'd,33
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Farfetch'd,37
+Feint,Normal,Physical,50,100%,10,Beauty,0,Farfetch'd,43
+False Swipe,Normal,Physical,40,100%,40,Cool,0,Farfetch'd,45
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Natu,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Natu,1
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Natu,6
+Teleport,Psychic,Status,—,—%,20,Cool,2 ♥♥,Natu,9
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Natu,12
+Miracle Eye,Psychic,Status,—,—%,40,Cute,1 ♥,Natu,17
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Natu,20
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Natu,23
+Wish,Normal,Status,—,—%,10,Cute,0,Natu,28
+Psycho Shift,Psychic,Status,—,90%,10,Cool,0,Natu,33
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Natu,36
+Ominous Wind,Ghost,Special,60,100%,5,Smart,0,Natu,39
+Power Swap,Psychic,Status,—,—%,10,Beauty,0,Natu,44
+Guard Swap,Psychic,Status,—,—%,10,Cute,0,Natu,44
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Natu,47
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Xatu,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Xatu,1
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Xatu,6
+Teleport,Psychic,Status,—,—%,20,Cool,2 ♥♥,Xatu,9
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Xatu,12
+Miracle Eye,Psychic,Status,—,—%,40,Cute,1 ♥,Xatu,17
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Xatu,20
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Xatu,23
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Xatu,27
+Wish,Normal,Status,—,—%,10,Cute,0,Xatu,30
+Psycho Shift,Psychic,Status,—,90%,10,Cool,0,Xatu,37
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Xatu,42
+Ominous Wind,Ghost,Special,60,100%,5,Smart,0,Xatu,47
+Power Swap,Psychic,Status,—,—%,10,Beauty,0,Xatu,54
+Guard Swap,Psychic,Status,—,—%,10,Cute,0,Xatu,54
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Xatu,59
+Spikes,Ground,Status,—,—%,20,Smart,2 ♥♥,Qwilfish,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Qwilfish,1
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Qwilfish,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Qwilfish,9
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Qwilfish,9
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Qwilfish,13
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Qwilfish,17
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Qwilfish,21
+Stockpile,Normal,Status,—,—%,20,Tough,0,Qwilfish,25
+Spit Up,Normal,Special,—,100%,10,Tough,2 ♥♥,Qwilfish,25
+Revenge,Fighting,Physical,60,100%,10,Tough,2 ♥♥,Qwilfish,29
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Qwilfish,33
+Pin Missile,Bug,Physical,14,85%,20,Cool,2 ♥♥,Qwilfish,37
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Qwilfish,41
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Qwilfish,45
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Qwilfish,49
+Destiny Bond,Ghost,Status,—,—%,5,Smart,0,Qwilfish,53
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Qwilfish,57
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Tentacool,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Tentacool,5
+Constrict,Normal,Physical,10,100%,35,Tough,0,Tentacool,8
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Tentacool,12
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Tentacool,15
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Tentacool,19
+Wrap,Normal,Physical,15,85%,20,Tough,0,Tentacool,22
+Barrier,Psychic,Status,—,—%,30,Cool,2 ♥♥,Tentacool,26
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Tentacool,29
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Tentacool,33
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Tentacool,36
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Tentacool,40
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Tentacool,43
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Tentacruel,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Tentacruel,1
+Constrict,Normal,Physical,10,100%,35,Tough,0,Tentacruel,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Tentacruel,5
+Constrict,Normal,Physical,10,100%,35,Tough,0,Tentacruel,8
+Acid,Poison,Special,40,100%,30,Smart,3 ♥♥♥,Tentacruel,12
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Tentacruel,15
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Tentacruel,19
+Wrap,Normal,Physical,15,85%,20,Tough,0,Tentacruel,22
+Barrier,Psychic,Status,—,—%,30,Cool,2 ♥♥,Tentacruel,26
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Tentacruel,29
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Tentacruel,36
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Tentacruel,42
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Tentacruel,49
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Tentacruel,55
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Krabby,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Krabby,1
+ViceGrip,Normal,Physical,55,100%,30,Tough,3 ♥♥♥,Krabby,5
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Krabby,9
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Krabby,11
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Krabby,15
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Krabby,19
+Metal Claw,Steel,Physical,50,95%,35,Cool,2 ♥♥,Krabby,21
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Krabby,25
+Protect,Normal,Status,—,—%,10,Cute,0,Krabby,29
+Guillotine,Normal,Physical,—,30%,5,Cool,0,Krabby,31
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Krabby,35
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Krabby,39
+Crabhammer,Water,Physical,90,85%,10,Tough,2 ♥♥,Krabby,41
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Krabby,45
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Kingler,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Kingler,1
+ViceGrip,Normal,Physical,55,100%,30,Tough,3 ♥♥♥,Kingler,1
+ViceGrip,Normal,Physical,55,100%,30,Tough,3 ♥♥♥,Kingler,5
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kingler,9
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Kingler,11
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Kingler,15
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Kingler,19
+Metal Claw,Steel,Physical,50,95%,35,Cool,2 ♥♥,Kingler,21
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Kingler,25
+Protect,Normal,Status,—,—%,10,Cute,0,Kingler,32
+Guillotine,Normal,Physical,—,30%,5,Cool,0,Kingler,37
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Kingler,44
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Kingler,51
+Crabhammer,Water,Physical,90,85%,10,Tough,2 ♥♥,Kingler,56
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Kingler,63
+Constrict,Normal,Physical,10,100%,35,Tough,0,Shuckle,1
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Shuckle,1
+Bide,Normal,Physical,—,—%,10,Tough,2 ♥♥,Shuckle,9
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Shuckle,14
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Shuckle,22
+Wrap,Normal,Physical,15,85%,20,Tough,0,Shuckle,27
+Rest,Psychic,Status,—,—%,10,Cute,0,Shuckle,35
+Gastro Acid,Poison,Status,—,100%,10,Beauty,2 ♥♥,Shuckle,40
+Bug Bite,Bug,Physical,60,100%,20,Tough,0,Shuckle,40
+Power Trick,Psychic,Status,—,—%,10,Cool,0,Shuckle,48
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Staryu,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Staryu,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Staryu,6
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Staryu,10
+Recover,Normal,Status,—,—%,10,Smart,0,Staryu,15
+Camouflage,Normal,Status,—,—%,20,Smart,2 ♥♥,Staryu,19
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Staryu,24
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Staryu,28
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Staryu,33
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Staryu,37
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Staryu,42
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Staryu,46
+Cosmic Power,Psychic,Status,—,—%,20,Cool,0,Staryu,51
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Staryu,55
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Starmie,1
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Starmie,1
+Recover,Normal,Status,—,—%,10,Smart,0,Starmie,1
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Starmie,1
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Starmie,28
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Shellder,1
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Shellder,4
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Shellder,8
+Icicle Spear,Ice,Physical,10,100%,30,Beauty,2 ♥♥,Shellder,13
+Protect,Normal,Status,—,—%,10,Cute,0,Shellder,16
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Shellder,20
+Clamp,Water,Physical,35,75%,10,Tough,3 ♥♥♥,Shellder,25
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Shellder,28
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Shellder,32
+Whirlpool,Water,Special,15,70%,15,Beauty,0,Shellder,37
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Shellder,40
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Shellder,44
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Shellder,49
+Toxic Spikes,Poison,Status,—,—%,20,Smart,2 ♥♥,Cloyster,1
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Cloyster,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Cloyster,1
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Cloyster,1
+Protect,Normal,Status,—,—%,10,Cute,0,Cloyster,1
+Spikes,Ground,Status,—,—%,20,Smart,2 ♥♥,Cloyster,28
+Spike Cannon,Normal,Physical,20,100%,15,Cool,2 ♥♥,Cloyster,40
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Corsola,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Corsola,4
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Corsola,8
+Recover,Normal,Status,—,—%,10,Smart,0,Corsola,13
+Refresh,Normal,Status,—,—%,20,Cute,0,Corsola,16
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Corsola,20
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Corsola,25
+Lucky Chant,Normal,Status,—,—%,30,Cute,2 ♥♥,Corsola,28
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Corsola,32
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Corsola,37
+Spike Cannon,Normal,Physical,20,100%,15,Cool,2 ♥♥,Corsola,40
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Corsola,44
+Mirror Coat,Psychic,Special,—,100%,20,Beauty,2 ♥♥,Corsola,48
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Corsola,53
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Remoraid,1
+Lock-On,Normal,Status,—,—%,5,Smart,1 ♥,Remoraid,6
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Remoraid,10
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Remoraid,14
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Remoraid,19
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Remoraid,23
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Remoraid,27
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Remoraid,32
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Remoraid,36
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Remoraid,40
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Remoraid,45
+Gunk Shot,Poison,Physical,120,70%,5,Cool,3 ♥♥♥,Octillery,1
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Octillery,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Octillery,1
+Constrict,Normal,Physical,10,100%,35,Tough,0,Octillery,1
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Octillery,1
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Octillery,1
+Constrict,Normal,Physical,10,100%,35,Tough,0,Octillery,6
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Octillery,10
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Octillery,14
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Octillery,19
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Octillery,23
+Octazooka,Water,Special,65,85%,10,Tough,2 ♥♥,Octillery,25
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Octillery,29
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Octillery,36
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Octillery,42
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Octillery,48
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Octillery,55
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Chinchou,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Chinchou,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Chinchou,6
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Chinchou,9
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Chinchou,12
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Chinchou,17
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Chinchou,20
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Chinchou,23
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Chinchou,28
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Chinchou,31
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Chinchou,34
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Chinchou,39
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Chinchou,42
+Charge,Electric,Status,—,—%,20,Smart,0,Chinchou,45
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Lanturn,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Lanturn,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Lanturn,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Lanturn,6
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Lanturn,9
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Lanturn,12
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Lanturn,17
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Lanturn,20
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Lanturn,23
+Stockpile,Normal,Status,—,—%,20,Tough,0,Lanturn,27
+Swallow,Normal,Status,—,—%,10,Tough,0,Lanturn,27
+Spit Up,Normal,Special,—,100%,10,Tough,2 ♥♥,Lanturn,27
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Lanturn,30
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Lanturn,35
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Lanturn,40
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Lanturn,47
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Lanturn,52
+Charge,Electric,Status,—,—%,20,Smart,0,Lanturn,57
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Seel,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Seel,3
+Water Sport,Water,Status,—,—%,15,Cute,2 ♥♥,Seel,7
+Icy Wind,Ice,Special,55,95%,15,Beauty,2 ♥♥,Seel,11
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Seel,13
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Seel,17
+Rest,Psychic,Status,—,—%,10,Cute,0,Seel,21
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Seel,23
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Seel,27
+Aqua Jet,Water,Physical,40,100%,20,Beauty,2 ♥♥,Seel,31
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Seel,33
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Seel,37
+Dive,Water,Physical,80,100%,10,Beauty,1 ♥,Seel,41
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Seel,43
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Seel,47
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Seel,51
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Dewgong,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Dewgong,1
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Dewgong,1
+Icy Wind,Ice,Special,55,95%,15,Beauty,2 ♥♥,Dewgong,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Dewgong,3
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Dewgong,7
+Icy Wind,Ice,Special,55,95%,15,Beauty,2 ♥♥,Dewgong,11
+Encore,Normal,Status,—,100%,5,Cute,1 ♥,Dewgong,13
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Dewgong,17
+Rest,Psychic,Status,—,—%,10,Cute,0,Dewgong,21
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Dewgong,23
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Dewgong,27
+Aqua Jet,Water,Physical,40,100%,20,Beauty,2 ♥♥,Dewgong,31
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Dewgong,33
+Sheer Cold,Ice,Special,—,30%,5,Beauty,0,Dewgong,34
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Dewgong,37
+Dive,Water,Physical,80,100%,10,Beauty,1 ♥,Dewgong,41
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Dewgong,43
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Dewgong,47
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Dewgong,51
+Lick,Ghost,Physical,20,100%,30,Tough,0,Lickitung,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Lickitung,5
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Lickitung,9
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Lickitung,13
+Wrap,Normal,Physical,15,85%,20,Tough,0,Lickitung,17
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Lickitung,21
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Lickitung,25
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Lickitung,29
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Lickitung,33
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Lickitung,37
+Refresh,Normal,Status,—,—%,20,Cute,0,Lickitung,41
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Lickitung,45
+Power Whip,Grass,Physical,120,85%,10,Beauty,3 ♥♥♥,Lickitung,49
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Lickitung,53
+Lick,Ghost,Physical,20,100%,30,Tough,0,Lickilicky,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Lickilicky,5
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Lickilicky,9
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Lickilicky,13
+Wrap,Normal,Physical,15,85%,20,Tough,0,Lickilicky,17
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Lickilicky,21
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Lickilicky,25
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Lickilicky,29
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Lickilicky,33
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Lickilicky,37
+Refresh,Normal,Status,—,—%,20,Cute,0,Lickilicky,41
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Lickilicky,45
+Power Whip,Grass,Physical,120,85%,10,Beauty,3 ♥♥♥,Lickilicky,49
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Lickilicky,53
+Gyro Ball,Steel,Physical,—,100%,5,Beauty,2 ♥♥,Lickilicky,57
+Ingrain,Grass,Status,—,—%,20,Smart,0,Tangela,1
+Constrict,Normal,Physical,10,100%,35,Tough,0,Tangela,1
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Tangela,5
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Tangela,8
+Growth,Normal,Status,—,—%,40,Beauty,0,Tangela,12
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Tangela,15
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Tangela,19
+Bind,Normal,Physical,15,75%,20,Tough,0,Tangela,22
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Tangela,26
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Tangela,29
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Tangela,33
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Tangela,36
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Tangela,40
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Tangela,43
+Tickle,Normal,Status,—,100%,20,Cute,2 ♥♥,Tangela,47
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Tangela,50
+Power Whip,Grass,Physical,120,85%,10,Beauty,3 ♥♥♥,Tangela,54
+Ingrain,Grass,Status,—,—%,20,Smart,0,Tangrowth,1
+Constrict,Normal,Physical,10,100%,35,Tough,0,Tangrowth,1
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Tangrowth,5
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Tangrowth,8
+Growth,Normal,Status,—,—%,40,Beauty,0,Tangrowth,12
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Tangrowth,15
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Tangrowth,19
+Bind,Normal,Physical,15,75%,20,Tough,0,Tangrowth,22
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Tangrowth,26
+Stun Spore,Grass,Status,—,75%,30,Smart,2 ♥♥,Tangrowth,29
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Tangrowth,33
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Tangrowth,36
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Tangrowth,40
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Tangrowth,43
+Tickle,Normal,Status,—,100%,20,Cute,2 ♥♥,Tangrowth,47
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Tangrowth,50
+Power Whip,Grass,Physical,120,85%,10,Beauty,3 ♥♥♥,Tangrowth,54
+Block,Normal,Status,—,—%,5,Cute,2 ♥♥,Tangrowth,57
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Eevee,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Eevee,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Eevee,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Eevee,8
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Eevee,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Eevee,22
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Eevee,29
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Eevee,36
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Eevee,43
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Eevee,50
+Trump Card,Normal,Special,—,—%,5,Cool,0,Eevee,57
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Vaporeon,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Vaporeon,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Vaporeon,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Vaporeon,8
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Vaporeon,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Vaporeon,22
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Vaporeon,29
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Vaporeon,36
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Vaporeon,43
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Vaporeon,50
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Vaporeon,57
+Acid Armor,Poison,Status,—,—%,40,Tough,0,Vaporeon,64
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Vaporeon,71
+Muddy Water,Water,Special,95,85%,10,Tough,2 ♥♥,Vaporeon,78
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Jolteon,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Jolteon,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Jolteon,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Jolteon,8
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Jolteon,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Jolteon,22
+Double Kick,Fighting,Physical,30,100%,30,Cool,2 ♥♥,Jolteon,29
+Pin Missile,Bug,Physical,14,85%,20,Cool,2 ♥♥,Jolteon,36
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Jolteon,43
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Jolteon,50
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Jolteon,57
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Jolteon,64
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Jolteon,71
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Jolteon,78
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Flareon,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Flareon,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Flareon,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Flareon,8
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Flareon,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Flareon,22
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Flareon,29
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Flareon,36
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Flareon,43
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Flareon,50
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Flareon,57
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Flareon,64
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Flareon,71
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Flareon,78
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Espeon,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Espeon,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Espeon,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Espeon,8
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Espeon,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Espeon,22
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Espeon,29
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Espeon,36
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Espeon,43
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Espeon,50
+Psych Up,Normal,Status,—,—%,10,Smart,0,Espeon,57
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Espeon,64
+Morning Sun,Normal,Status,—,—%,5,Beauty,0,Espeon,71
+Power Swap,Psychic,Status,—,—%,10,Beauty,0,Espeon,78
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Umbreon,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Umbreon,1
+Helping Hand,Normal,Status,—,—%,20,Smart,1 ♥,Umbreon,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Umbreon,8
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Umbreon,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Umbreon,22
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Umbreon,29
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Umbreon,36
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Umbreon,43
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Umbreon,50
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Umbreon,57
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Umbreon,64
+Moonlight,Normal,Status,—,—%,5,Beauty,0,Umbreon,71
+Guard Swap,Psychic,Status,—,—%,10,Cute,0,Umbreon,78
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Horsea,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Horsea,4
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Horsea,8
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Horsea,11
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Horsea,14
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Horsea,18
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Horsea,23
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Horsea,26
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Horsea,30
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Horsea,35
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Horsea,38
+Dragon Pulse,Dragon,Special,90,100%,10,Smart,2 ♥♥,Horsea,42
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Seadra,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Seadra,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Seadra,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Seadra,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Seadra,4
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Seadra,8
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Seadra,11
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Seadra,14
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Seadra,18
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Seadra,23
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Seadra,26
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Seadra,30
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Seadra,40
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Seadra,48
+Dragon Pulse,Dragon,Special,90,100%,10,Smart,2 ♥♥,Seadra,57
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Kingdra,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Kingdra,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Kingdra,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kingdra,1
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Kingdra,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Kingdra,4
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kingdra,8
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Kingdra,11
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Kingdra,14
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Kingdra,18
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Kingdra,23
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Kingdra,26
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Kingdra,30
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Kingdra,40
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Kingdra,48
+Dragon Pulse,Dragon,Special,90,100%,10,Smart,2 ♥♥,Kingdra,57
+Poison Sting,Poison,Physical,15,100%,35,Smart,2 ♥♥,Gligar,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Gligar,5
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Gligar,9
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Gligar,12
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Gligar,16
+Fury Cutter,Bug,Physical,10,95%,20,Cool,2 ♥♥,Gligar,20
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Gligar,23
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Gligar,27
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Gligar,31
+Swords Dance,Normal,Status,—,—%,30,Beauty,0,Gligar,34
+U-turn,Bug,Physical,70,100%,20,Cute,0,Gligar,38
+X-Scissor,Bug,Physical,80,100%,15,Beauty,2 ♥♥,Gligar,42
+Guillotine,Normal,Physical,—,30%,5,Cool,0,Gligar,45
+Present,Normal,Physical,—,90%,15,Cute,0,Delibird,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Swinub,1
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Swinub,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Swinub,4
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Swinub,8
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Swinub,13
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Swinub,16
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Swinub,20
+Icy Wind,Ice,Special,55,95%,15,Beauty,2 ♥♥,Swinub,25
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Swinub,28
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Swinub,32
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Swinub,37
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Swinub,40
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Swinub,44
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Swinub,49
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Piloswine,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Piloswine,1
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Piloswine,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Piloswine,1
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Piloswine,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Piloswine,4
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Piloswine,8
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Piloswine,13
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Piloswine,16
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Piloswine,20
+Icy Wind,Ice,Special,55,95%,15,Beauty,2 ♥♥,Piloswine,25
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Piloswine,28
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Piloswine,32
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Piloswine,33
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Piloswine,40
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Piloswine,48
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Piloswine,56
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Piloswine,65
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Mamoswine,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Mamoswine,1
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Mamoswine,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Mamoswine,1
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Mamoswine,1
+Mud Sport,Ground,Status,—,—%,15,Cute,2 ♥♥,Mamoswine,4
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Mamoswine,8
+Mud-Slap,Ground,Special,20,100%,10,Cute,3 ♥♥♥,Mamoswine,13
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Mamoswine,16
+Mud Bomb,Ground,Special,65,85%,10,Smart,2 ♥♥,Mamoswine,20
+Hail,Ice,Status,—,—%,10,Beauty,2 ♥♥,Mamoswine,25
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Mamoswine,28
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Mamoswine,32
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Mamoswine,33
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Mamoswine,40
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Mamoswine,48
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Mamoswine,56
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Mamoswine,65
+Covet,Normal,Physical,40,100%,40,Cute,0,Teddiursa,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Teddiursa,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Teddiursa,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Teddiursa,1
+Fake Tears,Dark,Status,—,100%,20,Smart,2 ♥♥,Teddiursa,1
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Teddiursa,8
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Teddiursa,15
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Teddiursa,22
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Teddiursa,29
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Teddiursa,36
+Rest,Psychic,Status,—,—%,10,Cute,0,Teddiursa,43
+Snore,Normal,Special,40,100%,15,Cute,3 ♥♥♥,Teddiursa,43
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Teddiursa,50
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Teddiursa,57
+Covet,Normal,Physical,40,100%,40,Cute,0,Ursaring,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Ursaring,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Ursaring,1
+Lick,Ghost,Physical,20,100%,30,Tough,0,Ursaring,1
+Fake Tears,Dark,Status,—,100%,20,Smart,2 ♥♥,Ursaring,1
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Ursaring,8
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Ursaring,15
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Ursaring,22
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Ursaring,29
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Ursaring,38
+Rest,Psychic,Status,—,—%,10,Cute,0,Ursaring,47
+Snore,Normal,Special,40,100%,15,Cute,3 ♥♥♥,Ursaring,49
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Ursaring,58
+Hammer Arm,Fighting,Physical,100,90%,10,Cool,2 ♥♥,Ursaring,67
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Phanpy,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Phanpy,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Phanpy,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Phanpy,1
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Phanpy,6
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Phanpy,10
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Phanpy,15
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Phanpy,19
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Phanpy,24
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Phanpy,28
+Charm,Normal,Status,—,100%,20,Cute,2 ♥♥,Phanpy,33
+Last Resort,Normal,Physical,130,100%,5,Cute,0,Phanpy,37
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Phanpy,42
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Donphan,1
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Donphan,1
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Donphan,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Donphan,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Donphan,1
+Flail,Normal,Physical,—,100%,15,Cute,2 ♥♥,Donphan,1
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Donphan,6
+Knock Off,Dark,Physical,20,100%,20,Smart,3 ♥♥♥,Donphan,10
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Donphan,15
+Magnitude,Ground,Physical,—,100%,30,Tough,2 ♥♥,Donphan,19
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Donphan,24
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Donphan,25
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Donphan,31
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Donphan,39
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Donphan,46
+Giga Impact,Normal,Physical,150,90%,5,Beauty,2 ♥♥,Donphan,54
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Mantine,1
+Bullet Seed,Grass,Physical,10,100%,30,Cool,2 ♥♥,Mantine,1
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Mantine,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Mantine,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Mantine,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Mantine,1
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Mantine,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Mantine,4
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Mantine,10
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Mantine,13
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Mantine,19
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Mantine,22
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Mantine,28
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Mantine,31
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Mantine,37
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Mantine,40
+Aqua Ring,Water,Status,—,—%,20,Beauty,0,Mantine,46
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Mantine,49
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Skarmory,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Skarmory,1
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Skarmory,7
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Skarmory,11
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Skarmory,14
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Skarmory,20
+Feint,Normal,Physical,50,100%,10,Beauty,0,Skarmory,20
+Air Cutter,Flying,Special,55,95%,25,Cool,3 ♥♥♥,Skarmory,24
+Spikes,Ground,Status,—,—%,20,Smart,2 ♥♥,Skarmory,28
+Metal Sound,Steel,Status,—,85%,40,Smart,2 ♥♥,Skarmory,33
+Steel Wing,Steel,Physical,70,90%,25,Cool,3 ♥♥♥,Skarmory,38
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Skarmory,40
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Skarmory,46
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Skarmory,50
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Doduo,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Doduo,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Doduo,5
+Rage,Normal,Physical,20,100%,20,Cool,0,Doduo,10
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Doduo,14
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Doduo,19
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Doduo,23
+Acupressure,Normal,Status,—,—%,30,Cool,0,Doduo,28
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Doduo,32
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Doduo,37
+Drill Peck,Flying,Physical,80,100%,20,Cool,3 ♥♥♥,Doduo,41
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Doduo,46
+Pluck,Flying,Physical,60,100%,20,Cute,0,Dodrio,1
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Dodrio,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Dodrio,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Dodrio,1
+Rage,Normal,Physical,20,100%,20,Cool,0,Dodrio,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Dodrio,5
+Rage,Normal,Physical,20,100%,20,Cool,0,Dodrio,10
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Dodrio,14
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Dodrio,19
+Uproar,Normal,Special,50,100%,10,Cute,2 ♥♥,Dodrio,23
+Acupressure,Normal,Status,—,—%,30,Cool,0,Dodrio,28
+Tri Attack,Normal,Special,80,100%,10,Beauty,3 ♥♥♥,Dodrio,34
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Dodrio,41
+Drill Peck,Flying,Physical,80,100%,20,Cool,3 ♥♥♥,Dodrio,47
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Dodrio,54
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Ponyta,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Ponyta,7
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Ponyta,10
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Ponyta,16
+Flame Wheel,Fire,Physical,60,100%,25,Beauty,2 ♥♥,Ponyta,15
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Ponyta,19
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Ponyta,25
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Ponyta,28
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Ponyta,34
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Ponyta,38
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Ponyta,44
+Flare Blitz,Fire,Physical,120,100%,15,Smart,2 ♥♥,Ponyta,48
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Rapidash,1
+Poison Jab,Poison,Physical,80,100%,20,Smart,2 ♥♥,Rapidash,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Rapidash,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Rapidash,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Rapidash,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Rapidash,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Rapidash,7
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Rapidash,10
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Rapidash,16
+Flame Wheel,Fire,Physical,60,100%,25,Beauty,2 ♥♥,Rapidash,15
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Rapidash,19
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Rapidash,25
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Rapidash,28
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Rapidash,34
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Rapidash,38
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Rapidash,40
+Bounce,Flying,Physical,85,85%,5,Cute,1 ♥,Rapidash,49
+Flare Blitz,Fire,Physical,120,100%,15,Smart,2 ♥♥,Rapidash,58
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Cubone,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Cubone,3
+Bone Club,Ground,Physical,65,85%,20,Tough,3 ♥♥♥,Cubone,7
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Cubone,11
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Cubone,13
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Cubone,17
+Bonemerang,Ground,Physical,50,90%,10,Tough,2 ♥♥,Cubone,21
+Rage,Normal,Physical,20,100%,20,Cool,0,Cubone,23
+False Swipe,Normal,Physical,40,100%,40,Cool,0,Cubone,27
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Cubone,31
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Cubone,33
+Bone Rush,Ground,Physical,25,80%,10,Tough,2 ♥♥,Cubone,37
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Cubone,41
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Cubone,43
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Marowak,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Marowak,1
+Bone Club,Ground,Physical,65,85%,20,Tough,3 ♥♥♥,Marowak,1
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Marowak,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Marowak,3
+Bone Club,Ground,Physical,65,85%,20,Tough,3 ♥♥♥,Marowak,7
+Headbutt,Normal,Physical,70,100%,15,Tough,3 ♥♥♥,Marowak,11
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Marowak,13
+Focus Energy,Normal,Status,—,—%,30,Cool,0,Marowak,17
+Bonemerang,Ground,Physical,50,90%,10,Tough,2 ♥♥,Marowak,21
+Rage,Normal,Physical,20,100%,20,Cool,0,Marowak,23
+False Swipe,Normal,Physical,40,100%,40,Cool,0,Marowak,27
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Marowak,33
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Marowak,37
+Bone Rush,Ground,Physical,25,80%,10,Tough,2 ♥♥,Marowak,43
+Endeavor,Normal,Physical,—,100%,5,Tough,2 ♥♥,Marowak,49
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Marowak,53
+Comet Punch,Normal,Physical,18,85%,15,Tough,2 ♥♥,Kangaskhan,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kangaskhan,1
+Fake Out,Normal,Physical,40,100%,10,Cute,2 ♥♥,Kangaskhan,7
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Kangaskhan,10
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Kangaskhan,13
+Mega Punch,Normal,Physical,80,85%,20,Tough,2 ♥♥,Kangaskhan,19
+Rage,Normal,Physical,20,100%,20,Cool,0,Kangaskhan,22
+Dizzy Punch,Normal,Physical,70,100%,10,Cool,0,Kangaskhan,25
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Kangaskhan,31
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Kangaskhan,34
+Outrage,Dragon,Physical,120,100%,15,Cool,2 ♥♥,Kangaskhan,37
+Double Hit,Normal,Physical,35,90%,10,Smart,2 ♥♥,Kangaskhan,43
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Kangaskhan,46
+Reversal,Fighting,Physical,—,100%,15,Cool,2 ♥♥,Kangaskhan,49
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Rhyhorn,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Rhyhorn,1
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Rhyhorn,9
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Rhyhorn,13
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Rhyhorn,21
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Rhyhorn,25
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Rhyhorn,33
+Horn Drill,Normal,Physical,—,30%,5,Cool,0,Rhyhorn,37
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Rhyhorn,45
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Rhyhorn,49
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Rhyhorn,57
+Horn Attack,Normal,Physical,65,100%,25,Cool,3 ♥♥♥,Rhydon,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Rhydon,1
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Rhydon,1
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Rhydon,1
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Rhydon,9
+Fury Attack,Normal,Physical,15,85%,20,Cool,2 ♥♥,Rhydon,13
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Rhydon,21
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Rhydon,25
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Rhydon,33
+Horn Drill,Normal,Physical,—,30%,5,Cool,0,Rhydon,37
+Hammer Arm,Fighting,Physical,100,90%,10,Cool,2 ♥♥,Rhydon,42
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Rhydon,45
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Rhydon,49
+Megahorn,Bug,Physical,120,85%,10,Cool,2 ♥♥,Rhydon,57
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Murkrow,1
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Murkrow,1
+Pursuit,Dark,Physical,40,100%,20,Smart,1 ♥,Murkrow,5
+Haze,Ice,Status,—,—%,30,Beauty,2 ♥♥,Murkrow,11
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Murkrow,15
+Night Shade,Ghost,Special,—,100%,15,Smart,3 ♥♥♥,Murkrow,21
+Assurance,Dark,Physical,50,100%,10,Beauty,2 ♥♥,Murkrow,25
+Taunt,Dark,Status,—,100%,20,Smart,0,Murkrow,31
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Murkrow,35
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Murkrow,41
+Sucker Punch,Dark,Physical,80,100%,5,Smart,2 ♥♥,Murkrow,45
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Houndour,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Houndour,1
+Howl,Normal,Status,—,—%,40,Cool,0,Houndour,4
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Houndour,9
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Houndour,14
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Houndour,17
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Houndour,22
+Beat Up,Dark,Physical,10,100%,10,Smart,2 ♥♥,Houndour,27
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Houndour,30
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Houndour,35
+Embargo,Dark,Status,—,100%,15,Cute,2 ♥♥,Houndour,40
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Houndour,43
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Houndour,48
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Houndour,53
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Houndoom,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Houndoom,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Houndoom,1
+Howl,Normal,Status,—,—%,40,Cool,0,Houndoom,1
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Houndoom,1
+Howl,Normal,Status,—,—%,40,Cool,0,Houndoom,4
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Houndoom,9
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Houndoom,14
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Houndoom,17
+Odor Sleuth,Normal,Status,—,—%,40,Smart,1 ♥,Houndoom,22
+Beat Up,Dark,Physical,10,100%,10,Smart,2 ♥♥,Houndoom,28
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Houndoom,32
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Houndoom,38
+Embargo,Dark,Status,—,100%,15,Cute,2 ♥♥,Houndoom,44
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Houndoom,48
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Houndoom,54
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Houndoom,60
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Slugma,1
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Slugma,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Slugma,8
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Slugma,11
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Slugma,16
+Recover,Normal,Status,—,—%,10,Smart,0,Slugma,23
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Slugma,26
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Slugma,31
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Slugma,38
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Slugma,41
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Slugma,46
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Slugma,53
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Slugma,56
+Smog,Poison,Special,20,70%,20,Tough,3 ♥♥♥,Magcargo,1
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Magcargo,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Magcargo,1
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Magcargo,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Magcargo,8
+Rock Throw,Rock,Physical,50,90%,15,Tough,3 ♥♥♥,Magcargo,11
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Magcargo,16
+Recover,Normal,Status,—,—%,10,Smart,0,Magcargo,23
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Magcargo,26
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Magcargo,31
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Magcargo,40
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Magcargo,45
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Magcargo,52
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Magcargo,61
+Earth Power,Ground,Special,90,100%,10,Smart,2 ♥♥,Magcargo,66
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Sneasel,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Sneasel,1
+Taunt,Dark,Status,—,100%,20,Smart,0,Sneasel,1
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Sneasel,8
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Sneasel,10
+Faint Attack,Dark,Physical,60,—%,20,Smart,2 ♥♥,Sneasel,14
+Fury Swipes,Normal,Physical,18,80%,15,Tough,2 ♥♥,Sneasel,21
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Sneasel,24
+Icy Wind,Ice,Special,55,95%,15,Beauty,2 ♥♥,Sneasel,28
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Sneasel,35
+Beat Up,Dark,Physical,10,100%,10,Smart,2 ♥♥,Sneasel,38
+Metal Claw,Steel,Physical,50,95%,35,Cool,2 ♥♥,Sneasel,42
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Sneasel,49
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Misdreavus,1
+Psywave,Psychic,Special,—,80%,15,Smart,3 ♥♥♥,Misdreavus,1
+Spite,Ghost,Status,—,100%,10,Tough,2 ♥♥,Misdreavus,5
+Astonish,Ghost,Physical,30,100%,15,Smart,3 ♥♥♥,Misdreavus,10
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Misdreavus,14
+Mean Look,Normal,Status,—,—%,5,Beauty,2 ♥♥,Misdreavus,19
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Misdreavus,23
+Pain Split,Normal,Status,—,—%,20,Smart,2 ♥♥,Misdreavus,28
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Misdreavus,32
+Shadow Ball,Ghost,Special,80,100%,15,Smart,2 ♥♥,Misdreavus,37
+Perish Song,Normal,Status,—,—%,5,Beauty,2 ♥♥,Misdreavus,41
+Grudge,Ghost,Status,—,—%,5,Tough,2 ♥♥,Misdreavus,46
+Power Gem,Rock,Special,70,100%,20,Beauty,3 ♥♥♥,Misdreavus,50
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Porygon,1
+Sharpen,Normal,Status,—,—%,30,Cute,0,Porygon,1
+Conversion,Normal,Status,—,—%,30,Beauty,1 ♥,Porygon,1
+Conversion 2,Normal,Status,—,—%,30,Beauty,1 ♥,Porygon,1
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Porygon,7
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Porygon,12
+Recover,Normal,Status,—,—%,10,Smart,0,Porygon,18
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Porygon,23
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Porygon,29
+Recycle,Normal,Status,—,—%,10,Smart,0,Porygon,34
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Porygon,40
+Lock-On,Normal,Status,—,—%,5,Smart,1 ♥,Porygon,45
+Tri Attack,Normal,Special,80,100%,10,Beauty,3 ♥♥♥,Porygon,51
+Magic Coat,Psychic,Status,—,—%,15,Beauty,2 ♥♥,Porygon,56
+Zap Cannon,Electric,Special,120,50%,5,Cool,2 ♥♥,Porygon,62
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Porygon2,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Porygon2,1
+Conversion,Normal,Status,—,—%,30,Beauty,1 ♥,Porygon2,1
+Conversion 2,Normal,Status,—,—%,30,Beauty,1 ♥,Porygon2,1
+Psybeam,Psychic,Special,65,100%,20,Beauty,2 ♥♥,Porygon2,7
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Porygon2,12
+Recover,Normal,Status,—,—%,10,Smart,0,Porygon2,18
+Magnet Rise,Electric,Status,—,—%,10,Cute,2 ♥♥,Porygon2,23
+Signal Beam,Bug,Special,75,100%,15,Beauty,2 ♥♥,Porygon2,29
+Recycle,Normal,Status,—,—%,10,Smart,0,Porygon2,34
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Porygon2,40
+Lock-On,Normal,Status,—,—%,5,Smart,1 ♥,Porygon2,45
+Tri Attack,Normal,Special,80,100%,10,Beauty,3 ♥♥♥,Porygon2,51
+Magic Coat,Psychic,Status,—,—%,15,Beauty,2 ♥♥,Porygon2,56
+Zap Cannon,Electric,Special,120,50%,5,Cool,2 ♥♥,Porygon2,62
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Porygon2,67
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Chansey,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Chansey,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Chansey,5
+Refresh,Normal,Status,—,—%,20,Cute,0,Chansey,9
+Softboiled,Normal,Status,—,—%,10,Beauty,0,Chansey,12
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Chansey,16
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Chansey,20
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Chansey,23
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Chansey,27
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Chansey,31
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Chansey,34
+Egg Bomb,Normal,Physical,100,75%,10,Tough,3 ♥♥♥,Chansey,38
+Healing Wish,Psychic,Status,—,—%,10,Cute,0,Chansey,42
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Chansey,46
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Blissey,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Blissey,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Blissey,5
+Refresh,Normal,Status,—,—%,20,Cute,0,Blissey,9
+Softboiled,Normal,Status,—,—%,10,Beauty,0,Blissey,12
+DoubleSlap,Normal,Physical,15,85%,10,Tough,2 ♥♥,Blissey,16
+Minimize,Normal,Status,—,—%,20,Cute,2 ♥♥,Blissey,20
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Blissey,23
+Fling,Dark,Physical,—,100%,10,Tough,1 ♥,Blissey,27
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Blissey,31
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Blissey,34
+Egg Bomb,Normal,Physical,100,75%,10,Tough,3 ♥♥♥,Blissey,38
+Healing Wish,Psychic,Status,—,—%,10,Cute,0,Blissey,42
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Blissey,46
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Lapras,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Lapras,1
+Sing,Normal,Status,—,55%,15,Cute,2 ♥♥,Lapras,1
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Lapras,4
+Confuse Ray,Ghost,Status,—,100%,10,Smart,2 ♥♥,Lapras,7
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Lapras,10
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Lapras,14
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Lapras,18
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Lapras,22
+Perish Song,Normal,Status,—,—%,5,Beauty,2 ♥♥,Lapras,27
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Lapras,32
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Lapras,37
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Lapras,43
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Lapras,49
+Sheer Cold,Ice,Special,—,30%,5,Beauty,0,Lapras,55
+Constrict,Normal,Physical,10,100%,35,Tough,0,Omanyte,1
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Omanyte,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Omanyte,7
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Omanyte,10
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Omanyte,16
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Omanyte,19
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Omanyte,25
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Omanyte,28
+Protect,Normal,Status,—,—%,10,Cute,0,Omanyte,34
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Omanyte,37
+Tickle,Normal,Status,—,100%,20,Cute,2 ♥♥,Omanyte,43
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Omanyte,46
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Omanyte,52
+Constrict,Normal,Physical,10,100%,35,Tough,0,Omastar,1
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Omastar,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Omastar,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Omastar,7
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Omastar,10
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Omastar,16
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Omastar,19
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Omastar,25
+Brine,Water,Special,65,100%,10,Smart,2 ♥♥,Omastar,28
+Protect,Normal,Status,—,—%,10,Cute,0,Omastar,34
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Omastar,37
+Spike Cannon,Normal,Physical,20,100%,15,Cool,2 ♥♥,Omastar,40
+Tickle,Normal,Status,—,100%,20,Cute,2 ♥♥,Omastar,48
+Rock Blast,Rock,Physical,25,80%,10,Tough,2 ♥♥,Omastar,56
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Omastar,67
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Kabuto,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Kabuto,1
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Kabuto,6
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kabuto,11
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Kabuto,16
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Kabuto,21
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Kabuto,26
+Aqua Jet,Water,Physical,40,100%,20,Beauty,2 ♥♥,Kabuto,31
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Kabuto,36
+Metal Sound,Steel,Status,—,85%,40,Smart,2 ♥♥,Kabuto,41
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Kabuto,46
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Kabuto,51
+Feint,Normal,Physical,50,100%,10,Beauty,0,Kabutops,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Kabutops,1
+Harden,Normal,Status,—,—%,30,Tough,2 ♥♥,Kabutops,1
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Kabutops,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kabutops,1
+Absorb,Grass,Special,20,100%,25,Smart,1 ♥,Kabutops,6
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Kabutops,11
+Mud Shot,Ground,Special,55,95%,15,Tough,2 ♥♥,Kabutops,16
+Sand-Attack,Ground,Status,—,100%,15,Cute,2 ♥♥,Kabutops,21
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Kabutops,26
+Aqua Jet,Water,Physical,40,100%,20,Beauty,2 ♥♥,Kabutops,31
+Mega Drain,Grass,Special,40,100%,15,Smart,1 ♥,Kabutops,36
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Kabutops,40
+Metal Sound,Steel,Status,—,85%,40,Smart,2 ♥♥,Kabutops,45
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Kabutops,54
+Wring Out,Normal,Special,—,100%,5,Smart,2 ♥♥,Kabutops,63
+Night Slash,Dark,Physical,70,100%,15,Beauty,3 ♥♥♥,Kabutops,72
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Aerodactyl,1
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Aerodactyl,1
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Aerodactyl,1
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Aerodactyl,1
+Supersonic,Normal,Status,—,55%,20,Smart,2 ♥♥,Aerodactyl,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Aerodactyl,1
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Aerodactyl,1
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Aerodactyl,9
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Aerodactyl,17
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Aerodactyl,25
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Aerodactyl,33
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Aerodactyl,41
+Iron Head,Steel,Physical,80,100%,15,Tough,2 ♥♥,Aerodactyl,49
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Aerodactyl,57
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Aerodactyl,65
+Giga Impact,Normal,Physical,150,90%,5,Beauty,2 ♥♥,Aerodactyl,73
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Snorlax,1
+Defense Curl,Normal,Status,—,—%,40,Cute,2 ♥♥,Snorlax,4
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Snorlax,9
+Lick,Ghost,Physical,20,100%,30,Tough,0,Snorlax,12
+Belly Drum,Normal,Status,—,—%,10,Cute,0,Snorlax,17
+Yawn,Normal,Status,—,—%,10,Cute,2 ♥♥,Snorlax,20
+Rest,Psychic,Status,—,—%,10,Cute,0,Snorlax,25
+Snore,Normal,Special,40,100%,15,Cute,3 ♥♥♥,Snorlax,28
+Sleep Talk,Normal,Status,—,—%,10,Cute,3 ♥♥♥,Snorlax,28
+Body Slam,Normal,Physical,85,100%,15,Tough,3 ♥♥♥,Snorlax,33
+Block,Normal,Status,—,—%,5,Cute,2 ♥♥,Snorlax,36
+Rollout,Rock,Physical,30,90%,20,Tough,2 ♥♥,Snorlax,41
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Snorlax,44
+Giga Impact,Normal,Physical,150,90%,5,Beauty,2 ♥♥,Snorlax,49
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Bulbasaur,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Bulbasaur,3
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Bulbasaur,7
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Bulbasaur,9
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Bulbasaur,13
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Bulbasaur,13
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Bulbasaur,15
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Bulbasaur,19
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Bulbasaur,21
+Growth,Normal,Status,—,—%,40,Beauty,0,Bulbasaur,25
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Bulbasaur,27
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Bulbasaur,31
+Synthesis,Grass,Status,—,—%,5,Smart,0,Bulbasaur,33
+Seed Bomb,Grass,Physical,80,100%,15,Smart,3 ♥♥♥,Bulbasaur,37
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Ivysaur,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Ivysaur,1
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Ivysaur,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Ivysaur,3
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Ivysaur,7
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Ivysaur,9
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Ivysaur,13
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Ivysaur,13
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Ivysaur,15
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Ivysaur,20
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Ivysaur,23
+Growth,Normal,Status,—,—%,40,Beauty,0,Ivysaur,28
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Ivysaur,31
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Ivysaur,36
+Synthesis,Grass,Status,—,—%,5,Smart,0,Ivysaur,39
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Ivysaur,44
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Venusaur,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Venusaur,1
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Venusaur,1
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Venusaur,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Venusaur,3
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Venusaur,7
+Vine Whip,Grass,Physical,35,100%,15,Cool,3 ♥♥♥,Venusaur,9
+PoisonPowder,Poison,Status,—,75%,35,Smart,2 ♥♥,Venusaur,13
+Sleep Powder,Grass,Status,—,75%,15,Smart,2 ♥♥,Venusaur,13
+Take Down,Normal,Physical,90,85%,20,Tough,3 ♥♥♥,Venusaur,15
+Razor Leaf,Grass,Physical,55,95%,25,Cool,3 ♥♥♥,Venusaur,20
+Sweet Scent,Normal,Status,—,100%,20,Cute,2 ♥♥,Venusaur,23
+Growth,Normal,Status,—,—%,40,Beauty,0,Venusaur,28
+Double-Edge,Normal,Physical,120,100%,15,Tough,0,Venusaur,31
+Petal Dance,Grass,Special,90,100%,20,Beauty,0,Venusaur,32
+Worry Seed,Grass,Status,—,100%,10,Beauty,2 ♥♥,Venusaur,39
+Synthesis,Grass,Status,—,—%,5,Smart,0,Venusaur,45
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Venusaur,53
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Charmander,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Charmander,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Charmander,7
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Charmander,10
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Charmander,16
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Charmander,19
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Charmander,25
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Charmander,28
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Charmander,34
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Charmander,37
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Charmeleon,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Charmeleon,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Charmeleon,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Charmeleon,7
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Charmeleon,10
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Charmeleon,17
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Charmeleon,21
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Charmeleon,28
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Charmeleon,32
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Charmeleon,39
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Charmeleon,43
+Dragon Claw,Dragon,Physical,80,100%,15,Cool,2 ♥♥,Charizard,1
+Shadow Claw,Ghost,Physical,70,100%,15,Cute,2 ♥♥,Charizard,1
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Charizard,1
+Scratch,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Charizard,1
+Growl,Normal,Status,—,100%,40,Cute,2 ♥♥,Charizard,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Charizard,1
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Charizard,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Charizard,7
+SmokeScreen,Normal,Status,—,100%,20,Smart,2 ♥♥,Charizard,10
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Charizard,17
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Charizard,21
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Charizard,28
+Slash,Normal,Physical,70,100%,20,Cool,3 ♥♥♥,Charizard,32
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Charizard,36
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Charizard,42
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Charizard,49
+Heat Wave,Fire,Special,100,90%,10,Beauty,2 ♥♥,Charizard,59
+Flare Blitz,Fire,Physical,120,100%,15,Smart,2 ♥♥,Charizard,66
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Squirtle,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Squirtle,4
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Squirtle,7
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Squirtle,10
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Squirtle,13
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Squirtle,16
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Squirtle,19
+Protect,Normal,Status,—,—%,10,Cute,0,Squirtle,22
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Squirtle,25
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Squirtle,28
+Skull Bash,Normal,Physical,100,100%,15,Tough,1 ♥,Squirtle,31
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Squirtle,34
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Squirtle,37
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Squirtle,40
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Wartortle,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Wartortle,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Wartortle,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Wartortle,4
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Wartortle,7
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Wartortle,10
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Wartortle,13
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Wartortle,16
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Wartortle,20
+Protect,Normal,Status,—,—%,10,Cute,0,Wartortle,24
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Wartortle,28
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Wartortle,32
+Skull Bash,Normal,Physical,100,100%,15,Tough,1 ♥,Wartortle,36
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Wartortle,40
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Wartortle,44
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Wartortle,48
+Flash Cannon,Steel,Special,80,100%,10,Smart,2 ♥♥,Blastoise,1
+Tackle,Normal,Physical,35,95%,35,Tough,3 ♥♥♥,Blastoise,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Blastoise,1
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Blastoise,1
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Blastoise,1
+Tail Whip,Normal,Status,—,100%,30,Cute,2 ♥♥,Blastoise,4
+Bubble,Water,Special,20,100%,30,Cute,2 ♥♥,Blastoise,7
+Withdraw,Water,Status,—,—%,40,Cute,2 ♥♥,Blastoise,10
+Water Gun,Water,Special,40,100%,25,Cute,3 ♥♥♥,Blastoise,13
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Blastoise,16
+Rapid Spin,Normal,Physical,20,100%,40,Cool,2 ♥♥,Blastoise,20
+Protect,Normal,Status,—,—%,10,Cute,0,Blastoise,24
+Water Pulse,Water,Special,60,100%,20,Beauty,2 ♥♥,Blastoise,28
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Blastoise,32
+Skull Bash,Normal,Physical,100,100%,15,Tough,1 ♥,Blastoise,39
+Iron Defense,Steel,Status,—,—%,15,Tough,2 ♥♥,Blastoise,46
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Blastoise,53
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Blastoise,60
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Articuno,1
+Powder Snow,Ice,Special,40,100%,25,Beauty,3 ♥♥♥,Articuno,1
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Articuno,8
+Ice Shard,Ice,Physical,40,100%,30,Beauty,2 ♥♥,Articuno,15
+Mind Reader,Normal,Status,—,—%,5,Smart,1 ♥,Articuno,22
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Articuno,29
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Articuno,36
+Ice Beam,Ice,Special,95,100%,10,Beauty,2 ♥♥,Articuno,43
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Articuno,50
+Roost,Flying,Status,—,—%,10,Cool,0,Articuno,57
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Articuno,64
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Articuno,71
+Sheer Cold,Ice,Special,—,30%,5,Beauty,0,Articuno,78
+Hail,Ice,Status,—,—%,10,Beauty,2 ♥♥,Articuno,85
+Peck,Flying,Physical,35,100%,35,Cool,3 ♥♥♥,Zapdos,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Zapdos,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Zapdos,8
+Detect,Fighting,Status,—,—%,5,Cool,0,Zapdos,15
+Pluck,Flying,Physical,60,100%,20,Cute,0,Zapdos,22
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Zapdos,29
+Charge,Electric,Status,—,—%,20,Smart,0,Zapdos,36
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Zapdos,43
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Zapdos,50
+Roost,Flying,Status,—,—%,10,Cool,0,Zapdos,57
+Light Screen,Psychic,Status,—,—%,30,Beauty,2 ♥♥,Zapdos,64
+Drill Peck,Flying,Physical,80,100%,20,Cool,3 ♥♥♥,Zapdos,71
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Zapdos,78
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Zapdos,85
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Moltres,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Moltres,1
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Moltres,8
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Moltres,15
+Endure,Normal,Status,—,—%,10,Tough,2 ♥♥,Moltres,22
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Moltres,29
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Moltres,36
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Moltres,43
+Air Slash,Flying,Special,75,95%,20,Cool,2 ♥♥,Moltres,50
+Roost,Flying,Status,—,—%,10,Cool,0,Moltres,57
+Heat Wave,Fire,Special,100,90%,10,Beauty,2 ♥♥,Moltres,64
+SolarBeam,Grass,Special,120,100%,10,Cool,1 ♥,Moltres,71
+Sky Attack,Flying,Physical,140,90%,5,Cool,1 ♥,Moltres,78
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Moltres,85
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Raikou,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Raikou,1
+ThunderShock,Electric,Special,40,100%,30,Cool,3 ♥♥♥,Raikou,8
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Raikou,15
+Quick Attack,Normal,Physical,40,100%,30,Cool,2 ♥♥,Raikou,22
+Spark,Electric,Physical,65,100%,20,Cool,3 ♥♥♥,Raikou,29
+Reflect,Psychic,Status,—,—%,20,Smart,2 ♥♥,Raikou,36
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Raikou,43
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Raikou,50
+Discharge,Electric,Special,80,100%,15,Cool,2 ♥♥,Raikou,57
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Raikou,64
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Raikou,71
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Raikou,78
+Thunder,Electric,Special,120,70%,10,Cool,2 ♥♥,Raikou,85
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Entei,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Entei,1
+Ember,Fire,Special,40,100%,25,Beauty,3 ♥♥♥,Entei,8
+Roar,Normal,Status,—,100%,20,Cool,2 ♥♥,Entei,15
+Fire Spin,Fire,Special,15,70%,15,Beauty,0,Entei,22
+Stomp,Normal,Physical,65,100%,20,Tough,3 ♥♥♥,Entei,29
+Flamethrower,Fire,Special,95,100%,15,Beauty,2 ♥♥,Entei,36
+Swagger,Normal,Status,—,90%,15,Cute,2 ♥♥,Entei,43
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Entei,50
+Lava Plume,Fire,Special,80,100%,15,Tough,2 ♥♥,Entei,57
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Entei,64
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Entei,71
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Entei,78
+Eruption,Fire,Special,150,100%,5,Beauty,2 ♥♥,Entei,85
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Suicune,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Suicune,1
+BubbleBeam,Water,Special,65,100%,20,Beauty,2 ♥♥,Suicune,8
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Suicune,15
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Suicune,22
+Aurora Beam,Ice,Special,65,100%,20,Beauty,2 ♥♥,Suicune,29
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Suicune,36
+Mirror Coat,Psychic,Special,—,100%,20,Beauty,2 ♥♥,Suicune,43
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Suicune,50
+Tailwind,Flying,Status,—,—%,30,Smart,2 ♥♥,Suicune,57
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Suicune,64
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Suicune,71
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Suicune,78
+Blizzard,Ice,Special,120,70%,5,Beauty,2 ♥♥,Suicune,85
+Wrap,Normal,Physical,15,85%,20,Tough,0,Dratini,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Dratini,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Dratini,5
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Dratini,11
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Dratini,15
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Dratini,21
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Dratini,25
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Dratini,31
+Dragon Rush,Dragon,Physical,100,75%,10,Cool,2 ♥♥,Dratini,35
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Dratini,41
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Dratini,45
+Outrage,Dragon,Physical,120,100%,15,Cool,2 ♥♥,Dratini,51
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Dratini,55
+Wrap,Normal,Physical,15,85%,20,Tough,0,Dragonair,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Dragonair,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Dragonair,1
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Dragonair,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Dragonair,5
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Dragonair,11
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Dragonair,15
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Dragonair,21
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Dragonair,25
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Dragonair,33
+Dragon Rush,Dragon,Physical,100,75%,10,Cool,2 ♥♥,Dragonair,39
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Dragonair,47
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Dragonair,53
+Outrage,Dragon,Physical,120,100%,15,Cool,2 ♥♥,Dragonair,61
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Dragonair,67
+Fire Punch,Fire,Physical,75,100%,15,Beauty,2 ♥♥,Dragonite,1
+ThunderPunch,Electric,Physical,75,100%,15,Cool,2 ♥♥,Dragonite,1
+Roost,Flying,Status,—,—%,10,Cool,0,Dragonite,1
+Wrap,Normal,Physical,15,85%,20,Tough,0,Dragonite,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Dragonite,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Dragonite,1
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Dragonite,1
+Thunder Wave,Electric,Status,—,100%,20,Cool,2 ♥♥,Dragonite,5
+Twister,Dragon,Special,40,100%,20,Cool,3 ♥♥♥,Dragonite,11
+Dragon Rage,Dragon,Special,—,100%,10,Cool,3 ♥♥♥,Dragonite,15
+Slam,Normal,Physical,80,75%,20,Tough,3 ♥♥♥,Dragonite,21
+Agility,Psychic,Status,—,—%,30,Cool,2 ♥♥,Dragonite,25
+Aqua Tail,Water,Physical,90,90%,10,Cute,3 ♥♥♥,Dragonite,33
+Dragon Rush,Dragon,Physical,100,75%,10,Cool,2 ♥♥,Dragonite,39
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Dragonite,47
+Dragon Dance,Dragon,Status,—,—%,20,Cool,0,Dragonite,53
+Wing Attack,Flying,Physical,60,100%,35,Cool,3 ♥♥♥,Dragonite,55
+Outrage,Dragon,Physical,120,100%,15,Cool,2 ♥♥,Dragonite,64
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Dragonite,73
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Larvitar,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Larvitar,1
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Larvitar,5
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Larvitar,10
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Larvitar,14
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Larvitar,19
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Larvitar,23
+Dark Pulse,Dark,Special,80,100%,15,Cool,2 ♥♥,Larvitar,28
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Larvitar,32
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Larvitar,37
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Larvitar,41
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Larvitar,46
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Larvitar,50
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Pupitar,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Pupitar,1
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Pupitar,1
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Pupitar,1
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Pupitar,5
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Pupitar,10
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Pupitar,14
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Pupitar,19
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Pupitar,23
+Dark Pulse,Dark,Special,80,100%,15,Cool,2 ♥♥,Pupitar,28
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Pupitar,34
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Pupitar,41
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Pupitar,47
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Pupitar,54
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Pupitar,60
+Fire Fang,Fire,Physical,65,95%,15,Beauty,3 ♥♥♥,Tyranitar,1
+Ice Fang,Ice,Physical,65,95%,15,Cool,3 ♥♥♥,Tyranitar,1
+Thunder Fang,Electric,Physical,65,95%,15,Smart,3 ♥♥♥,Tyranitar,1
+Bite,Dark,Physical,60,100%,25,Tough,3 ♥♥♥,Tyranitar,1
+Leer,Normal,Status,—,100%,30,Cool,2 ♥♥,Tyranitar,1
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Tyranitar,1
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Tyranitar,1
+Sandstorm,Rock,Status,—,—%,10,Tough,2 ♥♥,Tyranitar,5
+Screech,Normal,Status,—,85%,40,Smart,2 ♥♥,Tyranitar,10
+Rock Slide,Rock,Physical,75,90%,10,Tough,3 ♥♥♥,Tyranitar,14
+Scary Face,Normal,Status,—,90%,10,Tough,2 ♥♥,Tyranitar,19
+Thrash,Normal,Physical,90,100%,20,Tough,2 ♥♥,Tyranitar,23
+Dark Pulse,Dark,Special,80,100%,15,Cool,2 ♥♥,Tyranitar,28
+Payback,Dark,Physical,50,100%,10,Cool,1 ♥,Tyranitar,34
+Crunch,Dark,Physical,80,100%,15,Tough,2 ♥♥,Tyranitar,41
+Earthquake,Ground,Physical,100,100%,10,Tough,2 ♥♥,Tyranitar,47
+Stone Edge,Rock,Physical,100,80%,5,Tough,2 ♥♥,Tyranitar,54
+Hyper Beam,Normal,Special,150,90%,5,Cool,2 ♥♥,Tyranitar,70
+Weather Ball,Normal,Special,50,100%,10,Smart,2 ♥♥,Lugia,1
+Whirlwind,Normal,Status,—,100%,20,Smart,0,Lugia,1
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Lugia,65
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Lugia,15
+Dragon Rush,Dragon,Physical,100,75%,10,Cool,2 ♥♥,Lugia,15
+Recover,Normal,Status,—,—%,10,Smart,0,Lugia,71
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Lugia,65
+Hydro Pump,Water,Special,120,80%,5,Beauty,2 ♥♥,Lugia,37
+Rain Dance,Water,Status,—,—%,5,Tough,2 ♥♥,Lugia,37
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Lugia,43
+Aeroblast,Flying,Special,100,95%,5,Cool,2 ♥♥,Lugia,85
+Punishment,Dark,Physical,—,100%,5,Smart,1 ♥,Lugia,71
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Lugia,85
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Lugia,57
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Lugia,79
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Lugia,93
+Sky Attack,Flying,Physical,140,90%,5,Cool,1 ♥,Lugia,99
+Weather Ball,Normal,Special,50,100%,10,Smart,2 ♥♥,Ho-Oh,1
+Whirlwind,Normal,Status,—,100%,20,Smart,0,Ho-Oh,1
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Ho-Oh,65
+Gust,Flying,Special,40,100%,35,Smart,3 ♥♥♥,Ho-Oh,15
+Brave Bird,Flying,Physical,120,100%,15,Cute,2 ♥♥,Ho-Oh,15
+Recover,Normal,Status,—,—%,10,Smart,0,Ho-Oh,71
+Extrasensory,Psychic,Special,80,100%,30,Cool,2 ♥♥,Ho-Oh,65
+Fire Blast,Fire,Special,120,85%,5,Beauty,2 ♥♥,Ho-Oh,37
+Sunny Day,Fire,Status,—,—%,5,Beauty,2 ♥♥,Ho-Oh,37
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Ho-Oh,43
+Sacred Fire,Fire,Physical,100,95%,5,Beauty,2 ♥♥,Ho-Oh,85
+Punishment,Dark,Physical,—,100%,5,Smart,1 ♥,Ho-Oh,71
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Ho-Oh,85
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Ho-Oh,57
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Ho-Oh,79
+Calm Mind,Psychic,Status,—,—%,20,Smart,0,Ho-Oh,93
+Sky Attack,Flying,Physical,140,90%,5,Cool,1 ♥,Ho-Oh,99
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Mewtwo,1
+Disable,Normal,Status,—,80%,20,Smart,2 ♥♥,Mewtwo,1
+Barrier,Psychic,Status,—,—%,30,Cool,2 ♥♥,Mewtwo,8
+Swift,Normal,Special,60,—%,20,Cool,2 ♥♥,Mewtwo,15
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Mewtwo,22
+Psych Up,Normal,Status,—,—%,10,Smart,0,Mewtwo,29
+Miracle Eye,Psychic,Status,—,—%,40,Cute,1 ♥,Mewtwo,36
+Mist,Ice,Status,—,—%,30,Beauty,2 ♥♥,Mewtwo,43
+Psycho Cut,Psychic,Physical,70,100%,20,Cool,2 ♥♥,Mewtwo,50
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Mewtwo,57
+Power Swap,Psychic,Status,—,—%,10,Beauty,0,Mewtwo,64
+Guard Swap,Psychic,Status,—,—%,10,Cute,0,Mewtwo,64
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Mewtwo,71
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Mewtwo,79
+Recover,Normal,Status,—,—%,10,Smart,0,Mewtwo,86
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Mewtwo,93
+Aura Sphere,Fighting,Special,90,—%,20,Beauty,2 ♥♥,Mewtwo,100
+Pound,Normal,Physical,40,100%,35,Tough,3 ♥♥♥,Mew,1
+Transform,Normal,Status,—,—%,10,Smart,1 ♥,Mew,1
+Mega Punch,Normal,Physical,80,85%,20,Tough,2 ♥♥,Mew,10
+Metronome,Normal,Status,—,—%,10,Cute,2 ♥♥,Mew,20
+Psychic,Psychic,Special,90,100%,10,Smart,2 ♥♥,Mew,30
+Barrier,Psychic,Status,—,—%,30,Cool,2 ♥♥,Mew,40
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Mew,50
+Amnesia,Psychic,Status,—,—%,20,Cute,0,Mew,60
+Me First,Normal,Status,—,—%,20,Cute,2 ♥♥,Mew,70
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Mew,80
+Nasty Plot,Dark,Status,—,—%,20,Cute,0,Mew,90
+Aura Sphere,Fighting,Special,90,—%,20,Beauty,2 ♥♥,Mew,100
+Leech Seed,Grass,Status,—,90%,10,Smart,0,Celebi,1
+Confusion,Psychic,Special,50,100%,25,Smart,3 ♥♥♥,Celebi,1
+Recover,Normal,Status,—,—%,10,Smart,0,Celebi,1
+Heal Bell,Normal,Status,—,—%,5,Beauty,0,Celebi,1
+Safeguard,Normal,Status,—,—%,25,Beauty,2 ♥♥,Celebi,10
+Magical Leaf,Grass,Special,60,—%,20,Beauty,2 ♥♥,Celebi,19
+AncientPower,Rock,Special,60,100%,5,Tough,2 ♥♥,Celebi,28
+Baton Pass,Normal,Status,—,—%,40,Cute,0,Celebi,37
+Natural Gift,Normal,Physical,—,100%,15,Cool,2 ♥♥,Celebi,46
+Heal Block,Psychic,Status,—,100%,15,Cute,2 ♥♥,Celebi,55
+Future Sight,Psychic,Special,80,90%,15,Smart,2 ♥♥,Celebi,64
+Healing Wish,Psychic,Status,—,—%,10,Cute,0,Celebi,73
+Leaf Storm,Grass,Special,140,90%,5,Cute,2 ♥♥,Celebi,82
+Perish Song,Normal,Status,—,—%,5,Beauty,2 ♥♥,Celebi,91

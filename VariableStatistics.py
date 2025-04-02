@@ -37,7 +37,6 @@ geodude_moves = {
     "Roll Out": roll_out
 }
 
-
 cyndi = Pokemon("Cyndi", cyndaquil, cyndi_moves)
 chiko = Pokemon("Chiko", chikorita, chiko_moves)
 toto = Pokemon("Toto", totodile, toto_moves)
@@ -61,12 +60,10 @@ team2 = {
 trainer1 = Trainer("Trainer_1", team1, [])
 trainer2 = Trainer("Trainer_2", team2, [])
 
-
 def pokemon_to_dict(pokemon_object: Pokemon) -> dict:
     pokemon_name = pokemon_object.pokemon_name
     pokemon_specie = pokemon_object.pokemon_specie
     pokemon_moves = []
-    pokemon_starter = pokemon_object.starter
     for name in pokemon_object.pokemon_moves.keys():
         pokemon_moves.append(name)
     pokemon_stats = pokemon_object.pokemon_stats
@@ -170,6 +167,10 @@ chiko = dict_of_pokemons["Chiko"]
 toto = dict_of_pokemons["Toto"]
 ratta1 = dict_of_pokemons["Ratta1"]
 ratta2 = dict_of_pokemons["Ratta2"]
+hoot1 = dict_of_pokemons["Hoot1"]
+hoot2 = dict_of_pokemons["Hoot2"]
+geo1 = dict_of_pokemons["Geo1"]
+geo2 = dict_of_pokemons["Geo2"]
 
 if __name__ == "__main__":
     pass

@@ -67,8 +67,8 @@ ember = Move("Ember", 45, fire, "Special")
 water_gun = Move("Water Gun", 40, water, "Special")
 razor_leaf = Move("Razor Leaf", 45, grass, "Physical")
 tackle = Move("Tackle", 40, normal, "Physical")
-roll_out = Move("Roll Out", 35, "Physical")
-peck = Move("Peck", 35, "Physical")
+roll_out = Move("Roll Out", 35, rock, "Physical")
+peck = Move("Peck", 35, flying,"Physical")
 
 cyndaquil_stats = {
     "Attack": 52,
