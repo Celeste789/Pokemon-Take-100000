@@ -1,4 +1,124 @@
-0,1,2
+Pokemon,Evolution Method,Evolved
+Bulbasaur,Level 16 →,Ivysaur
+Ivysaur,Level 32 →,Venusaur
+Charmander,Level 16 →,Charmeleon
+Charmeleon,Level 36 →,Charizard
+Squirtle,Level 16 →,Wartortle
+Wartortle,Level 36 →,Blastoise
+Caterpie,Level 7 →,Metapod
+Metapod,Level 10 →,Butterfree
+Weedle,Level 7 →,Kakuna
+Kakuna,Level 10 →,Beedrill
+Pidgey,Level 18 →,Pidgeotto
+Pidgeotto,Level 36 →,Pidgeot
+Rattata,Level 20 →,Raticate
+Spearow,Level 20 →,Fearow
+Ekans,Level 22 →,Arbok
+Pichu,Friendship →,Pikachu
+Pikachu,Thunder Stone →,Raichu
+Pichu,Friendship →,Pikachu
+Sandshrew,Level 22 →,Sandslash
+Nidoran♀,Level 16 →,Nidorina
+Nidorina,Moon Stone →,Nidoqueen
+Nidoran♂,Level 16 →,Nidorino
+Nidorino,Moon Stone →,Nidoking
+Cleffa,Friendship →,Clefairy
+Clefairy,Moon Stone →,Clefable
+Vulpix,Fire Stone →,Ninetales
+Igglybuff,Friendship →,Jigglypuff
+Jigglypuff,Moon Stone →,Wigglytuff
+Zubat,Level 22 →,Golbat
+Golbat,Friendship →,Crobat
+Oddish,Level 21 →,Gloom
+Gloom,Leaf Stone →,Vileplume
+Oddish,Level 21 →,Gloom
+Gloom,Sun Stone →,Bellossom
+Paras,Level 24 →,Parasect
+Venonat,Level 31 →,Venomoth
+Diglett,Level 26 →,Dugtrio
+Meowth,Level 28 →,Persian
+Meowth (Galarian),Level 28 →,Perrserker
+Psyduck,Level 33 →,Golduck
+Mankey,Level 28 →,Primeape
+Primeape,Use Rage Fist 20 times →,Annihilape
+Growlithe,Fire Stone →,Arcanine
+Growlithe (Hisuian),Fire Stone →,Arcanine (Hisuian)
+Poliwag,Level 25 →,Poliwhirl
+Poliwhirl,Water Stone →,Poliwrath
+Poliwag,Level 25 →,Poliwhirl
+Poliwhirl,Trade holding King's Rock →,Politoed
+Abra,Level 16 →,Kadabra
+Kadabra,Trade →,Alakazam
+Machop,Level 28 →,Machoke
+Machoke,Trade →,Machamp
+Bellsprout,Level 21 →,Weepinbell
+Weepinbell,Leaf Stone →,Victreebel
+Tentacool,Level 30 →,Tentacruel
+Geodude,Level 25 →,Graveler
+Graveler,Trade →,Golem
+Ponyta,Level 40 →,Rapidash
+Ponyta (Galarian),Level 40 →,Rapidash (Galarian)
+Slowpoke,Level 37 →,Slowbro
+Slowpoke,Trade holding King's Rock →,Slowking (Johtonian)
+Slowpoke (Galarian),Galarica Cuff →,Slowbro (Galarian)
+Slowpoke (Galarian),Galarica Wreath →,Slowking (Galarian)
+Magnemite,Level 30 →,Magneton
+Magneton,Level up in a special magnetic field; Thunder StoneVIII+ →,Magnezone
+Farfetch'd (Galarian),Land 3 critical hits in a single battle →,Sirfetch'd
+Doduo,Level 31 →,Dodrio
+Seel,Level 34 →,Dewgong
+Grimer,Level 38 →,Muk
+Shellder,Water Stone →,Cloyster
+Gastly,Level 25 →,Haunter
+Haunter,Trade →,Gengar
+Onix,Trade holding Metal Coat →,Steelix
+Drowzee,Level 26 →,Hypno
+Krabby,Level 28 →,Kingler
+Voltorb,Level 30 →,Electrode
+Voltorb (Hisuian),Leaf Stone →,Electrode (Hisuian)
+Exeggcute,Leaf Stone →,Exeggutor
+Cubone,Level 28 →,Marowak
+Tyrogue,Level 20 (Attack > Defense) →,Hitmonlee
+Tyrogue,Level 20 (Attack < Defense) →,Hitmonchan
+Tyrogue,Level 20 (Attack = Defense) →,Hitmontop
+Lickitung,Level up knowing Rollout →,Lickilicky
+Koffing,Level 35 →,Weezing
+Koffing,Level 35 (Galar) →,Weezing (Galarian)
+Rhyhorn,Level 42 →,Rhydon
+Rhydon,Trade holding Protector →,Rhyperior
+Happiny,Level up holding Oval Stone (day) →,Chansey
+Chansey,Friendship →,Blissey
+Tangela,Level up knowing Ancient Power →,Tangrowth
+Horsea,Level 32 →,Seadra
+Seadra,Trade holding Dragon Scale →,Kingdra
+Goldeen,Level 33 →,Seaking
+Staryu,Water Stone →,Starmie
+Mime Jr.,Level up knowing Mimic →,Mr. Mime
+Mime Jr.,Level up knowing Mimic (Galar) →,Mr. Mime (Galarian)
+Mr. Mime (Galarian),Level 42 →,Mr. Rime
+Scyther,Trade holding Metal Coat →,Scizor
+Scyther,Black Augurite (Hisui) →,Kleavor
+Smoochum,Level 30 →,Jynx
+Elekid,Level 30 →,Electabuzz
+Electabuzz,Trade holding Electirizer →,Electivire
+Magby,Level 30 →,Magmar
+Magmar,Trade holding Magmarizer →,Magmortar
+Magikarp,Level 20 →,Gyarados
+Eevee,Water Stone →,Vaporeon
+Eevee,Thunder Stone →,Jolteon
+Eevee,Fire Stone →,Flareon
+Eevee,Friendship (day); Level up with Sun ShardXD →,Espeon
+Eevee,Friendship (night); Level up with Moon ShardXD →,Umbreon
+Eevee,Level up near Moss Rock; Leaf StoneVIII+ →,Leafeon
+Eevee,Level up near Ice Rock; Ice StoneSwShLASV →,Glaceon
+Eevee,Level up with a Fairy-type move and either two hearts of affection or high friendshipSwShLASV →,Sylveon
+Porygon,Trade holding Upgrade →,Porygon2
+Porygon2,Trade holding Dubious Disc →,Porygon-Z
+Omanyte,Level 40 →,Omastar
+Kabuto,Level 40 →,Kabutops
+Munchlax,Friendship →,Snorlax
+Dratini,Level 30 →,Dragonair
+Dragonair,Level 55 →,Dragonite
 Chikorita,Level 16 →,Bayleef
 Bayleef,Level 32 →,Meganium
 Cyndaquil,Level 14/17LA →,Quilava

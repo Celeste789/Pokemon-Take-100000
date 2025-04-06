@@ -1,60 +1,27 @@
 from Type import Type
 from Move import Move
 from Specie import Specie
+import PokemonDFFinal as pdf
 
-type_effectiveness_fire = {
-    "Water": 2,
-    "Fire": 1 / 2,
-    "Grass": 1 / 2,
-    "Normal": 1,
-    "Rock": 2,
-    "Flying": 1
-}
+type_effectiveness_dict_of_dicts = pdf.dict_of_dicts_type_final
 
-type_effectiveness_water = {
-    "Water": 1 / 2,
-    "Fire": 1 / 2,
-    "Grass": 2,
-    "Normal": 1,
-    "Rock": 1,
-    "Flying": 1
-}
+type_effectiveness_fire = type_effectiveness_dict_of_dicts['Fire']
+type_effectiveness_water = type_effectiveness_dict_of_dicts['Water']
+type_effectiveness_grass = type_effectiveness_dict_of_dicts['Grass']
+type_effectiveness_flying = type_effectiveness_dict_of_dicts['Flying']
+type_effectiveness_electric = type_effectiveness_dict_of_dicts['Electric']
+type_effectiveness_poison = type_effectiveness_dict_of_dicts['Poison']
+type_effectiveness_ice = type_effectiveness_dict_of_dicts['Ice']
+type_effectiveness_fighting = type_effectiveness_dict_of_dicts['Fighting']
+type_effectiveness_psychic = type_effectiveness_dict_of_dicts['Psychic']
+type_effectiveness_ground = type_effectiveness_dict_of_dicts['Ground']
+type_effectiveness_rock = type_effectiveness_dict_of_dicts['Rock']
+type_effectiveness_bug = type_effectiveness_dict_of_dicts['Bug']
+type_effectiveness_ghost = type_effectiveness_dict_of_dicts['Ghost']
+type_effectiveness_dragon = type_effectiveness_dict_of_dicts['Dragon']
+type_effectiveness_steel = type_effectiveness_dict_of_dicts['Steel']
+type_effectiveness_normal = type_effectiveness_dict_of_dicts['Normal']
 
-type_effectiveness_grass = {
-    "Water": 1 / 2,
-    "Fire": 2,
-    "Grass": 1 / 2,
-    "Normal": 1,
-    "Rock": 1,
-    "Flying": 2
-}
-
-type_effectiveness_normal = {
-    "Water": 1,
-    "Fire": 1,
-    "Grass": 1,
-    "Normal": 1,
-    "Flying": 1,
-    "Rock": 1
-}
-
-type_effectiveness_flying = {
-    "Water": 1,
-    "Fire": 1,
-    "Grass": 1/2,
-    "Rock": 2,
-    "Flying": 1/2,
-    "Normal": 1
-
-}
-
-type_effectiveness_rock = {
-    "Water": 2,
-    "Fire": 1,
-    "Grass": 2,
-    "Normal": 1/2,
-    "Flying": 1/2,
-}
 
 fire = Type("Fire", type_effectiveness_fire)
 water = Type("Water", type_effectiveness_water)
@@ -62,6 +29,18 @@ grass = Type("Grass", type_effectiveness_grass)
 normal = Type("Normal", type_effectiveness_normal)
 rock = Type("Rock", type_effectiveness_rock)
 flying = Type("Flying", type_effectiveness_flying)
+electric = Type("Electric", type_effectiveness_electric)
+bug = Type("Bug", type_effectiveness_bug)
+steel = Type("Steel", type_effectiveness_steel)
+ghost = Type("Ghost", type_effectiveness_ghost)
+dragon = Type("Dragon", type_effectiveness_dragon)
+psychic = Type("Psychic", type_effectiveness_psychic)
+ground = Type("Ground", type_effectiveness_ground)
+poison = Type("Poison", type_effectiveness_poison)
+ice = Type("Ice", type_effectiveness_ice)
+fighting = Type("Fighting", type_effectiveness_fighting)
+
+
 
 ember = Move("Ember", 45, fire, "Special")
 water_gun = Move("Water Gun", 40, water, "Special")

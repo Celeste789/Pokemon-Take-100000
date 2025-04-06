@@ -5,7 +5,6 @@ Created on Fri Jan 17 12:55:00 2025
 @author: Celeste
 """
 
-
 class Trainer:
     def __init__(self, name, team, potions):
         self.trainer_name = name

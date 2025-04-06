@@ -6,9 +6,7 @@ Created on Fri Jan 17 21:02:51 2025
 """
 
 import tkinter as tk
-
 from GameRound import *
-from History import History
 
 screen = tk.Tk()
 screen.geometry("400x400")
@@ -69,7 +67,7 @@ class PokemonCentre(tk.Frame):
         super().__init__(controller.master)
         controller.master.geometry("600x400")
     # coming soon
-        lbl_something = tk.Label(self, text="Something")
+        lbl_something = tk.Label(self, text="Coming soon")
         lbl_something.pack()
         btn_back = tk.Button(self, text="Go to Welcome Screen", command=lambda: controller.change(WelcomeScreen))
         btn_back.pack()
@@ -355,4 +353,5 @@ def main():
     screen.mainloop()
 
 
-main()
+if __name__ == "__main__":
+    main()
