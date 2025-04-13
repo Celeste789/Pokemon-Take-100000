@@ -24,7 +24,13 @@ feda_learnset_df.head(3)
 #%%
 list_of_dict_move = []
 for index, move in feda_learnset_df.iterrows():
-    dict_move = {"Move": move["Move"], "Power": move["Pwr."], "Type": move["Type"], "Category": move["Cat."]}
+    dict_move = {"Move": move["Move"],
+                 "Power": move["Pwr."],
+                 "Type": move["Type"],
+                 "Category": move["Cat."],
+                 "Accuracy": move["Acc."],
+                 "PP": move["PP"],
+                 "Lvl": move["level"]}
     list_of_dict_move.append(dict_move)
 for move in list_of_dict_move:
     print(move)
@@ -33,7 +39,10 @@ def dictionary_to_move(move_dictionary):
     move = Move(name=move_dictionary["Move"],
                 power=move_dictionary["Power"],
                 category=move_dictionary["Category"],
-                move_type=move_dictionary["Type"])
+                move_type=move_dictionary["Type"],
+                accuracy=move_dictionary["Accuracy"],
+                pp=move_dictionary["PP"],
+                lvl=move_dictionary["Lvl"])
     return move
 list_of_moves = []
 for move_dict in list_of_dict_move:
@@ -42,21 +51,41 @@ for move_dict in list_of_dict_move:
 for move in list_of_moves:
     print(move.move_name, move.move_power)
 #%%
-list_of_dict_specie = []
+dict_of_dicts_specie = {}
 for index, specie in pokemon_df_aux_cleaned.iterrows():
-    stats_dict = {"Attack": specie["Attack"], "Defense": specie["Defense"], "Speed": specie["Speed"], "Special Defense": specie["Sp.Def"], "Special Attack": specie["Sp.Atk"]}
-    dict_specie = {"Specie Name":specie["Name"], "Specie Type1": specie["Primary Type"], "Specie Type2": specie["Secondary Type"], "Specie Learnset": {}, "Specie BYE": specie["base_experience"], "Starter": specie["Starter"], "Specie HP": specie["HP"], "Specie Stats": stats_dict}
-    list_of_dict_specie.append(dict_specie)
-print(len(list_of_dict_specie))
-for specie in list_of_dict_specie:
-    print(specie)
+    stats_dict = {"Attack": specie["Attack"],
+                  "Defense": specie["Defense"],
+                  "Speed": specie["Speed"],
+                  "Special Defense": specie["Sp.Def"],
+                  "Special Attack": specie["Sp.Atk"]}
+    dict_specie = {"Specie Name":specie["Name"],
+                   "Specie Type1": specie["Primary Type"],
+                   "Specie Type2": specie["Secondary Type"],
+                   "Specie Learnset": {},
+                   "Specie BYE": specie["base_experience"],
+                   "Starter": specie["Starter"],
+                   "Specie HP": specie["HP"],
+                   "Specie Stats": stats_dict,
+                   "Stats Total": specie["Total"]
+                   }
+    dict_of_dicts_specie[specie["Name"]] = dict_specie
+for name, specie in dict_of_dicts_specie.items():
+    print(name, specie)
 #%%
 def dictionary_to_specie(specie_dictionary):
-    specie = Specie(name=specie_dictionary["Specie Name"], specie_type1=specie_dictionary["Specie Type1"], specie_type2=specie_dictionary["Specie Type2"], learnset=specie_dictionary["Specie Learnset"], BYE=specie_dictionary["Specie BYE"], hp=specie_dictionary["Specie HP"], stats=specie_dictionary["Specie Stats"], starter=specie_dictionary["Starter"])
+    specie = Specie(name=specie_dictionary["Specie Name"],
+                    specie_type1=specie_dictionary["Specie Type1"],
+                    specie_type2=specie_dictionary["Specie Type2"],
+                    learnset=specie_dictionary["Specie Learnset"],
+                    BYE=specie_dictionary["Specie BYE"],
+                    hp=specie_dictionary["Specie HP"],
+                    stats=specie_dictionary["Specie Stats"],
+                    starter=specie_dictionary["Starter"],
+                    total_stats=specie_dictionary["Stats Total"])
     return specie
 
 list_of_species = []
-for specie_dict in list_of_dict_specie:
+for _, specie_dict in dict_of_dicts_specie.items():
     specie = dictionary_to_specie(specie_dict)
     list_of_species.append(specie)
 for specie in list_of_species:
@@ -70,9 +99,12 @@ for index, move in feda_learnset_df.iterrows():
     cyndaquil_moves_df = feda_learnset_df[feda_learnset_df["Pokemon Name"] == "Cyndaquil"]
     for _, move in cyndaquil_moves_df.iterrows():
         move_cyndaquil = Move(name=move["Move"],
-                            power=move["Pwr."],
-                            category=move["Cat."],
-                            move_type=move["Type"])
+                              power=move["Pwr."],
+                              move_type=move["Type"],
+                              category=move["Cat."],
+                              pp=move["PP"],
+                              accuracy=move["Acc."],
+                              lvl=move["level"])
         list_of_moves_cyndaquil.append(move_cyndaquil)
 for move in list_of_moves_cyndaquil:
     print(move.move_name)
@@ -86,8 +118,11 @@ for _, row in pokemon_df_aux_cleaned.iterrows():
     for _, dict_move in moves_df.iterrows():
         move = Move(name=dict_move["Move"],
                     power=dict_move["Pwr."],
+                    move_type=dict_move["Type"],
                     category=dict_move["Cat."],
-                    move_type=dict_move["Type"])
+                    accuracy=dict_move['Acc.'],
+                    pp=dict_move['PP'],
+                    lvl=dict_move['level'])
         list_of_moves_not_dicts.append(move)
     pokemon_move_dict[specie_name] = list_of_moves_not_dicts
     dict_of_dicts_pokemon_moves[specie_name] = pokemon_move_dict
@@ -103,6 +138,12 @@ for specie in list_of_species:
     for move in specie.specie_learnset:
         name = move.move_name
         print(specie.specie_name, name)
+
+dict_of_dicts_species_class = {}
+for specie in list_of_species:
+    dict_of_dicts_species_class[specie.specie_name] = specie
+for name, specie in dict_of_dicts_species_class.items():
+    print(name, specie)
 #%%
 type_effectiveness_df = pd.read_csv('data frames/chart.csv')
 type_effectiveness_df
@@ -138,4 +179,8 @@ for key, value in dict_of_dicts_type_final.items():
     for key_aux, value_aux in value.items():
         print(
             f"  {key_aux}: {value_aux}")
+#%%
+
+#%%
+
 #%%

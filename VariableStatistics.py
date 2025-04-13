@@ -5,8 +5,8 @@ Created on Wed Jan 15 15:36:59 2025
 @author: Celeste
 """
 import json
+import StaticsStatistics
 
-from StaticsStatistics import *
 from Pokemon import Pokemon
 from Trainer import Trainer
 
@@ -85,13 +85,14 @@ def pokemon_to_dict(pokemon_object: Pokemon) -> dict:
     return dic
 
 
-def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
+def dict_to_pokemon(pokemon_dic: dict) -> Pokemon:
     pokemon_name = pokemon_dic["Name"]
-    pokemon_specie = species_dict[pokemon_dic["Specie"]]
-    pokemon_moves_aux = pokemon_dic["Moves"]
-    pokemon_moves = {}
-    for move_name in pokemon_moves_aux:
-        pokemon_moves[move_name] = moves_dict[move_name]
+    pokemon_specie = StaticsStatistics.dict_of_dicts_species_class[pokemon_dic["Specie"]]
+    # pokemon_moves_aux = pokemon_dic["Moves"]
+    # pokemon_moves = {}
+    # for move_name in pokemon_moves_aux:
+    #     pokemon_moves[move_name] = Move(name=move_name,
+    #                                     )
     pokemon_stats = pokemon_dic["Stats"]
     pokemon_lvl = pokemon_dic["Lvl"]
     pokemon_exp = pokemon_dic["Exp"]
@@ -107,21 +108,21 @@ def dic_to_pokemon(pokemon_dic: dict) -> Pokemon:
                    pokemon_fainted)
 
 
-def team_to_dict(team: dict) -> dict:
+def team_to_dict(team: specie_it) -> specie_it:
     final_dict = {}
     for name, pokemon in team:
         final_dict[name] = pokemon_to_dict(pokemon)
     return final_dict
 
 
-def dict_to_team(team_dict: dict) -> dict:
+def dict_to_team(team_dict: specie_it) -> specie_it:
     final_team = {}
     for name, pokemon_dict in team_dict:
-        final_team[name] = dic_to_pokemon(pokemon_dict)
+        final_team[name] = dict_to_pokemon(pokemon_dict)
     return final_team
 
 
-def trainer_to_dict(trainer: Trainer) -> dict:
+def trainer_to_dict(trainer: Trainer) -> specie_it:
     final_dict = {}
     trainer_name = trainer.trainer_name
     trainer_team = team_to_dict(trainer.trainer_team)
@@ -131,7 +132,7 @@ def trainer_to_dict(trainer: Trainer) -> dict:
     final_dict["Potions"] = trainer_potions
 
 
-def trainer_dict_to_trainer(trainer_dict: dict) -> Trainer:
+def trainer_dict_to_trainer(trainer_dict: specie_it) -> Trainer:
     trainer_name = trainer_dict["Name"]
     trainer_team = dict_to_team(trainer_dict["Team"])
     trainer_potions = trainer_dict["Potions"]
@@ -155,7 +156,7 @@ with open('teams.json', 'r') as f:
 list_of_pokemon = []
 
 for dictionary in pokemon_dicts_read:
-    pokemon = dic_to_pokemon(dictionary)
+    pokemon = dict_to_pokemon(dictionary)
     list_of_pokemon.append(pokemon)
 
 dict_of_pokemons = {}

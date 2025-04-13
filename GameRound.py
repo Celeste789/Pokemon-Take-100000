@@ -15,7 +15,7 @@ history = History()
 
 
 class GameRound:
-    def __init__(self):
+    def __init__(self, battle_lvl = 1):
         self.trainer1_game = VariableStatistics.trainer1
         self.trainer2_game = VariableStatistics.trainer2
 
@@ -36,6 +36,8 @@ class GameRound:
         self.list_pokemon_participants_team2 = []
 
         self.list_pokemon_leveled_up = []
+
+        self.battle_level = battle_lvl
 
     def selected_pokemon1_setter(self, pokemon_name):
         self.selected_pokemon1 = self.trainer1_game.trainer_team[pokemon_name]
@@ -77,6 +79,9 @@ class GameRound:
         # 5
         move1 = self.selected_move1
         move2 = self.selected_move2
+
+        battle_lvl_up_flag = True
+
         # 6
         if pokemon2.pokemon_specie.specie_stats["Speed"] > pokemon1.pokemon_specie.specie_stats["Speed"]:
             pokemon_aux = pokemon1
@@ -121,14 +126,24 @@ class GameRound:
             if self.pokemon_loser in self.trainer1_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team2)
                 for pokemon in self.list_pokemon_participants_team2:
+                    pokemon_lvl_before = pokemon.pokemon_lvl
                     self.add_exp(exp_for_each, pokemon)
-                    self.list_pokemon_leveled_up.append(pokemon)
+                    if pokemon.pokemon_lvl > pokemon_lvl_before:
+                        self.list_pokemon_leveled_up.append(pokemon)
+                    if pokemon.pokemon_lvl <= (self.battle_level + 1) ** 3:
+                        battle_lvl_up_flag = False
             # 17
             elif self.pokemon_loser in self.trainer2_game.trainer_team.values():
                 exp_for_each = self.exp_formula(self.pokemon_loser) / len(self.list_pokemon_participants_team1)
                 for pokemon in self.list_pokemon_participants_team1:
+                    pokemon_lvl_before = pokemon.pokemon_lvl
                     self.add_exp(exp_for_each, pokemon)
-                    self.list_pokemon_leveled_up.append(pokemon)
+                    if pokemon.pokemon_lvl > pokemon_lvl_before:
+                        self.list_pokemon_leveled_up.append(pokemon)
+                    if pokemon.pokemon_lvl <= (self.battle_level + 1) ** 3:
+                        battle_lvl_up_flag = False
+            if battle_lvl_up_flag:
+                self.battle_level += 1
         self.save_team_to_json(team1, 'save_team_1.json')
         self.save_team_to_json(team2, 'save_team_2.json')
         # 18
